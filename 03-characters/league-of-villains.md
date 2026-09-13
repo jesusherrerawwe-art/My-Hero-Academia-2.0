@@ -374,7 +374,7 @@ Re-Destro — seeing in Shigaraki the perfect embodiment of liberation — **sub
 | **Chronostasis** (Hari Kurono) | Chronostasis | Slows a target by striking them with his clock-hand-shaped hair |
 | **Mimic** (Joi Irinaka) | Mimicry | Merges with and controls the Hassaikai's underground labyrinth |
 | **The Nomu** | Engineered Quirks | Corpses modified by Garaki to obey a single command. **High-End Nomu** are intelligent, self-regenerating, and capable of speech. |
-| **Hood** | High-End Nomu | The Regeneration-type Nomu Endeavor destroys in Jaku City, Season 5 |
+| **Hood** | High-End Nomu | The Regeneration-type Nomu Endeavor destroys in Jaku City with Hawks' help, Season 5 |
 | **Destro** (Chikara Yotsubashi) | Stress | Historical founder of the Meta Liberation Army; Re-Destro's ancestor |
 
 ---

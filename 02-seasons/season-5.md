@@ -44,7 +44,7 @@ Class 1-A and Class 1-B finally settle their rivalry in a formal **Joint Trainin
 
 During the final round, Midoriya's One For All begins behaving badly. A new Quirk — **Blackwhip** — erupts from him without warning and nearly kills everyone nearby. It is not his. It belonged to one of the eight previous holders, and Midoriya is now able to reach it. The **vestiges** of the previous users make contact with him and warn him: One For All has been stockpiling not only power but Quirks, and the accumulated power is becoming something neither he nor All Might understands.
 
-Meanwhile, Endeavor takes Midoriya, Bakugo and Shoto on a work-study at his agency. The three of them fight a **High-End Nomu** named Hood in Jaku City, and Endeavor defeats it — earning, for the first time, public belief that he might be a No. 1 Hero worth having. At home, the Todoroki family has dinner together for the first time in years, and Natsuo finally says what he has never said.
+Meanwhile, Endeavor takes Midoriya, Bakugo and Shoto on a work-study at his agency. Together with **Hawks**, they fight a **High-End Nomu** named Hood in Jaku City, and Endeavor brings it down — earning, for the first time, public belief that he might be a No. 1 Hero worth having. At home, the Todoroki family has dinner together for the first time in years, and Natsuo finally says what he has never said.
 
 Then the season turns to the villains.
 
@@ -150,7 +150,7 @@ Midoriya, Bakugo and Todoroki are assigned to **Endeavor's agency**. It is a del
 
 During a routine patrol in Jaku City, the three students and Endeavor encounter a **High-End Nomu** — a Nomu with multiple Quirks and enough intelligence to speak and to adapt. This one is called **Hood**.
 
-Hood regenerates from every injury and overwhelms Endeavor, Hawks and the students alike. Endeavor wins with **Prominence Burn**, his ultimate technique — a concentrated pillar of flame that incinerates Hood's regeneration faster than it can rebuild.
+Hood regenerates from every injury and overwhelms Endeavor, Hawks and the students alike. Endeavor realises that Super Regeneration will keep rebuilding the body for as long as the head survives — Hood even tears its own head off to escape a full-body Prominence Burn. **Hawks' feathers supply the speed and lift for the final approach**, and Endeavor burns the Nomu from the inside out with a ***PLUS ULTRA* Prominence Burn**, destroying the head and ending the regeneration for good.
 
 The fight is broadcast. For the first time since Kamino, the public sees a hero win decisively and unambiguously. Endeavor is, briefly, believed in.
 

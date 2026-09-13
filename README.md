@@ -92,13 +92,13 @@ Notable inclusions: the full **Hero Billboard Chart JP** top ten, all four **Met
 
 ### [5. Power Tier Lists →](05-tier-lists/README.md)
 
-Two separate rankings — male and female characters — assessing **peak power across the full series**, with heroes and villains ranked together.
+Two separate rankings — male and female characters — assessing **peak power across the full series**, with heroes and villains ranked together. **136 characters** in total.
 
-| List | Page |
-|---|---|
-| **Methodology** — criteria, exclusions, tier definitions | [→](05-tier-lists/README.md) |
-| **Tier List — Boys** | [→](05-tier-lists/tier-list-boys.md) |
-| **Tier List — Girls** | [→](05-tier-lists/tier-list-girls.md) |
+| List | Page | Count |
+|---|---|---|
+| **Methodology** — criteria, exclusions, tier definitions | [→](05-tier-lists/README.md) | — |
+| **Tier List — Boys** | [→](05-tier-lists/tier-list-boys.md) | 96 |
+| **Tier List — Girls** | [→](05-tier-lists/tier-list-girls.md) | 40 |
 
 Every tier entry includes a written justification. Both lists close with observations about what the rankings reveal — including an honest note about **why tier lists are a poor fit for this series**, since control Quirks like Erasure and Brainwashing systematically defeat opponents far above their tier.
 
