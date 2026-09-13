@@ -253,7 +253,7 @@ Re-Destro — seeing in Shigaraki the perfect embodiment of liberation — **sub
 | Villain | Quirk | Notes |
 |---|---|---|
 | **Muscular** (Goto Imatsuji) | Muscle Augmentation | Murdered Kota Izumi's parents; defeated by Midoriya at 1,000,000% |
-| **Moonfish** | Teeth | Extends bladed teeth; cripples Aizawa's leg during the Training Camp |
+| **Moonfish** | Teeth | Extends bladed teeth; severely injures Aizawa during the Forest Training Camp |
 | **Mustard** | Gas | Flooded the training camp with sleeping gas |
 | **Chronostasis** | Chronostasis | Slows a target by hitting them with a clock-hand weapon |
 | **Mimic** | Mimicry | Merges with and controls the Hassaikai's underground labyrinth |

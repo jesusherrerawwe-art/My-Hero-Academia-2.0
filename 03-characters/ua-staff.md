@@ -48,7 +48,9 @@ His defining philosophy is **rationality as care**. He expels students who lack 
 
 **Backstory.** Aizawa lost his close friend **Oboro Shirakumo** while they were students. Shirakumo's body was later used by Doctor Garaki to create **Kurogiri**, the League of Villains' warp-gate Nomu. Aizawa spends years not knowing this. When he learns it in Season 5, and later confronts the residual personality inside Kurogiri, it becomes one of the most emotionally devastating threads in the series.
 
-**Forest Training Camp.** He fights Moonfish and the Vanguard Action Squad to protect his students and loses an eye permanently. He continues teaching.
+**Forest Training Camp (Season 3).** He fights Moonfish and the rest of the Vanguard Action Squad alone, through the forest, to keep them away from his students. He is beaten systematically — arms broken, body badly burned and cut — and is hospitalised for weeks. He recovers and returns to teaching.
+
+> **A common misconception.** Aizawa does *not* lose his eye or his leg in Season 3. That happens considerably later, during the **Paranormal Liberation War** (Season 6): Shigaraki strikes him with a Quirk-erasing bullet, Aizawa amputates his own leg to stop the drug spreading, and Shigaraki claws out his right eye. He subsequently uses a prosthetic leg and an eyepatch, and his Erasure is left effectively unusable.
 
 ---
 

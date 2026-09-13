@@ -1,6 +1,6 @@
 # Season 5 (2021)
 
-*"Tenko Shimura: Origin."*
+*"I am the one who will break you."*
 
 ---
 
@@ -10,168 +10,324 @@
 |---|---|
 | **Episodes** | 25 (numbered 89–113) |
 | **Original broadcast** | March 27 – September 25, 2021 |
-| **Manga chapters adapted** | 191–257 |
-| **Arcs covered** | Joint Training · Endeavor Agency · Meta Liberation Army · Paranormal Liberation War (opening) |
+| **Japanese network** | NNS (ytv) |
+| **Manga chapters adapted** | ~190–258 |
+| **Studio** | Bones |
+| **Director** | Kenji Nagasaki |
+| **Arcs covered** | Joint Training · Endeavor Agency · Paranormal Liberation War (opening) · Meta Liberation Army |
+| **Saga** | Rise of Villains |
 
-Season 5 is structurally the most ambitious of the five. It runs three arcs in parallel, gives the villains their own full arc for the first time, and ends with both sides fully mobilised for total war.
+Season 5 is the series' structural experiment and its most divisive. Two of its four arcs are told from the villains' point of view, one of them almost entirely. It is the season that finally explains **who Tomura Shigaraki is** — and, in doing so, explains why the League of Villains was never really about crime.
+
+---
+
+## ⚠️ A Note on Broadcast Order
+
+Season 5 does **not** follow the manga's arc order. In the manga, the Meta Liberation Army arc (chapters 218–240) comes *before* the Endeavor Agency arc (chapters 241–252). The anime reversed them, airing Endeavor Agency first.
+
+| | Manga order | Anime order |
+|---|---|---|
+| 1 | Joint Training (194–217) | Joint Training (eps. 89–100) |
+| 2 | **Meta Liberation Army (218–240)** | **Endeavor Agency (eps. 101–106)** |
+| 3 | **Endeavor Agency (241–252)** | **Meta Liberation Army (eps. 108–112)** |
+| 4 | Paranormal Liberation War (253–306) | PLW opening (eps. 107 & 113) |
+
+The reordering works dramatically: it lets the season end on Shigaraki's origin and the formation of the Paranormal Liberation Front — the largest cliffhanger available — rather than on the Todoroki family drama. But it means manga readers and anime-only viewers experienced Season 5 in genuinely different orders, and it caused a great deal of confusion at the time.
+
+Episode 107, *"More of a Hero Than Anyone,"* belongs to the **Paranormal Liberation War** arc (adapting chapters 253–255) even though it aired between the Endeavor Agency and Meta Liberation Army episodes.
+
+---
+
+## Synopsis
+
+Class 1-A and Class 1-B finally settle their rivalry in a formal **Joint Training Battle**, five rounds of four-on-four capture matches held in Ground Gamma. The exercise is also an audition for **Hitoshi Shinso**, the General Studies student whose Brainwash Quirk nearly cost Midoriya the Sports Festival, and who has spent a year training in secret to transfer into the Hero Course.
+
+During the final round, Midoriya's One For All begins behaving badly. A new Quirk — **Blackwhip** — erupts from him without warning and nearly kills everyone nearby. It is not his. It belonged to one of the eight previous holders, and Midoriya is now able to reach it. The **vestiges** of the previous users make contact with him and warn him: One For All has been stockpiling not only power but Quirks, and the accumulated power is becoming something neither he nor All Might understands.
+
+Meanwhile, Endeavor takes Midoriya, Bakugo and Shoto on a work-study at his agency. The three of them fight a **High-End Nomu** named Hood in Jaku City, and Endeavor defeats it — earning, for the first time, public belief that he might be a No. 1 Hero worth having. At home, the Todoroki family has dinner together for the first time in years, and Natsuo finally says what he has never said.
+
+Then the season turns to the villains.
+
+The League, hunted and destitute, is attacked by the **Meta Liberation Army** — an organisation of over one hundred thousand members who believe Quirks should be legally unrestricted. The League wins, but only just, and the two groups merge into the **Paranormal Liberation Front** with Shigaraki as its supreme leader.
+
+Woven through the fighting is the complete origin of **Tenko Shimura**: the grandson of Nana Shimura, All Might's mentor. A boy whose father beat him for wanting to be a hero, whose Quirk manifested without warning, and who decayed his own family and his own neighbourhood before he was old enough to understand what he had done. All For One found him in the street and raised him.
+
+The season ends with **Aizawa and Present Mic discovering that Kurogiri's body contains the remains of their dead classmate, Oboro Shirakumo** — and with the Paranormal Liberation Front mobilising for total war.
 
 ---
 
 ## Arc-by-Arc Breakdown
 
-### 1. Joint Training Arc — Episodes 89–100
+### 1. Vestiges — Episodes 89–90 (chapters ~190–193)
 
-**What happens:** Class 1-A and Class 1-B face each other in five **5-on-5 combat matches** supervised by Aizawa and Vlad King, with All Might observing. The purpose is to test the students' ability to work as coordinated teams rather than individual fighters.
+Class 1-A prepares for the Joint Training. **Hitoshi Shinso** is added to the roster — he will fight for both classes, one team each, as a demonstration of whether he deserves to transfer into the Hero Course.
 
-**Hitoshi Shinso**, the General Studies student from the Sports Festival, participates on Class 1-A's side as a trial for his transfer into the Hero Course. He fights using Aizawa's **capture weapon** and a voice-changing mask built by Mei Hatsume, compensating for the fact that Brainwashing is useless against an opponent who does not speak.
+Midoriya begins having dreams of the previous One For All holders. In episode 90, during a training exercise, **Blackwhip** — a mass of dark tendrils — erupts from his body without his consent, nearly injuring his classmates. Todoroki immobilises him with ice.
 
-**The matches:**
+The **second user's vestige** appears to Midoriya in a mental space and warns him: One For All has grown too strong. The stockpiled power has begun producing effects neither All Might nor Midoriya anticipated, and using it at full output risks destroying him.
 
-| Match | Class 1-A | Class 1-B | Result |
+---
+
+### 2. Joint Training Arc — Episodes 91–100 (chapters 194–219)
+
+#### The rules
+
+Five rounds, held in **Ground Gamma**, an industrial maze of pipes and platforms. Each class fields teams of four. Shinso is added to one team on each side, producing two 5-v-4 matches. A team wins by **capturing four opponents and placing them in the jail** within a **20-minute** time limit. The classes' homeroom teachers, **Aizawa** and **Vlad King**, referee; Present Mic commentates.
+
+#### Results
+
+| Round | Class 1-A | Class 1-B | Result |
 |---|---|---|---|
-| **1** | Midoriya, Shinso, Uraraka, Asui, Aoyama | Monoma, Shiozaki, Honenuki, Kaibara, Kodai | Class 1-A (via Shinso's brainwashing of Monoma) |
-| **2** | Todoroki, Yaoyorozu, Tokoyami, Koda, Hagakure | Kuroiro, Komori, Kendo, Yanagi, Shishida | Class 1-B |
-| **3** | Bakugo, Kirishima, Kaminari, Ashido, Sero | Tetsutetsu, Awase, Rin, Kamakiri, Tokage | Class 1-A |
-| **4** | Ojiro, Mineta, Jiro, Sato, Iida | Bondo, Shoda, Tsuburaba, Fukidashi, Tsunotori | Class 1-A |
-| **5** | (final match, both classes exhausted) | — | Disrupted by Midoriya |
+| **1** | Tsuyu Asui, Eijiro Kirishima, Koji Koda, Denki Kaminari **+ Shinso** | Ibara Shiozaki, Jurota Shishida, Kosei Tsuburaba, Hiryu Rin | **1-A wins 4–2** |
+| **2** | Yuga Aoyama, Momo Yaoyorozu, Toru Hagakure, Fumikage Tokoyami | Itsuka Kendo, Manga Fukidashi, Kinoko Komori, Kosei Kuroiro | **1-B wins 4–0** |
+| **3** | Tenya Iida, Shoto Todoroki, Mashirao Ojiro, Mezo Shoji | Juzo Honenuki, Tetsutetsu Tetsutetsu, Pony Tsunotori, Sen Kaibara | **Draw 1–1** |
+| **4** | Katsuki Bakugo, Hanta Sero, Kyoka Jiro, Rikido Sato | Jack Kamakiri, Setsuna Tokage, Kojiro Bondo, Yosetsu Awase | **1-A wins 4–0** |
+| **5** | Izuku Midoriya, Ochaco Uraraka, Mina Ashido, Minoru Mineta | Neito Monoma, Yui Kodai, Nirengeki Shoda, Reiko Yanagi **+ Shinso** | **1-A wins 4–0** |
 
-**The central event — Blackwhip.**
+**Overall: Class 1-A wins the series 3–1, with one draw.**
 
-During the matches, **Neito Monoma** copies One For All from Midoriya. Nothing happens: Monoma can copy the Quirk, but the *stockpiled power* does not transfer. This confirms that One For All is not a simple ability — it is a stored legacy.
+> Round 3 is scored as a draw because each team captured exactly one opponent before the time limit expired. Shinso plays in Rounds 1 and 5 only — once for each class — so that both homeroom teachers can assess him under identical conditions.
 
-More seriously, Midoriya begins to lose control. He hears voices. A black, tendril-like power erupts from his body — **Blackwhip**, the Quirk of One For All's **fifth user**. Bakugo and Todoroki restrain him. Midoriya nearly injures his classmates.
+#### What the rounds are actually about
 
-**Episode 100, "The New Power and All For One,"** delivers the arc's major revelation: One For All's previous users exist as **vestiges** — imprints of personality and Quirk stored inside the power. Midoriya can potentially access all of them. All Might, who had the Quirk for decades, received nothing, because he was the first wielder born without a Quirk of his own — the power had nothing to build on.
+The Joint Training is not really about who wins. It is the first sustained look at **Class 1-B as people** rather than as Monoma's heckling chorus, and Bones gives nearly every 1-B student a moment.
 
-This transforms Midoriya's trajectory for the rest of the series: One For All is not one Quirk, it is **seven**.
+- **Round 1** is Shinso's audition. He uses Brainwash on 1-B, then deliberately exposes himself to danger to prove he will fight, not just manipulate. He wins the respect of the students who nearly lost to him in the Sports Festival.
+- **Round 2** is 1-B's best showing. **Itsuka Kendo** leads a disciplined team that dismantles Yaoyorozu's — the same self-confidence problem Yaoyorozu had in Season 2 returns, and she loses.
+- **Round 3** ends in a draw, and **Todoroki** is called out by his own team for fighting as though he has something to prove.
+- **Round 4** is **Bakugo's** character turn. He fights with a team for the first time without treating them as obstacles, and afterwards tells them, flatly, that they did well. Nobody believes him at first. He means it.
+- **Round 5** is where everything breaks.
 
----
+#### Round 5 — Blackwhip
 
-### 2. Endeavor Agency Arc — Episodes 102–107
+**Neito Monoma's** Quirk, **Copy**, lets him replicate any Quirk he touches. He copies Midoriya's One For All — expecting a strong combat Quirk, and getting instead a weak trickle of power. He immediately understands something he should not: **One For All is a stockpiled Quirk, and Midoriya's version has been accumulating for generations.**
 
-**What happens:** Midoriya, Bakugo, and Todoroki begin their work-study at **Endeavor's agency**, alongside Hawks' covert intelligence operation.
+Midoriya's Blackwhip erupts. He loses control completely and begins thrashing the arena, endangering his own team as much as 1-B's. **Shinso — fighting for Class 1-B — brainwashes Midoriya to stop him**, saving the match and several students. It is the single most important thing Shinso does in the series: he saves the boy who beat him in the Sports Festival, using the Quirk that everyone has treated as a villain's power.
 
-**Key moments:**
-- **Hawks behaves strangely** around Endeavor. He is, at this point, deep undercover inside the Paranormal Liberation Front and cannot afford to be seen associating too closely with the No. 1 Hero.
-- **The High-End Nomu "Hood"** attacks Jaku City. This is a new class of Nomu — intelligent, self-regenerating, and vastly stronger than anything seen before, created by Doctor Garaki.
-- Endeavor fights Hood alone. He is overwhelmed, burned, and nearly killed. In the middle of the fight he remembers his own cruelty, his son Toya, and everything he destroyed.
-- He wins with **Prominence Burn**, and turns to the civilians and says the line that defines his redemption: **"It's okay now. I am here to save you."** — deliberately echoing All Might, acknowledging that he is borrowing a symbol he did not earn.
-- **Dabi attacks Endeavor** immediately afterward and reveals his identity: he is **Toya Todoroki**, Endeavor's eldest son, presumed dead in a fire years earlier. He has spent his entire adult life planning to destroy his father's reputation.
-- **The Todoroki family dinner** (episode 105, "The Hellish Todoroki Family"): Fuyumi invites Endeavor to a family meal with Natsuo, Shoto, and their mother Rei. Natsuo refuses to speak to him. The scene is one of the most uncomfortable in the series — no reconciliation occurs, only the acknowledgment that the damage is real.
+**Consequences:**
+- **Shinso is accepted into the Hero Course.** Aizawa confirms the transfer.
+- **Monoma now knows Midoriya's secret** — that his Quirk was given to him, and that it contains other people's power. He keeps it.
+- **All Might tells Midoriya about the other holders** — the vestiges — and about Blackwhip's true owner: the fifth user, **Daigoro Banjo**.
 
-**Episode 107, "More of a Hero Than Anyone,"** shifts to Aizawa and Present Mic interrogating **Kurogiri** in Tartarus. They discover something beneath Kurogiri's programming — a residual personality connected to **Oboro Shirakumo**, a U.A. student who died young and was Aizawa's friend. This thread carries directly into Season 6.
+#### The Vestiges Revealed (eps. 98–100)
 
----
+In the mental space inside One For All, Midoriya meets the previous holders:
 
-### 3. Meta Liberation Army Arc — Episodes 108–112
+| # | Holder | Quirk contributed |
+|---|---|---|
+| 1st | **Yoichi Shigaraki** | The original stockpile; One For All itself |
+| 2nd | *(unnamed in this season)* | — |
+| 3rd | *(unnamed in this season)* | — |
+| 4th | **Hikage Shinomori** | Danger Sense |
+| 5th | **Daigoro Banjo** | **Blackwhip** |
+| 6th | **En** | Smokescreen |
+| 7th | **Nana Shimura** | Float |
+| 8th | **Toshinori Yagi / All Might** | *(born Quirkless — contributed nothing but the stockpile)* |
 
-**What happens:** For the first time, the series tells an entire arc from the villains' point of view.
+Episode 100, *"The New Power and All For One,"* finally explains One For All's origin: **All For One forced a stockpiling Quirk onto his Quirkless younger brother, Yoichi**, as an act of contempt. Yoichi instead combined that stolen power with his own latent will and passed it on — creating the one Quirk All For One could not steal back. Every generation since has added to it.
 
-The League of Villains — **Shigaraki, Dabi, Toga, Twice, Mr. Compress, and Spinner** — travels to **Deika City** to make contact with the **Meta Liberation Army (M.L.A.)**, an organisation of over 100,000 members who believe Quirks should be used freely without government regulation.
-
-**The Meta Liberation Army leadership:**
-
-| Member | Real name | Position | Quirk |
-|---|---|---|---|
-| **Re-Destro** | Rikiya Yotsubashi | Grand Commander; CEO of Detnerat | **Stress** — converts accumulated stress into physical power, size, and durability |
-| **Geten** | — | Commander | **Ice** — creates and manipulates ice |
-| **Trumpet** | Koku Hanabata | Commander; leader of the Hearts and Mind Party | **Incite** — amplifies the physical and mental abilities of those who follow him |
-| **Skeptic** | Tomoyasu Chikazoku | Commander; board member of Feel Good Inc. | **Anthropomorph** — turns people into data; master hacker |
-| **Curious** | Chitose Kizuki | Commander; executive director of Shoowaysha Publishing | **Landmine** — anything she touches becomes an explosive |
-| **Slidin' Go** | Tatsuyama Onoma | Pro Hero secretly working for the M.L.A. | **Overclock** — accelerates his own movements |
-
-**The M.L.A.'s ideology** descends from **Destro**, a historical figure who wrote *Meta Liberation War* while imprisoned, arguing that Quirk suppression is oppression. Re-Destro is his descendant and rebuilt the movement in secret using corporate wealth.
-
-**Key moments:**
-
-- **Shigaraki vs. Re-Destro.** The M.L.A. attempts to absorb or eliminate the League. Shigaraki is beaten, humiliated, and nearly killed. In his darkest moment he has a vision of **Tenko Shimura** — his own childhood self.
-- **Episode 111, "Tenko Shimura: Origin"** and **episode 112, "Tomura Shigaraki: Origin"** are the two most important episodes of the season. They reveal everything:
-  - Shigaraki was born **Tenko Shimura**, the grandson of **Nana Shimura** — the seventh wielder of One For All, and All Might's mentor.
-  - Nana, terrified that All For One would target her family, sent her son away and abandoned him to protect him. Her son grew up hating her and hero society.
-  - Tenko was an abused, neglected child who wanted to be a hero. He was found by All For One, who groomed him.
-  - His Quirk, **Decay**, awakened when he was five. He decayed his dog, then his mother, then his entire family, and then his whole town — because All For One taught him to hate, and because no one came to help him.
-  - **All Might's mentor's grandson is the series' main villain.** One For All and All For One have been fighting across generations through the same bloodline.
-
-- Shigaraki defeats Re-Destro, awakening Decay's true power: it now spreads through anything it touches, without limit. Re-Destro, seeing in Shigaraki the true embodiment of liberation, **submits to him**.
-- The M.L.A. and the League merge to form the **Paranormal Liberation Front**, with **Shigaraki as Grand Commander** and the former M.L.A. executives as lieutenants.
-
-**Twice — "Sad Man's Parade" (episode 110).** The season's emotional centrepiece for the villains. Jin Bubaigawara's Quirk, **Double**, lets him create perfect copies of anything — including himself. After being betrayed and murdered by his previous comrades (who were copies of *him*), he lost his sense of self. Twice's internal conflict about whether the League are his real friends resolves in his favour: they are. He creates an army of doubles to celebrate the Front's founding.
-
-**Dabi's betrayal.** Throughout the arc, Dabi has been gathering evidence against Endeavor. In episode 112 he confirms his identity to the League and prepares to release a video that will destroy Endeavor's reputation and, by extension, hero society's credibility.
+The vestiges warn Midoriya that One For All is approaching a critical mass that All For One himself did not predict. This is the **Quirk Singularity** theory, stated for the first time in the anime.
 
 ---
 
-### 4. Paranormal Liberation War Arc — Episode 113
+### 3. Endeavor Agency Arc — Episodes 101–106 (chapters 241–252)
 
-**Episode 113, "The High, Deep Blue Sky,"** closes the season. Hawks, still undercover, transmits intelligence to the heroes. The Hero Public Safety Commission assembles every available Pro Hero for a coordinated, simultaneous raid on all Paranormal Liberation Front strongholds.
+*(Aired before the Meta Liberation Army arc, but takes place after it in the manga.)*
 
-The season ends on the eve of the war — the largest conflict in the series to that point — with both sides fully committed.
+#### Christmas (ep. 101)
+
+The Todoroki family — Enji, Fuyumi, Natsuo and Shoto — has dinner together for the first time since Rei was hospitalised. Natsuo is still furious. Shoto is cautious. Enji is trying. Nobody reconciles; everybody stays at the table.
+
+Hawks and Endeavor also meet, and Hawks passes on intelligence about the growing villain network.
+
+#### The work-study (eps. 102–103)
+
+Midoriya, Bakugo and Todoroki are assigned to **Endeavor's agency**. It is a deliberately uncomfortable arrangement: Endeavor is Shoto's father, is the man Bakugo's idol replaced, and is trying to use a work-study as a form of atonement. He is bad at it. The three students are blunt with him about it.
+
+#### The High-End Nomu (eps. 103–106)
+
+During a routine patrol in Jaku City, the three students and Endeavor encounter a **High-End Nomu** — a Nomu with multiple Quirks and enough intelligence to speak and to adapt. This one is called **Hood**.
+
+Hood regenerates from every injury and overwhelms Endeavor, Hawks and the students alike. Endeavor wins with **Prominence Burn**, his ultimate technique — a concentrated pillar of flame that incinerates Hood's regeneration faster than it can rebuild.
+
+The fight is broadcast. For the first time since Kamino, the public sees a hero win decisively and unambiguously. Endeavor is, briefly, believed in.
+
+**Watching from a distance is Dabi**, whose blue flames are shown alongside Endeavor's orange. Dabi's reaction is not fear or respect. It is contempt, and something closer to grief. The season does not explain why — that comes later — but it puts the question directly in front of the audience.
+
+#### The Todoroki Family (eps. 105–106)
+
+Cross-cut with the Nomu fight is the family dinner's aftermath. **Natsuo** finally says what he has held since childhood: that he hates his father, that he has never forgiven him, and that he does not intend to. Endeavor does not argue. He accepts it.
+
+Rei, their mother, is visited. Shoto begins the slow process of deciding whether he wants a family.
+
+The arc ends with the word *"unforgiven"* applied to Endeavor by both his son and, separately, by Dabi — two people who have entirely different reasons for hating him and who do not yet know each other exist.
+
+> **Episode 104, "Long Time No See, Selkie,"** is a filler episode and one of the series' five. It follows Uraraka, Asui and the rest of Ryukyu's agency on a marine rescue mission with the Pro Hero **Selkie**, and functions as a lead-in to the film *World Heroes' Mission*.
+
+---
+
+### 4. Paranormal Liberation War — Opening (Episode 107, chapters 253–255)
+
+**Aizawa and Present Mic interrogate Kurogiri in Tartarus.** Kurogiri is a Nomu built from a human body, and they have spent years unable to reach anything inside him.
+
+In this episode they do. Kurogiri's body contains the remains of **Oboro Shirakumo** — a U.A. student, a member of Aizawa and Yamada's class, and their close friend. He was killed by a villain years earlier. All For One recovered his body and rebuilt it as a warp-gate Nomu.
+
+Aizawa breaks down. He and Present Mic had spent their entire adult lives believing Oboro was simply dead. Instead he has been in the room with the League of Villains the whole time, and every student they lost at the U.S.J. and the training camp was transported by their friend's body.
+
+It is one of the most devastating episodes of the series, and it exists entirely to make the coming war personal.
+
+---
+
+### 5. Meta Liberation Army Arc — Episodes 108–112 (chapters 218–240)
+
+*(Adapts manga chapters that precede the Endeavor Agency arc.)*
+
+#### The Army
+
+The League of Villains is broke, hunted and running out of places to hide. **Twice** is destabilising. Then they are attacked — not by heroes, but by the **Meta Liberation Army**, an organisation with more than **one hundred thousand members** embedded across Japanese society: politicians, corporate executives, publishers, ordinary citizens.
+
+The Army's ideology descends from **Destro**, the revolutionary who opposed the first Quirk regulation laws. Its leader is **Kizoku Chikara Yotsubashi**, who calls himself **Re-Destro** and who runs the Detnerat Company, a Quirk-support equipment manufacturer, as its public face. The Army believes Quirks should be legally unrestricted and that society should be reorganised around them.
+
+| Executive | Quirk | Role |
+|---|---|---|
+| **Re-Destro** (Kizoku Chikara Yotsubashi) | Stress | Supreme leader; converts pressure into physical power |
+| **Geten** | Ice manipulation | Field commander; loyal to Destro's doctrine above all |
+| **Curious** (Chitose Kizuki) | Beast | Publishing executive; the Army's propaganda arm |
+| **Skeptic** (Tomoyasu Chikazoku) | Anthropomorph | Data and surveillance; deeply cynical |
+| **Trumpet** | — | A member of the Diet; the Army's political face |
+
+The Army does not want to destroy the League. **It wants to absorb it.**
+
+#### The fights
+
+- **Twice vs. Trumpet.** Twice is captured and psychologically dismantled. Forced to confront the fact that he has no idea which of his copies is the original, he breaks — and then rebuilds himself, deciding that it does not matter. He creates **"Sad Man's Parade,"** an army of thousands of clones covering an entire city district, and turns the battle. Episode 110 is the best-reviewed episode of Season 5 and one of the series' most discussed.
+- **Mr. Compress vs. Curious.** Compress, who has spent the series as a performer, drops the act and reveals that he is descended from the thief **Oji Harima** and that his entire persona is a construction.
+- **Toga vs. Skeptic.** Toga fights for the simple, appalling reason that she likes her friends.
+- **Shigaraki vs. Re-Destro.** The climax. Re-Destro fights at full power, believing himself the inheritor of Destro's revolution. **Shigaraki kills him — or rather, decays everything he touches**, and Re-Destro survives only by surrendering absolutely.
+
+#### Shigaraki's evolution
+
+During this battle, Shigaraki's Quirk mutates. **Decay** no longer requires sustained five-finger contact on a single object: it now spreads outward from anything he touches, consuming buildings, streets and people in a chain reaction. He can destroy a city block by touching the ground.
+
+#### The origin of Tenko Shimura (eps. 111–112)
+
+The two most important episodes of the season, and among the most important in the franchise.
+
+- **Nana Shimura**, the seventh holder of One For All, knew All For One would target her family. To protect her son **Kotaro**, she gave him up, cut all contact, and asked that he be told she was dead. She then died fighting All For One.
+- Kotaro grew up hating her, and hating heroes. He married, had a son — **Tenko** — and forbade the boy from becoming a hero. He beat him for it. He refused to acknowledge that Tenko had a Quirk at all.
+- Tenko's Quirk, **Decay**, manifested without warning or control. He decayed his dog. Then his mother, **Hana**. Then his two sisters. Then his father. Then his entire neighbourhood.
+- He was four or five years old. He walked the streets afterwards, scratching at his neck until it bled, because the scratching was the only thing that made the feeling stop.
+- **All For One found him.** He gave the boy a name — **Tomura Shigaraki** — kept him close to the name *Shimura* so the connection would never quite be severed, and raised him to hate everything Nana Shimura loved.
+
+**The consequence for All Might:** Shigaraki is the grandson of All Might's own mentor. All Might has spent his entire career fighting the boy his teacher's bloodline produced, and never once knew. Nana's decision to protect her son by abandoning him is the single origin point of the series' central conflict.
+
+The episode ends with Kotaro's corpse — preserved in All For One's files — and with the line the series had been building toward since episode 1: the boy who wanted to be a hero became the man who wants to destroy everything, because nobody came.
+
+#### The Paranormal Liberation Front
+
+Shigaraki defeats Re-Destro, and Re-Destro pledges the entire Army to him. The League of Villains and the Meta Liberation Army merge into the **Paranormal Liberation Front**:
+
+| Position | Member |
+|---|---|
+| Supreme Leader | **Tomura Shigaraki** |
+| Lieutenant | Re-Destro |
+| Lieutenant | Geten |
+| Lieutenant | Trumpet |
+| Lieutenant | Curious |
+| Lieutenant | Skeptic |
+| Lieutenant | **Twice** |
+| Lieutenant | **Dabi** |
+| Lieutenant | **Himiko Toga** |
+| Lieutenant | **Mr. Compress** |
+| Lieutenant | **Spinner** |
+
+The Front has over one hundred thousand members, corporate resources, political cover, and a leader who can destroy a city by touching it.
+
+**Dr. Kyudai Garaki**, All For One's physician and the creator of the Nomu, is revealed to be running a laboratory beneath **Jaku General Hospital**. Shigaraki goes to him to be modified — to have his body rebuilt so it can hold the accumulated power of One For All's opposite. He will be unconscious for months.
+
+---
+
+### 6. Paranormal Liberation War — Episode 113 (chapters 256–258)
+
+The Front mobilises. The heroes learn of the planned attack through intelligence **Hawks** has been feeding them from inside the organisation — his role as a double agent, established in Season 4, is now doing its work.
+
+The season ends on the opening of the **Paranormal Liberation War**: a coordinated, simultaneous raid on the Front's positions, including Jaku General Hospital and the Gunga Mountain Villa. Heroes from every agency in Japan mobilise at once. Shigaraki is still unconscious in Garaki's tank.
+
+It is the largest cliffhanger the series has produced, and the war itself is adapted in Season 6.
+
+---
+
+## Characters Introduced This Season
+
+| Character | Role | Debut |
+|---|---|---|
+| **Daigoro Banjo** | 5th One For All holder; source of Blackwhip | Ep. 90 |
+| **Hikage Shinomori · En · Yoichi Shigaraki** | 4th, 6th and 1st One For All holders | Ep. 98–100 |
+| **The 2nd and 3rd holders** | Unnamed vestiges who warn Midoriya | Ep. 98 |
+| **Hood** | High-End Nomu; fought by Endeavor | Ep. 103 |
+| **Oboro Shirakumo** | Aizawa and Present Mic's dead classmate; Kurogiri's body | Ep. 107 |
+| **Re-Destro (Kizoku Chikara Yotsubashi)** | Supreme leader of the Meta Liberation Army | Ep. 108 |
+| **Geten · Curious · Skeptic · Trumpet** | The Army's four lieutenants | Ep. 108 |
+| **Natsuo Todoroki (adult, on screen)** | Shoto's older brother | Ep. 101 |
+| **Kotaro Shimura · Hana Shimura** | Shigaraki's parents | Ep. 111 |
+| **Young Tenko Shimura** | Shigaraki as a child | Ep. 111 |
+| **Dr. Kyudai Garaki** | All For One's physician; the Nomu's creator | Ep. 112 |
+| **Selkie** | Pro Hero; appears in the filler episode | Ep. 104 |
 
 ---
 
 ## Episode Guide
 
-| # | Title | Air date |
-|---|---|---|
-| 89 | All Hands on Deck! Class 1-A | March 27, 2021 |
-| 90 | Vestiges | April 3, 2021 |
-| 91 | Clash! Class A vs. Class B! | April 10, 2021 |
-| 92 | Make It Happen, Shinso! | April 17, 2021 |
-| 93 | Operation New Improv Moves | April 24, 2021 |
-| 94 | Foresight | May 1, 2021 |
-| 95 | Match 3 | May 8, 2021 |
-| 96 | Match 3 Conclusion | May 15, 2021 |
-| 97 | Early Bird! | May 22, 2021 |
-| 98 | That Which Is Inherited | May 29, 2021 |
-| 99 | Our Brawl | June 5, 2021 |
-| 100 | The New Power and All For One | June 12, 2021 |
-| 101 | Have a Merry Christmas! | June 19, 2021 |
-| 102 | Off to Endeavor's Agency! | June 26, 2021 |
-| 103 | One Thing at a Time | July 10, 2021 |
-| 104 | Long Time No See, Selkie | July 17, 2021 |
-| 105 | The Hellish Todoroki Family | July 24, 2021 |
-| 106 | The Unforgiven | July 31, 2021 |
-| 107 | More of a Hero Than Anyone | August 14, 2021 |
-| 108 | My Villain Academia | August 21, 2021 |
-| 109 | Revival Party | August 28, 2021 |
-| 110 | Sad Man's Parade | September 4, 2021 |
-| 111 | Tenko Shimura: Origin | September 11, 2021 |
-| 112 | Tomura Shigaraki: Origin | September 18, 2021 |
-| 113 | The High, Deep Blue Sky | September 25, 2021 |
+| # | Title | Air date | # | Title | Air date |
+|---|---|---|---|---|---|
+| 89 | All Hands on Deck! Class 1-A | Mar 27, 2021 | 102 | Off to Endeavor's Agency! | Jun 26, 2021 |
+| 90 | Vestiges | Apr 3, 2021 | 103 | One Thing at a Time | Jul 10, 2021 |
+| 91 | Clash! Class A vs. Class B! | Apr 10, 2021 | 104 | Long Time No See, Selkie *(filler)* | Jul 17, 2021 |
+| 92 | Make It Happen, Shinso! | Apr 17, 2021 | 105 | The Hellish Todoroki Family | Jul 24, 2021 |
+| 93 | Operation New Improv Moves | Apr 24, 2021 | 106 | The Unforgiven | Jul 31, 2021 |
+| 94 | Foresight | May 1, 2021 | 107 | More of a Hero Than Anyone | Aug 14, 2021 |
+| 95 | Match 3 | May 8, 2021 | 108 | My Villain Academia | Aug 21, 2021 |
+| 96 | Match 3 Conclusion | May 15, 2021 | 109 | Revival Party | Aug 28, 2021 |
+| 97 | Early Bird! | May 22, 2021 | 110 | Sad Man's Parade | Sep 4, 2021 |
+| 98 | That Which Is Inherited | May 29, 2021 | 111 | Tenko Shimura: Origin | Sep 11, 2021 |
+| 99 | Our Brawl | Jun 5, 2021 | 112 | Tomura Shigaraki: Origin | Sep 18, 2021 |
+| 100 | The New Power and All For One | Jun 12, 2021 | 113 | The High, Deep Blue Sky | Sep 25, 2021 |
+| 101 | Have a Merry Christmas! | Jun 19, 2021 | | | |
 
-> **Note:** Episode 101 is a transitional Christmas special that does not adapt manga chapters directly.
+*(No episodes aired on July 3 or August 7, 2021 — the latter overlapping the Tokyo Olympic broadcast window.)*
 
 ---
 
 ## Themes
 
-### The Villain Was Made, Not Born
-Episodes 111–112 are the moral core of the entire series. Tenko Shimura was a child who asked for help and received none. His descent was engineered by an adult who recognised a wounded boy and used him. The series does not excuse what Shigaraki becomes — but it makes the causality undeniable, and it implicates hero society directly: Nana Shimura abandoned her family to protect them from All For One, and that abandonment created the monster who would destroy everything.
+### Villainy Has a Genealogy
+The Meta Liberation Army is not a criminal gang. It is a political movement with a hundred thousand members, a corporate front, a publisher and a seat in the Diet. The season's argument is that the League of Villains succeeded because it stopped being a gang and acquired an **ideology with institutional backing** — and that ideology is not invented, it is inherited from Destro.
 
-### Legacy as Burden
-One For All is revealed to be seven Quirks, not one. Midoriya inherits not just power but the unresolved business of six dead people. This reframes the entire premise: heroism in this world is an inheritance that accumulates obligation.
+### Nobody Came
+Shigaraki's origin is a direct inversion of Midoriya's. Both boys were born into families that could not help them. Midoriya was saved — by All Might, on a rooftop, in episode 1. Tenko was not. The series is unusually blunt about this: the difference between the protagonist and the antagonist is one act of intervention by one adult on one afternoon.
 
-### Reconciliation Without Resolution
-Endeavor saves a city and is immediately confronted by the son he drove to become a mass murderer. He wins the battle and loses everything else. Horikoshi refuses to give him a clean arc, and the season ends with the Todoroki family still broken.
+### Power That Is Not Yours
+Blackwhip does not belong to Midoriya. Neither do Float, Smokescreen, Danger Sense, Fa Jin or Gearshift. One For All is a graveyard of other people's abilities, and Midoriya is learning to use tools that were built by strangers with their own reasons. It is the season's central metaphor for inheritance: you do not choose what you are given, and you are responsible for it anyway.
 
-### The Limits of Individual Strength
-The Joint Training arc shows that a class of individually talented students cannot function without coordination — and Midoriya's Blackwhip incident demonstrates that power without understanding is a liability to everyone around him. The season's final image is not a hero standing alone; it is an army mobilising together.
+### Atonement Is Not Reconciliation
+The Endeavor Agency arc is deliberately unsentimental. Endeavor tries. Natsuo refuses. Rei is frightened. Shoto waits. Nobody forgives anybody, and the season treats that as an honest outcome rather than a failure of writing.
 
 ---
 
 ## Production Notes
 
-- Opening themes: "**No.1**" by DISH// and "**Boku no Hero Academia**" / "**Merry-Go-Round**" by MAN WITH A MISSION.
-- Ending themes: "**Ashiato**" by The Peggies and "**Ussee wa**" by Uta no Prince-sama-related act / **CeVIO**.
-- *My Hero Academia: World Heroes' Mission* was released theatrically on August 6, 2021, during this season's run. It contains spoilers for Season 5 and should be watched afterward.
-- Episodes 111–112, covering Shigaraki's origin, are among the most critically praised in the anime's run.
+- **Opening themes:**
+  - "No.1" — **DISH//** (eps. 89–101)
+  - "Merry-Go-Round" — **MAN WITH A MISSION** (eps. 102–113)
+- **Ending themes:**
+  - "Ashiato" — **the peggies** (eps. 89–101)
+  - "Uso ja Nai" — **Soushi Sakiyama** (eps. 102–113)
+- ***My Hero Academia: World Heroes' Mission*** was released in Japan on **August 6, 2021**, between episodes 106 and 107. **It contains Season 5 spoilers** — specifically regarding Shigaraki's status — and should be watched after the season, not during it.
+- Two OVAs were released alongside Season 5: ***Hero League Baseball*** and ***Laugh! As if You Are in Hell***.
+- Season 5 was **criticised at the time for inconsistent animation quality**, particularly across the Joint Training arc (episodes 91–96), where several episodes drew visible complaints about rough in-between animation and off-model characters. Bones responded by reassigning staff; the Endeavor Agency and Meta Liberation Army arcs are noticeably better animated, and episodes 110–112 are among the strongest the studio produced for the series. The Joint Training episodes were also revised for home video.
+- The season ran in two cours with a summer break in July 2021, partly due to the Tokyo Olympic broadcast schedule.
+- Episode 110, *"Sad Man's Parade,"* and episode 112, *"Tomura Shigaraki: Origin,"* are the two most frequently cited episodes of the season and both hold the highest ratings of any Season 5 episode.
 
 ---
 
-## Where the Story Goes From Here
-
-Season 5 ends at manga chapter 257. The **Paranormal Liberation War arc** continues into **Season 6** (October 2022 – March 2023), followed by the **Star and Stripe**, **U.A. Traitor**, and **Final War** arcs in **Season 7** (2024) and the **Final Season** (October – December 2025), which concluded the adaptation with episode 170.
-
----
-
-**Previous:** [Season 4 ←](season-4.md) · [Back to seasons index →](README.md)
+**Next:** [Season 6 →](#) *(not covered in this encyclopedia — Seasons 1–5 only)* · [Back to seasons index →](README.md)

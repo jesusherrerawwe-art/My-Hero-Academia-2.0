@@ -13,19 +13,23 @@
 | **Japanese network** | JNN (MBS/TBS) |
 | **Manga chapters adapted** | 1–21 |
 | **Studio** | Bones |
+| **Director** | Kenji Nagasaki |
 | **Arcs covered** | Entrance Exam · Quirk Apprehension Test · Battle Trial · U.S.J. |
+| **Saga** | U.A. Beginnings |
+
+At 13 episodes, Season 1 is the shortest of the series and functions as a compact introduction. It covers the manga's first 21 chapters almost faithfully, with no filler.
 
 ---
 
 ## Synopsis
 
-In a world where roughly 80% of the population is born with superpowers called **Quirks**, **Izuku Midoriya** is part of the powerless minority. He has idolised **All Might**, the Symbol of Peace, since childhood, and has spent years filling notebooks with analysis of heroes' abilities despite being told by everyone around him — teachers, classmates, and finally his own mother — that his dream is impossible.
+In a world where roughly 80% of the population is born with superpowers called **Quirks**, **Izuku Midoriya** is part of the powerless minority. He has idolised **All Might**, the Symbol of Peace, since childhood, filling thirteen notebooks with analysis of heroes' abilities despite being told by everyone around him — teachers, classmates, and finally his own mother — that his dream is impossible.
 
 His childhood friend and tormentor, **Katsuki Bakugo**, embodies everything Midoriya is not: talented, powerful, and cruel. When Bakugo tells Midoriya to take a leap off a building in the hope of being reborn with a Quirk in his next life, the series establishes in its first ten minutes just how far Midoriya has been pushed.
 
-Everything changes when All Might — revealed to be the emaciated, injured **Toshinori Yagi** — witnesses Midoriya charge a sludge villain to save Bakugo while every professional hero stands by. Recognising the instinct he needs, All Might declares Midoriya worthy of inheriting his Quirk, **One For All**: a stockpiled power passed down through nine generations.
+Everything changes when All Might — revealed to be the emaciated, injured **Toshinori Yagi** — witnesses Midoriya charge a sludge villain to save Bakugo while every professional hero stands by. Recognising the instinct he needs, All Might declares Midoriya worthy of inheriting **One For All**, a stockpiled power passed down through nine generations.
 
-After ten months of brutal physical preparation, Midoriya enters the **U.A. High School entrance exam**, where he destroys the enormous zero-point obstacle to save Uraraka — shattering his arm and both legs in the process. He is admitted on rescue points, and begins his first year in **Class 1-A** under the homeroom teacher **Shota Aizawa**.
+After ten months of brutal physical preparation, Midoriya enters the **U.A. High School entrance exam**, where he destroys the enormous zero-point obstacle to save Ochaco Uraraka — shattering his arm and both legs in the process. He scores zero villain points and is admitted entirely on **rescue points**. He begins his first year in **Class 1-A** under the homeroom teacher **Shota Aizawa**.
 
 The season builds through small-scale classroom training before ending with the series' first true catastrophe: an attack on U.A.'s rescue facility by the **League of Villains**.
 
@@ -33,66 +37,89 @@ The season builds through small-scale classroom training before ending with the 
 
 ## Arc-by-Arc Breakdown
 
-### 1. Entrance Exam Arc — Episodes 1–3
+### 1. Entrance Exam Arc — Episodes 1–3 (chapters 1–5)
 
 **What happens:** Midoriya meets All Might, learns the truth about One For All, inherits it, and takes the U.A. entrance exam.
 
 **Key moments:**
 - Bakugo tells Midoriya to kill himself and hope for a Quirk in his next life — the cruelty that frames Midoriya's entire childhood.
-- All Might's true form is revealed: he can only maintain his muscle form for a few hours a day, the result of a wound from his first battle with All For One.
-- Midoriya eats a strand of All Might's hair to receive One For All. He vomits. It is not dignified, and the series is deliberately funny about it.
-- At the entrance exam, Midoriya scores **zero** villain points. He destroys the zero-pointer to save Uraraka, breaking his arm and both legs.
-- The exam is scored on **rescue points**, not just combat. Midoriya passes with 60 points; Bakugo scores 77.
+- All Might's true form is revealed: he can maintain his muscle form for only about three hours a day, the result of a wound from his first battle with All For One.
+- Midoriya cleans a polluted beach for ten months as physical conditioning. On the final morning he collapses; All Might tells him he passed.
+- Midoriya eats a strand of All Might's hair to receive One For All. He vomits. The series is deliberately undignified about inheriting the greatest power in the world.
+- At the exam, Midoriya scores **zero** villain points and is about to fail. He destroys the zero-pointer to save Uraraka, breaking his arm and both legs.
+- The exam is scored on **rescue points** as well as combat. Midoriya passes with 60; Bakugo scores 77.
 
-**Characters introduced:** Izuku Midoriya, Katsuki Bakugo, Toshinori Yagi / All Might, Inko Midoriya, Ochaco Uraraka, Tenya Iida, Shota Aizawa, Present Mic, Principal Nezu, the sludge villain.
+**Why it works as an opening.** The first three episodes establish the series' central irony: the boy with no power is the only one who acts. Every licensed hero at the sludge-villain incident stands by, correctly, because they cannot help. Midoriya moves anyway. That single distinction — not talent — is what All Might selects for.
 
 ---
 
-### 2. Quirk Apprehension Test Arc — Episode 4
+### 2. Quirk Apprehension Test Arc — Episode 4 (chapters 6–7)
 
-**What happens:** On the first day of class, Aizawa expels the entire previous year's Class 1-A on paper and administers a physical fitness test with the threat of expulsion for whoever places last.
+**What happens:** On the first day of class, Aizawa reveals that he expelled the entire previous year's Class 1-A, and administers a physical fitness test with the threat of expulsion for whoever places last.
 
 **Key moments:**
 - Midoriya uses One For All on the ball throw to avoid last place — and immediately breaks his finger.
-- Aizawa reveals himself as the Pro Hero **Eraser Head**, whose Quirk lets him nullify others' by looking at them. He erases Midoriya's second attempt.
+- Aizawa reveals himself as the Pro Hero **Eraser Head**, whose Quirk nullifies others' by looking at them. He erases Midoriya's second attempt mid-throw.
 - Aizawa explains his reasoning: a hero who breaks his own body to save one person is useless if he dies doing it. He tells Midoriya he lacks self-control.
 - Midoriya finishes second-to-last. Aizawa reveals the expulsion threat was "a logical deception" — but Recovery Girl and the class make clear he means it next time.
 
-**Why this arc matters:** It establishes Aizawa as the series' moral counterweight to All Might. Where All Might embodies inspiration, Aizawa embodies pragmatism and survival.
+**Why this arc matters.** It establishes Aizawa as the series' moral counterweight to All Might. Where All Might embodies inspiration, Aizawa embodies pragmatism and survival. Every argument the series has about self-sacrifice begins here.
 
 ---
 
-### 3. Battle Trial Arc — Episodes 5–8
+### 3. Battle Trial Arc — Episodes 5–8 (chapters 8–11)
 
-**What happens:** The class undertakes indoor combat training at Ground Beta — two teams of two, heroes against villains, over a papier-mâché "nuclear weapon."
+**What happens:** The class undertakes indoor combat training at Ground Beta — two-person teams, heroes against villains, fighting over a papier-mâché "nuclear weapon."
 
 **Key moments:**
-- **Match 1:** Midoriya and Uraraka (heroes) vs. Bakugo and Iida (villains). Midoriya devises a plan in which Uraraka uses Zero Gravity on herself to reach Iida while Midoriya holds Bakugo off. He wins by destroying the ceiling and debris above Bakugo — breaking his arm a third time.
-- Iida concedes defeat and admits Midoriya out-thought him.
-- Midoriya is hospitalised with a broken arm. All Might warns him that he cannot keep destroying himself.
-- Bakugo confronts Midoriya in the hallway. This is the season's emotional peak: Bakugo demands to know whether All Might gave Midoriya his power. Midoriya tells the truth. **Bakugo does not believe him** — the lie that will shape the next five seasons.
+- **Match 1:** Midoriya and Uraraka (heroes) vs. Bakugo and Iida (villains). Iida guards the weapon while Bakugo goes out to hunt Midoriya personally. Midoriya devises a plan to hold Bakugo off while Uraraka reaches Iida, then wins by bringing the building's ceiling down on Bakugo — breaking his arm a third time.
+- Iida concedes defeat and admits Midoriya out-thought him. This is the beginning of their friendship.
+- Midoriya is hospitalised. All Might warns him that he cannot keep destroying himself.
+- **Bakugo confronts Midoriya in the hallway** — the season's emotional peak. He demands to know whether All Might gave Midoriya his power. Midoriya tells the truth. **Bakugo does not believe him.** That lie will shape the next five seasons.
 - Bakugo admits, painfully, that he felt he was being looked down on. Midoriya finally tells him that he has always considered Bakugo amazing.
 
-**Characters introduced:** Eijiro Kirishima, Mina Ashido, Denki Kaminari, Hanta Sero, Toru Hagakure, Momo Yaoyorozu, Fumikage Tokoyami, Mezo Shoji, Rikido Sato, Mashirao Ojiro, Koji Koda, Yuga Aoyama, Tsuyu Asui, Minoru Mineta, Kyoka Jiro.
+**Characters introduced:** The remaining Class 1-A roster — Eijiro Kirishima, Mina Ashido, Denki Kaminari, Hanta Sero, Toru Hagakure, Momo Yaoyorozu, Fumikage Tokoyami, Mezo Shoji, Rikido Sato, Mashirao Ojiro, Koji Koda, Yuga Aoyama, Tsuyu Asui, Minoru Mineta, and Kyoka Jiro.
 
 ---
 
-### 4. U.S.J. Arc — Episodes 9–13
+### 4. U.S.J. Arc — Episodes 9–13 (chapters 12–21)
 
-**What happens:** Class 1-A travels to the **Unforeseen Simulation Joint (U.S.J.)**, a disaster-rescue training facility built by the Pro Hero **Thirteen**, whose Black Hole Quirk can destroy anything. Before training begins, the facility is invaded by the **League of Villains**.
+**What happens:** Class 1-A travels to the **Unforeseen Simulation Joint (U.S.J.)**, a disaster-rescue training facility designed by the Pro Hero **Thirteen**, whose Black Hole Quirk can destroy anything. Before training begins, the facility is invaded by the **League of Villains**.
 
-The League is led by **Tomura Shigaraki**, a young man who disintegrates whatever he touches with all five fingers, accompanied by **Kurogiri**, whose Warp Gate Quirk allows teleportation, and a monstrous engineered creature called the **Nomu** — designed specifically to kill All Might.
+The League is led by **Tomura Shigaraki**, a young man who disintegrates whatever he touches with all five fingers, accompanied by **Kurogiri**, whose Warp Gate allows teleportation, and a monstrous engineered creature called the **Nomu** — designed specifically to kill All Might.
 
 **Key moments:**
-- Kurogiri scatters the students across the facility's zones to isolate them.
-- **Aizawa fights the entire villain mob alone** at the central plaza to protect the students. He is systematically dismantled — his arms broken, his legs shattered, and finally his eye gouged out by Shigaraki. He survives only because Thirteen and later All Might intervene.
-- Thirteen attempts to trap Kurogiri with Black Hole; Kurogiri opens a warp gate inside the attack, and Thirteen's own Quirk destroys their body.
-- Tsuyu Asui and Minoru Mineta survive the shipwreck zone through cleverness rather than strength — the water quirk and adhesive pop-off balls are used tactically.
-- **All Might vs. the Nomu.** The Nomu is engineered with shock absorption, rendering All Might's blows useless. All Might wins by striking continuously past his own physical limit — "**United States of Smash**" — and expels Shigaraki with a Detroit Smash.
-- All Might's muscle form fails in front of the entire class. Midoriya uses a finger-flick of One For All to distract Shigaraki, saving All Might's life.
-- The remaining villains are captured or driven off. All Might asks Midoriya not to tell anyone about his time limit.
+- Kurogiri scatters the students across the facility's zones to isolate them. Only Midoriya, Iida, Tsuyu, and Mineta remain near the entrance.
+- **Aizawa fights the entire villain mob alone** at the central plaza to protect the students. He is systematically dismantled — his arms broken, his legs crushed — and survives only because Thirteen and later All Might intervene.
+- Thirteen attempts to trap Kurogiri with Black Hole; Kurogiri opens a warp gate *inside* the attack, and Thirteen's own Quirk destroys their body.
+- Iida escapes to fetch help, using Recipro to outrun Kurogiri's gate.
+- **Tsuyu and Mineta survive the shipwreck zone** through cleverness rather than strength — her frog physiology and his adhesive pop-off balls are used tactically against water villains.
+- **All Might vs. the Nomu.** The Nomu is engineered with shock absorption, rendering All Might's blows useless. All Might wins by striking continuously past his own physical limit — "**United States of Smash**."
+- All Might's muscle form fails in front of the entire class. As Shigaraki lunges at him, **Midoriya uses a single finger-flick of One For All to distract Shigaraki**, saving All Might's life.
+- The remaining villains are captured or driven off. Shigaraki escapes, wounded and furious.
 
-**Characters introduced:** Tomura Shigaraki, Kurogiri, the Nomu, Thirteen, Recovery Girl, Doctor Garaki (briefly).
+---
+
+## Characters Introduced This Season
+
+| Character | Role | Debut |
+|---|---|---|
+| **Izuku Midoriya** | Protagonist; inherits One For All | Ep. 1 |
+| **Katsuki Bakugo** | Midoriya's rival and childhood tormentor | Ep. 1 |
+| **Toshinori Yagi / All Might** | Symbol of Peace; U.A. heroics teacher | Ep. 1 |
+| **Inko Midoriya** | Midoriya's mother | Ep. 1 |
+| **Ochaco Uraraka** | Class 1-A; Zero Gravity | Ep. 2 |
+| **Tenya Iida** | Class 1-A representative; Engine | Ep. 2 |
+| **Shota Aizawa / Eraser Head** | Class 1-A homeroom teacher | Ep. 4 |
+| **Hizashi Yamada / Present Mic** | English teacher; U.A. announcer | Ep. 3 |
+| **Nezu** | U.A. principal | Ep. 4 |
+| **Chiyo Shuzenji / Recovery Girl** | School nurse | Ep. 4 |
+| **The rest of Class 1-A** | 15 additional students | Ep. 4–5 |
+| **Thirteen** | Rescue specialist; designed the U.S.J. | Ep. 9 |
+| **Tomura Shigaraki** | Leader of the League of Villains | Ep. 9 |
+| **Kurogiri** | Warp Gate; the League's transport | Ep. 9 |
+| **The Nomu** | Engineered creature built to kill All Might | Ep. 11 |
+| **Ken Ishiyama / Cementoss · Ectoplasm · Snipe · Power Loader · Hound Dog · Sekijiro Kan / Vlad King** | U.A. faculty | Ep. 4–13 |
 
 ---
 
@@ -119,21 +146,24 @@ The League is led by **Tomura Shigaraki**, a young man who disintegrates whateve
 ## Themes
 
 ### Inheritance Without Merit
-Midoriya receives the series' greatest power essentially by chance — through one act of impulsive courage. The season spends its final arc interrogating whether he deserves it, and Aizawa's judgement that he does *not yet* control it drives the whole first year.
+Midoriya receives the series' greatest power essentially by chance — through one impulsive act of courage. The season spends its final arc interrogating whether he deserves it, and Aizawa's judgement that he does *not yet* control it drives the whole first year.
 
-### Self-Destruction as Heroism
-Midoriya breaks his arm three times in thirteen episodes. The series is explicit that this is **wrong**, not admirable. All Might, Aizawa, and Recovery Girl all tell him so. The audience is meant to feel the cost.
+### Self-Destruction Is Not Heroism
+Midoriya breaks his arm three times in thirteen episodes. The series is explicit that this is **wrong**, not admirable. All Might, Aizawa, and Recovery Girl all tell him so. The audience is meant to feel the cost, not cheer it.
 
 ### The Villain as Abandoned Child
-Shigaraki is introduced as petulant, childish, and cruel — he scratches at his neck compulsively and calls people "trash." The U.S.J. arc plants the seed of what Seasons 5 and 6 will develop: that he was made, not born.
+Shigaraki is introduced as petulant, childish, and cruel — he scratches at his neck compulsively and calls people "trash." The U.S.J. arc plants the seed of what Season 5 will develop at length: that he was made, not born.
 
 ---
 
-## Notable Production Details
+## Production Notes
 
-- Season 1 is the shortest of the series at 13 episodes, functioning as a compact introduction.
-- The opening theme is "**The Day**" by Porno Graffitti; the ending theme is "**Heroes**" by Brian the Sun.
-- The animation of All Might's fight with the Nomu in episodes 12–13 became one of the most-cited sequences of the season and established Bones' reputation for handling the material.
+- **Opening theme:** "The Day" — Porno Graffitti
+- **Ending theme:** "Heroes" — Brian the Sun
+- Season 1 aired on the **JNN network (MBS)**; the series moved to NNS (ytv) from Season 2 onward.
+- Episodes 12–13, covering All Might's fight with the Nomu, became the season's defining sequence and established Bones' reputation for handling the material.
+- The season was licensed for English release by **Funimation**, with the home video release following in May 2017.
+- An OVA, *Save! Rescue Training!*, was released on November 27, 2016, set between Seasons 1 and 2.
 
 ---
 
