@@ -217,17 +217,17 @@ Rather than a written test, U.A. administers a practical final: each pair of stu
 |---|---|---|
 | **Ibara Shiozaki · Juzo Honenuki · Tetsutetsu Tetsutetsu · Itsuka Kendo · Nirengeki Shoda · Kinoko Komori · Hiryu Rin** | Class 1-B students, seen properly for the first time | Ep. 15 |
 | **Sekijiro Kan / Vlad King** | Class 1-B homeroom teacher | Ep. 14 |
-| **Hitoshi Shinso** | General Studies student; Brainwash; the season's breakout character | Ep. 17 |
-| **Mei Hatsume** | Support Course student; inventor | Ep. 17 (cavalry battle) |
+| **Hitoshi Shinso** | General Studies student; Brainwashing; the season's breakout character | Ep. 15 |
+| **Mei Hatsume** | Support Course student; inventor | Ep. 15 |
 | **Rei Todoroki · Fuyumi Todoroki** | Shoto's mother and sister | Ep. 19 |
 | **Tensei Iida / Ingenium** | Tenya's older brother, crippled by Stain | Ep. 24 |
 | **Gran Torino (Sorahiko Torino)** | All Might's former mentor | Ep. 27 |
 | **Chizome Akaguro / Stain** | The Hero Killer | Ep. 28 |
 | **Native** | Pro Hero killed by Stain in Hosu | Ep. 29 |
-| **Manual (Susugu Mitarai)** | Pro Hero; Iida's internship supervisor | Ep. 27 |
+| **Manual (Masaki Mizushima)** | Pro Hero; Iida's internship supervisor | Ep. 27 |
 | **Nana Shimura** | Seventh holder of One For All; All Might's mentor (named in flashback) | Ep. 33 |
 
-> Mei Hatsume's debut is often misremembered as Season 3, because that is when she becomes a recurring character. She first appears in the Season 2 cavalry battle, where she joins Team Midoriya specifically to advertise her support equipment on live television.
+> Mei Hatsume's debut is often misremembered as Season 3, because that is when she becomes a recurring character. She first appears in the Season 2 obstacle race (episode 15) and joins Team Midoriya in the cavalry battle specifically to advertise her support equipment on live television.
 
 ---
 

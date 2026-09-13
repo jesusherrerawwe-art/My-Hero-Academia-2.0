@@ -61,16 +61,18 @@ Nighteye dislikes Midoriya on sight: Midoriya is the successor Nighteye did not 
 
 Chisaki's inner circle:
 
-| Member | Quirk | Notes |
+| Member | Quirk | Function |
 |---|---|---|
-| **Chronostasis** | Chronostasis | Slows a target by hitting them with his clock-hand hair |
-| **Mimic** | Mimicry | Merges into walls and controls the compound's labyrinth |
-| **Rappa (Kendo Rappa)** | Strongarm | Spins his arms at machine-gun speed |
-| **Tengai (Hekiji Tengai)** | Barrier | Creates defensive shields around Rappa |
-| **Setsuno (Toya Setsuno)** | Larceny | Teleports objects to himself |
-| **Hojo (Yu Hojo)** | Crystallisation | Coats surfaces in crystal |
-| **Tabe (Soramitsu Tabe)** | Food | Eats anything |
-| **Saki (Joi Saki)** | — | Loyalty to Chisaki |
+| **Shin Nemoto** | Confession | Forces truthful answers; the group's strategist |
+| **Rikiya Katsukame** | Energy Suck | Drains opponents' stamina and vitality |
+| **Toya Setsuno** | Larceny | Steals and relocates objects from a distance |
+| **Yu Hojo** | Crystallize | Grows sharp crystal from his skin |
+| **Soramitsu Tabe** | Food | Eats anything, including metal and concrete |
+| **Deidoro Sakaki** | Sloshed | Induces severe disorientation in anyone nearby |
+| **Kendo Rappa** | Strongarm | Rotates his shoulders at machine-gun speed |
+| **Hekiji Tengai** | Barrier | Creates dome-shaped force fields around Rappa |
+
+Working above the Eight Bullets are **Chronostasis** (Hari Kurono), whose clock-hand hair slows whatever it strikes, and **Mimic** (Joi Irinaka), who merges into the compound's walls and controls the labyrinth. Tamaki Amajiki defeats Setsuno, Hojo and Tabe single-handedly in one corridor.
 
 #### Kirishima's backstory — "Red Riot" (ep. 68)
 

@@ -13,7 +13,7 @@ This encyclopedia documents the first 113 episodes of the *My Hero Academia* ani
 | | |
 |---|---|
 | **Anime covered in detail** | Seasons 1–5 (113 episodes, 2016–2021) |
-| **Characters profiled** | 127+ across seven groups |
+| **Characters profiled** | 147+ across seven groups |
 | **Manga reference** | 430 chapters, 42 volumes (2014–2024) |
 | **Language** | English |
 | **Format** | Markdown documents |
@@ -59,7 +59,7 @@ The [seasons index](02-seasons/README.md) also provides a complete **arc timelin
 
 ### [3. Characters →](03-characters/README.md)
 
-127+ profiles organised by affiliation, each with Quirk mechanics, voice cast, first appearance, and character development.
+147+ profiles organised by affiliation, each with Quirk mechanics, voice cast, first appearance, and character development.
 
 | Group | Page | Count |
 |---|---|---|
@@ -67,9 +67,9 @@ The [seasons index](02-seasons/README.md) also provides a complete **arc timelin
 | **Class 1-B** | [→](03-characters/class-1-b.md) | 20 students |
 | **The Big Three** | [→](03-characters/big-three.md) | 3 students |
 | **U.A. Staff** | [→](03-characters/ua-staff.md) | 14 faculty |
-| **Pro Heroes** | [→](03-characters/pro-heroes.md) | 25+ heroes |
-| **Villains** | [→](03-characters/league-of-villains.md) | 30+ antagonists |
-| **Supporting Cast** | [→](03-characters/supporting-cast.md) | 15+ characters |
+| **Pro Heroes** | [→](03-characters/pro-heroes.md) | 30+ heroes |
+| **Villains** | [→](03-characters/league-of-villains.md) | 40+ antagonists |
+| **Supporting Cast** | [→](03-characters/supporting-cast.md) | 20+ characters |
 
 Notable inclusions: the full **Hero Billboard Chart JP** top ten, all four **Meta Liberation Army** commanders with their real identities, and a complete table of **One For All's nine wielders** with the Quirk each contributed.
 

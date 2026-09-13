@@ -100,13 +100,15 @@ The Joint Training is not really about who wins. It is the first sustained look 
 
 #### Round 5 — Blackwhip
 
-**Neito Monoma's** Quirk, **Copy**, lets him replicate any Quirk he touches. He copies Midoriya's One For All — expecting a strong combat Quirk, and getting instead a weak trickle of power. He immediately understands something he should not: **One For All is a stockpiled Quirk, and Midoriya's version has been accumulating for generations.**
+**Neito Monoma's** Quirk, **Copy**, replicates any Quirk he touches. He copies One For All from Midoriya and immediately finds it **useless**: Copy takes the Quirk itself, but One For All's power is a stockpile accumulated across eight generations, and Monoma cannot access any of it. He deduces the truth on the spot — that Midoriya's Quirk was *given* to him, and that it contains other people's power stored inside it. He says so out loud, in front of witnesses, which Midoriya has been trying to keep secret since the beginning of the season.
 
-Midoriya's Blackwhip erupts. He loses control completely and begins thrashing the arena, endangering his own team as much as 1-B's. **Shinso — fighting for Class 1-B — brainwashes Midoriya to stop him**, saving the match and several students. It is the single most important thing Shinso does in the series: he saves the boy who beat him in the Sports Festival, using the Quirk that everyone has treated as a villain's power.
+Midoriya's Blackwhip erupts and he loses control completely, thrashing the arena and endangering his own teammates. **Uraraka physically restrains him** while **Shinso — fighting for both classes this round — brainwashes him** to shut the outbreak down. Midoriya then breaks the brainwash and defeats Shinso; Uraraka captures Monoma, and **Class 1-A wins Round 5, 4–0.**
+
+Shinso loses the rematch and captures nobody, and tells the teachers he is disappointed in himself. **Vlad King announces that he will join the Hero Course from his second year.**
 
 **Consequences:**
-- **Shinso is accepted into the Hero Course.** Aizawa confirms the transfer.
-- **Monoma now knows Midoriya's secret** — that his Quirk was given to him, and that it contains other people's power. He keeps it.
+- **Shinso is transferred to the Hero Course** — the General Studies student everyone dismissed gets in.
+- **Monoma now knows Midoriya's secret.** He keeps it, and becomes one of the few people outside All Might who understands what Midoriya is carrying.
 - **All Might tells Midoriya about the other holders** — the vestiges — and about Blackwhip's true owner: the fifth user, **Daigoro Banjo**.
 
 #### The Vestiges Revealed (eps. 98–100)
@@ -186,24 +188,24 @@ It is one of the most devastating episodes of the series, and it exists entirely
 
 The League of Villains is broke, hunted and running out of places to hide. **Twice** is destabilising. Then they are attacked — not by heroes, but by the **Meta Liberation Army**, an organisation with more than **one hundred thousand members** embedded across Japanese society: politicians, corporate executives, publishers, ordinary citizens.
 
-The Army's ideology descends from **Destro**, the revolutionary who opposed the first Quirk regulation laws. Its leader is **Kizoku Chikara Yotsubashi**, who calls himself **Re-Destro** and who runs the Detnerat Company, a Quirk-support equipment manufacturer, as its public face. The Army believes Quirks should be legally unrestricted and that society should be reorganised around them.
+The Army's ideology descends from **Destro** — Chikara Yotsubashi, the revolutionary who opposed the first Quirk regulation laws. Its leader is Destro's descendant **Rikiya Yotsubashi**, who calls himself **Re-Destro** and who runs the **Detnerat Company**, a Quirk-support equipment manufacturer, as the Army's public face. The Army believes Quirks should be legally unrestricted and that society should be reorganised around them.
 
 | Executive | Quirk | Role |
 |---|---|---|
-| **Re-Destro** (Kizoku Chikara Yotsubashi) | Stress | Supreme leader; converts pressure into physical power |
-| **Geten** | Ice manipulation | Field commander; loyal to Destro's doctrine above all |
-| **Curious** (Chitose Kizuki) | Beast | Publishing executive; the Army's propaganda arm |
+| **Re-Destro** (Rikiya Yotsubashi) | Stress | Supreme leader; converts psychological stress into raw power |
+| **Geten** | Ice | Field commander; loyal to Destro's doctrine above all |
+| **Curious** (Chitose Kizuki) | Landmine | Publishing executive; the Army's propaganda arm |
 | **Skeptic** (Tomoyasu Chikazoku) | Anthropomorph | Data and surveillance; deeply cynical |
-| **Trumpet** | — | A member of the Diet; the Army's political face |
+| **Trumpet** (Koku Hanabata) | Incite | Member of the Diet; the Army's political face |
 
 The Army does not want to destroy the League. **It wants to absorb it.**
 
 #### The fights
 
-- **Twice vs. Trumpet.** Twice is captured and psychologically dismantled. Forced to confront the fact that he has no idea which of his copies is the original, he breaks — and then rebuilds himself, deciding that it does not matter. He creates **"Sad Man's Parade,"** an army of thousands of clones covering an entire city district, and turns the battle. Episode 110 is the best-reviewed episode of Season 5 and one of the series' most discussed.
-- **Mr. Compress vs. Curious.** Compress, who has spent the series as a performer, drops the act and reveals that he is descended from the thief **Oji Harima** and that his entire persona is a construction.
-- **Toga vs. Skeptic.** Toga fights for the simple, appalling reason that she likes her friends.
-- **Shigaraki vs. Re-Destro.** The climax. Re-Destro fights at full power, believing himself the inheritor of Destro's revolution. **Shigaraki kills him — or rather, decays everything he touches**, and Re-Destro survives only by surrendering absolutely.
+- **Twice vs. Skeptic.** Skeptic tracks and captures Twice. Twice is psychologically dismantled — forced to confront the fact that he has no idea which of his copies is the original, and that he may himself be a clone. He breaks, and then rebuilds himself, deciding that it does not matter. He creates **"Sad Man's Parade,"** an army of clones covering an entire city district, and single-handedly turns the war. Episode 110 is the best-reviewed episode of Season 5 and one of the most discussed in the series.
+- **Mr. Compress vs. Curious.** Compress, who has spent the series as a performer, drops the act and reveals that he is descended from the legendary thief **Oji Harima** and that his entire persona is a deliberate construction. Curious is killed.
+- **Toga vs. Geten.** Toga fights for the simple, appalling reason that she likes her friends.
+- **Shigaraki vs. Re-Destro.** The climax. Re-Destro fights at full power, believing himself the inheritor of Destro's revolution. **Shigaraki overpowers him completely** — his evolved Decay consumes the ground beneath them, the buildings above, and Re-Destro's own stress-empowered body. Re-Destro survives only by surrendering absolutely, and then kneels.
 
 #### Shigaraki's evolution
 
@@ -264,11 +266,14 @@ It is the largest cliffhanger the series has produced, and the war itself is ada
 | **Daigoro Banjo** | 5th One For All holder; source of Blackwhip | Ep. 90 |
 | **Hikage Shinomori · En · Yoichi Shigaraki** | 4th, 6th and 1st One For All holders | Ep. 98–100 |
 | **The 2nd and 3rd holders** | Unnamed vestiges who warn Midoriya | Ep. 98 |
-| **Hood** | High-End Nomu; fought by Endeavor | Ep. 103 |
+| **Hood** | High-End Nomu; fought by Endeavor, Hawks and three U.A. students | Ep. 103 |
 | **Oboro Shirakumo** | Aizawa and Present Mic's dead classmate; Kurogiri's body | Ep. 107 |
-| **Re-Destro (Kizoku Chikara Yotsubashi)** | Supreme leader of the Meta Liberation Army | Ep. 108 |
-| **Geten · Curious · Skeptic · Trumpet** | The Army's four lieutenants | Ep. 108 |
-| **Natsuo Todoroki (adult, on screen)** | Shoto's older brother | Ep. 101 |
+| **Re-Destro** (Rikiya Yotsubashi) | Supreme leader of the Meta Liberation Army; Quirk *Stress* | Ep. 108 |
+| **Geten** | The Army's most zealous field commander; Quirk *Ice* | Ep. 108 |
+| **Curious** (Chitose Kizuki) | Publishing executive; propaganda arm; Quirk *Landmine* | Ep. 108 |
+| **Skeptic** (Tomoyasu Chikazoku) | Data and surveillance; Quirk *Anthropomorph* | Ep. 108 |
+| **Trumpet** (Koku Hanabata) | Member of the Diet; political face; Quirk *Incite* | Ep. 108 |
+| **Natsuo and Fuyumi Todoroki** | Shoto's siblings, at the family dinner | Ep. 101 |
 | **Kotaro Shimura · Hana Shimura** | Shigaraki's parents | Ep. 111 |
 | **Young Tenko Shimura** | Shigaraki as a child | Ep. 111 |
 | **Dr. Kyudai Garaki** | All For One's physician; the Nomu's creator | Ep. 112 |

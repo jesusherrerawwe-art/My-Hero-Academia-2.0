@@ -93,7 +93,7 @@ He ranks below Endeavor because his body cannot tolerate his own Quirk — he in
 
 ### 8. Overhaul (fused form) — *Overhaul*
 
-**Justification.** Disassembly on contact, with the ability to reassemble himself from any injury — effectively immortality as long as he has matter to work with. In his fused form during the Shie Hassaikai raid he nearly killed Midoriya operating at a full 100%, and it took a **1,000,000% Delaware Detroit Smash** plus Eri's Rewind to stop him.
+**Justification.** Disassembly on contact, with the ability to reassemble himself from any injury — effectively immortality as long as he has matter to work with. In his fused form during the Shie Hassaikai raid he nearly killed Midoriya operating at a full 100%, and it took Eri's Rewind pushing One For All to **Infinite 100%** — a *United States of World Smash* — to stop him.
 
 His ceiling is genuine S-tier; his ranking is limited by his psychology, which is unstable enough to be exploited.
 
