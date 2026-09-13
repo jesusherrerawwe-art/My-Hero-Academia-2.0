@@ -9,16 +9,16 @@
 | # | Student | Hero Name | Quirk | Birthday | Voice (JP) | Voice (EN) |
 |---|---|---|---|---|---|---|
 | 1 | Itsuka Kendo | Battle Fist | Big Fist | September 9 | Saki Ogasawara | Jad Saxton |
-| 2 | Neito Monoma | Phantom Thief | Copy | May 13 | Kohei Amasaki | Austin Tindale |
+| 2 | Neito Monoma | Phantom Thief | Copy | May 13 | Kohei Amasaki | Austin Tindle |
 | 3 | Tetsutetsu Tetsutetsu | Real Steel | Steel | October 16 | Koji Okino | David Wald |
 | 4 | Ibara Shiozaki | Vine | Vines | September 8 | Miho Sakurazaka | Bryn Apprill |
 | 5 | Juzo Honenuki | Mudman | Softening | June 20 | Masamichi Kitada | Dallas Reid |
-| 6 | Kosei Tsuburaba | — | Solid Air | May 19 | Masakazu Nishida | — |
+| 6 | Kosei Tsuburaba | — | Solid Air | May 19 | Masakazu Nishida | Aaron Dismuke |
 | 7 | Sen Kaibara | Spiral | Gyrate | June 12 | Masakazu Nishida | Matt Shipman |
 | 8 | Kinoko Komori | Shemage | Mushroom | December 2 | Kei Shindo | — |
 | 9 | Yui Kodai | Rule | Size | December 19 | Yurianne Eve | Madeleine Morris |
 | 10 | Nirengeki Shoda | Mines | Twin Impact | February 2 | Kenta Okuma | — |
-| 11 | Hiryu Rin | Long Weizi | Scales | July 14 | Kosuke Kuwano | — |
+| 11 | Hiryu Rin | Long Weizi | Scales | July 14 | Kosuke Kuwano | Anthony Bowling |
 | 12 | Kojiro Bondo | Plamo | Cemedine | December 23 | Koji Okino | Tyler Walker |
 | 13 | Togaru Kamakiri | Jack Mantis | Razor Sharp | January 7 | Kiyotaka Furushima | Jean-Luc Hester |
 | 14 | Setsuna Tokage | Lizardy | Lizard Tail Splitter | October 13 | Aoi Yuki | Dawn M. Bennett |

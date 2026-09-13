@@ -1,124 +1,337 @@
 # Fun Facts & Trivia
 
-*Odd details, hidden wordplay, production stories, and records from across My Hero Academia.*
+*Hidden wordplay, production stories, records, and details that reward a second viewing.*
+
+> **How to use this page.** Sections 1–7 cover the whole series and are safe to cite in class. Section 8 contains **spoilers for the manga's ending and Season 6 onward**, and is flagged accordingly.
 
 ---
 
-## 1. Names Are Never Accidental
+## 1. No Name in This Series Is an Accident
 
-Horikoshi builds meaning into nearly every name in the series using kanji, wordplay, and homophones. This is the single densest layer of the work and the one most often lost in translation.
+Kōhei Horikoshi builds meaning into almost every name using kanji, homophones and wordplay. It is the densest layer of the work and the one most often lost in translation. In a 2024 interview he said he **deliberately chose hero names that "feel like they belong in American comics."**
 
-### The Protagonist
+### The three main names
 
-- **Izuku Midoriya (緑谷 出久).** 緑谷 means "green valley" — hence his green hair and green costume. 出久 literally reads as "to emerge / long-lasting," and is pronounced *Izuku*, a homophone for 出苦 ("to accumulate effort"). His name is a sentence about who he is.
-- **Deku (デク)** began as Bakugo's insult, a homophone for 木偶 — "wooden doll," or "useless person." Uraraka reinterprets it as sounding like できる (*dekiru*, "I can do it"). Midoriya adopts it. One of the best pieces of naming in modern shōnen.
+| Name | Kanji | Reading |
+|---|---|---|
+| **Izuku Midoriya** | 緑谷 出久 | *Midoriya Izuku* |
+| **Katsuki Bakugo** | 爆豪 勝己 | *Bakugō Katsuki* |
+| **Shoto Todoroki** | 轟 焦凍 | *Todoroki Shōto* |
 
-### The Rival
+- **緑谷** means "green valley" — hence the green hair and the green costume. **出久** is read *Izuku* and written with 出 ("to put out, to emerge") and 久 ("a long time"): a boy who puts himself out there, for a long time, before anything happens.
+- **デク (Deku)** began as Bakugo's insult, a homophone of **木偶**, "wooden doll" — a useless thing that cannot act on its own. **Uraraka reinterprets it** as sounding like できる (*dekiru*, "I can do it / it can be done"). Midoriya takes the insult and keeps the new meaning. It is the series' thesis in one word.
+- **爆豪** is "explosive greatness"; **勝己** is literally **"victory over oneself."** His parents' names are built from the same characters — his father **Masaru** (勝, victory) and his mother **Mitsuki** (光己, where 己 is "self"). The family name is an argument about self-mastery that Bakugo spends 400 chapters failing and then passing.
+- **轟** means "roar" or "thunder" and is written as **three 車 (vehicle) characters stacked on top of each other** — visually loud. **焦凍** combines 焦 ("scorch") and 凍 ("freeze"). His Quirk is written into his own given name.
+- **Dynamight** (Bakugo's hero name) is *dynamite* + *might*, echoing All Might deliberately — he is naming himself after the man he wants to surpass.
 
-- **Katsuki Bakugo (爆豪 勝己).** 爆 = explosion. 勝己 = "to win over oneself" — a name that describes the arc he does not complete until very late in the series. His parents' names are also puns: **Mitsuki** (光 = light) and **Masaru** (勝 = victory), combining to give him 爆豪 — literally "explosive victory."
-- **Dynamight** is a portmanteau of *dynamite* and *might*, echoing All Might deliberately.
+### Class 1-A
 
-### The Deuteragonist
+| Student | Kanji | The pun |
+|---|---|---|
+| Ochaco Uraraka | 麗日 お茶子 | 麗日 = "fair, bright day" (*urara-ka*); お茶子 = "tea child." Hero name **Uravity** = Uraraka + gravity. |
+| Tenya Iida | 飯田 天哉 | 天 = heaven; 哉 is an exclamatory particle — a name that sounds like it is announcing itself. **Ingenium** = engine + genius. |
+| Tsuyu Asui | 蛙吹 梅雨 | 蛙 = frog; 梅雨 = the rainy season. **Froppy** = frog + poppy. |
+| Fumikage Tokoyami | 常闇 踏陰 | "Perpetual darkness" and "treading on shadow." His hero name **Tsukuyomi** is the Shinto moon god. |
+| Momo Yaoyorozu | 八百万 百 | 八百万 = "eight million," the Japanese word for *countless*; 百 = "hundred." A girl named "a hundred out of countless things," whose Quirk creates anything. |
+| Eijiro Kirishima | 切島 鋭児郎 | 鋭 = sharp, pointed; 児郎 = "son." A bristling, spiky name. |
+| Kyoka Jiro | 耳郎 響香 | 耳 = ear; 響 = echo, resonance. |
+| Denki Kaminari | 上鳴 電気 | 電気 = electricity, literally. **Chargebolt** combines *charge* with the tail of イナズマ (*inazuma*, lightning). |
+| Mezo Shoji | 障子 目蔵 | 障子 = a paper screen; 目 = eye; 蔵 = to store. A screen full of stored eyes. |
+| Toru Hagakure | 葉隠 透 | 葉隠 = "hidden by leaves"; 透 = transparent. |
+| Minoru Mineta | 峰田 実 | 実 = fruit. His Quirk produces grape-like spheres; his hero name is **Grape Juice**. |
+| Koji Koda | 口田 甲司 | 口 = mouth — the boy who barely speaks, whose power is voice. |
+| Mashirao Ojiro | 尾白 猿夫 | 尾 = tail; 猿 = monkey. |
+| Yuga Aoyama | 青山 優雅 | 優雅 = elegant, graceful. His hero name is **Can't Stop Twinkling**. |
 
-- **Shoto Todoroki (轟 焦凍).** The surname 轟 means "roar" or "thunder" and is composed of three 車 (vehicle) characters stacked — visually loud. The given name 焦凍 combines 焦 ("scorch") and 凍 ("freeze"): his Quirk, written into his own name.
-- **Dabi (荼毘)** is the Japanese Buddhist term for **cremation**. Given that Dabi is Toya Todoroki, a boy who burned, the name is not subtle — and that is the point.
+### Class 1-B — where the puns get best
 
-### The Family
+| Student | Kanji | The pun |
+|---|---|---|
+| Juzo Honenuki | 骨抜 柔造 | 骨抜 = **"bone extraction"**; 柔造 = "making things soft." His Quirk is Softening. |
+| Tetsutetsu Tetsutetsu | 鉄哲 徹鐵 | 鉄 = iron, four times in one name. Hero name: **Real Steel**. |
+| Ibara Shiozaki | 塩崎 茨 | 茨 = thorn, briar. |
+| Yosetsu Awase | 泡瀬 洋雪 | His name is homophonous with 溶接 (*yōsetsu*), the Japanese word for **welding**. His Quirk is Weld. |
+| Manga Fukidashi | 吹出 漫我 | 吹出 = 吹き出し, a **comic speech balloon**; 漫我 ≈ 漫画 (*manga*). His Quirk manifests onomatopoeia. |
+| Kojiro Bondo | ボンド | His name sounds like *bondo*, the Japanese loanword for **"bond" / glue**. His Quirk's name, **Cemedine**, is a real Japanese brand of adhesive. |
+| Setsuna Tokage | 取蔭 切奈 | Her surname *Tokage* is homophonous with 蜥蜴, the Japanese word for **lizard**. Her Quirk is Lizard Tail Splitter. |
+| Kinoko Komori | 小森 希乃子 | Her given name *Kinoko* is homophonous with キノコ, **mushroom** — which is also the exact name of her Quirk. She ends sentences with "~noko." |
+| Reiko Yanagi | 柳 レイ子 | 柳 = willow; *Reiko* sounds like 霊子, "spirit." Her Quirk is Poltergeist. |
+| Yui Kodai | 小大 唯 | 小大 = **"small-big."** Her Quirk is Size. |
+| Jurota Shishida | 宍田 獣郎太 | 獣 = beast. His hero name **Gevaudan** is the Beast of Gévaudan. |
+| Hiryu Rin | 鱗 飛竜 | 鱗 = scale; 飛竜 = flying dragon. |
+| Nirengeki Shoda | 庄田 二連撃 | 二連撃 = "double strike." His Quirk is Twin Impact. |
+| Pony Tsunotori | 角取 砲乃 | 砲 = cannon. Her Quirk is Horn Cannon. |
 
-- **Endeavor's real name, Enji Todoroki (轟 炎司).** 炎 = flame; 司 = to direct or administer. He is literally "flame administrator" — a man who treats fire as a managerial function.
-- **Toya (燈矢)**: 燈 means "lamplight" or a small flame. The son Endeavor dismissed as too weak was named for a candle.
+**Kinoko Komori's hero name "Shemage"** is a double pun: it sounds like *shimeji*, an edible mushroom, and like **"she-mage,"** which fits her witch-style costume. Her costume is based on a fly agaric — the classic red-and-white toadstool. Horikoshi originally named her **"Gnocchi Nyokonyoko"** (*Much Mush Muse* in English) and changed it because it was too difficult to pronounce.
 
-### The Villains
+### The Big Three
 
-- **Tomura Shigaraki (死柄木 弔).** 弔 means "to mourn" — the name All For One gave him. 死柄木 combines 死 (death), 柄 (handle/pattern), and 木 (tree/wood).
-- **Tenko Shimura (志村 転弧).** His birth name. 転弧 suggests turning or rotation — before All For One renamed him for grief.
-- **Himiko Toga (渡我 被子).** 渡我 can read as "to hand over myself" — appropriate for a girl whose Quirk is becoming someone else.
-- **All For One** and **One For All** are deliberate inversions of each other, taken from the Three Musketeers' motto *"Un pour tous, tous pour un."* The villain's name describes taking; the hero's describes giving.
-- **Re-Destro.** "Destro" was the original Meta Liberation Army founder; the "Re-" prefix marks him as the ideology's rebirth.
+| Student | Kanji | The pun |
+|---|---|---|
+| Mirio Togata | 通形 ミリオ | 通 = **to pass through** — his Quirk is Permeation. |
+| Tamaki Amajiki | 天喰 環 | 天喰 = **"devouring the heavens"** — his Quirk lets him eat anything and manifest its properties. |
+| Nejire Hado | 波動 ねじれ | 波動 = **wave motion** (her Quirk); ねじれ = **spiral** (her hair). |
 
----
+### Staff and heroes
 
-## 2. Horikoshi Almost Never Made It
+- **Shota Aizawa (相澤 消太)** — 消 = **erase**. His hero name, Eraser Head, is redundant.
+- **Hizashi Yamada (山田 日差志)** — 日差 = **sunshine**. Present Mic.
+- **Mei Hatsume (発目 明)** — 発 = to emit or invent, 目 = eye, 明 = bright. Her Quirk, Zoom, is superhuman vision. Her name is an invention about eyes.
+- **Nezu (根津)** — the principal's name is homophonous with **鼠 (*nezumi*), "mouse" or "rat,"** which is why his running joke is that nobody knows whether he is "a dog, a mouse, or a bear."
+- **Keigo Takami (鷹見 啓悟)** — 鷹 = **hawk**. His hero name is Hawks.
+- **Kai Chisaki (治崎 廻)** — 廻 = **to revolve, to go around**. His hero name is Overhaul.
+- **Inasa Yoarashi** — Horikoshi has confirmed his appearance and hero name are an homage to **Chewbacca** from *Star Wars*.
 
-- Horikoshi had **two cancelled series** before *My Hero Academia*: *Ōmagadoki Zoo* (2010–2011, 3 volumes) and *Barrage* (2012, 2 volumes). *Jump*'s reader-survey system cancels poorly performing series within months. He has described MHA as effectively his last attempt.
-- Before serialisation he drew a one-shot version of the concept. Elements of it survive in the published series.
-- He has said that the reason he set out to write a superhero manga at all was that he wanted to draw something in the tradition of American comics, which he loved, inside a magazine that did not publish that kind of story.
+### Villains
 
----
-
-## 3. Records and Milestones
-
-- The manga surpassed **100 million copies in circulation** by April 2024 — roughly 60 million in Japan and 40 million internationally.
-- The anime ran for **8 seasons and 170 episodes** over **9 years and 8 months** (April 3, 2016 – December 13, 2025).
-- All **eleven episodes** of the Final Season earned ratings above **9.0 on IMDb**, making it the first full-length anime season to achieve that record.
-- The series won **Best Manga at the Harvey Awards in 2019**, one of the most prestigious American comics honours.
-- It was nominated for the **Manga Taishō** award.
-
----
-
-## 4. Production Details
-
-- **All Might's voice** is performed by **Kenta Miyake** in Japanese and **Christopher Sabat** in English. Sabat is better known to Western audiences as the voice of Vegeta in *Dragon Ball Z* — and both actors deliberately shift register between All Might's heroic form and his true form, Toshinori Yagi. The true-form voice is higher, wheezier, and entirely different in both dubs.
-- **Bones** kept the same core staff for the entire run: director **Kenji Nagasaki**, series composer **Yōsuke Kuroda**, character designer **Yoshihiko Umakoshi**, and composer **Yuki Hayashi**.
-- **Yuki Hayashi's** score is written for full orchestra with heavy brass, deliberately imitating Western superhero film scoring rather than the typical anime soundtrack. The main heroic theme, "**You Say Run**," is used so consistently that fans can identify a character's victory from the first two bars.
-- Horikoshi served as **supervisor** on all four films, and personally designed several original characters for them.
-- **Kei Shindo** voices three separate characters: **Kyoka Jiro**, **Kinoko Komori**, and **Fuyumi Todoroki**.
-- **Aoi Yuki** voices both **Tsuyu Asui** and **Setsuna Tokage**, plus **Pony Tsunotori**.
-- **Junichi Suwabe** voices both **Shota Aizawa** and **Jurota Shishida**.
-- **Kaito Ishikawa** voices both **Tenya Iida** and **Manga Fukidashi**.
-- **Masakazu Nishida** voices **Mezo Shoji** plus three Class 1-B students: Sen Kaibara, Kosei Tsuburaba, and Ectoplasm.
-
----
-
-## 5. Hidden Details and Callbacks
-
-- **Midoriya's notebooks.** The thirteen "Hero Analysis for the Future" notebooks appear from Episode 1 and are referenced throughout the entire series. All Might burns notebook No. 13 early on; Midoriya later replaces it. The notebooks are the origin of his tactical intelligence and are the reason he can analyse Quirks mid-battle.
-- **Bakugo's drum.** Bakugo plays drums. This is never treated as significant in-universe but pays off in the School Festival arc, where Class 1-A's band performance features him.
-- **Uraraka's parents' construction company** is referenced repeatedly and never resolved on screen — a deliberate piece of unfinished business that Horikoshi acknowledged.
-- **Eri's horn.** Her single horn grows longer as her Rewind Quirk charges. When it reaches full length, the Quirk activates. This is visible in the background of several scenes before it is explained.
-- **All Might's time limit counts down.** In Season 1 he can hold his form for about three hours. By Season 3 it is seconds. The animation team tracked this precisely and reduced the amount of steam his body emits as the series progressed.
-- **Midoriya's costume evolves** because he keeps destroying it. Version 1 is homemade by his mother. Version 2 adds Iron Soles. Version 3 adds support gauntlets from All Might. Each redesign corresponds to a specific injury he suffered.
-- **Aizawa's capture weapon** is the same design as the one Hitoshi Shinso later adopts — a deliberate visual signal of the mentorship before it is stated.
-- **Shigaraki's hands.** He wears the preserved hands of his family members on his body throughout the series. When he stops wearing them, it marks a specific psychological shift.
-- **The zero-pointer.** The enormous robot in the U.A. entrance exam is the same design used in later entrance exams, and its presence is a deliberate test of character rather than combat: it awards no points, so the only reason to fight it is to protect someone.
-
----
-
-## 6. Cultural and Genre References
-
-- **Spider-Man** is the series' most obvious Western ancestor. Midoriya is a poor, self-doubting teenager whose personal life collapses whenever he does the right thing — and Horikoshi has cited Spider-Man directly.
-- The **Meta Liberation Army** is modelled on Marvel's **Brotherhood of Mutants**: an organisation of super-powered people demanding the right to exist without regulation.
-- **X-Men**'s central anxiety — that a society will fear and legislate against people born different — underlies the entire Quirk-registration system.
-- The **Nomu** are drawn from **kaiju** and tokusatsu tradition: giant engineered monsters that cannot be reasoned with.
-- **Stain's** design and philosophy borrow from Japanese *gekiga* antiheroes and from the slasher-film aesthetic — he is framed more like a horror villain than a shōnen antagonist.
-- **Gentle Criminal** is written as a parody of the Victorian gentleman thief, and his voice actor, **Koichi Yamadera**, plays him with deliberate theatrical excess.
-- The **Shie Hassaikai** arc borrows heavily from yakuza film conventions: the boss, the abused child, the loyal subordinate, the underground labyrinth.
+- **Tomura Shigaraki (死柄木 弔)** — 死 (death) + 柄 (handle) + 木 (tree/wood); **弔 means "to mourn."** All For One named him. It is a funeral name given to a child.
+- **Tenko Shimura (志村 転弧)** — his birth name, before the renaming.
+- **Himiko Toga (渡我 被子)** — 渡我 can be read as "to hand over myself," which suits a girl whose Quirk is becoming someone else.
+- **Kurogiri (黒霧)** — literally **"black mist."** He is a warp gate made of dark fog.
+- **Dabi (荼毘)** — the Japanese Buddhist word for **cremation**. ⚠️ Given that Dabi is Toya Todoroki, a boy who burned to death and came back, the name is not subtle — and that is the point.
+- **Toya (燈矢)** — 燈 means **lamplight**, a small flame. The son Endeavor dismissed as too weak to inherit his fire was named for a candle.
+- **Enji Todoroki (轟 炎司)** — 炎 = flame, 司 = to administer or direct. He is literally a **"flame administrator,"** a man who treats fire as a managerial function.
+- **All For One** and **One For All** are deliberate inversions: the villain's name describes taking, the hero's describes giving. Both echo the Three Musketeers' motto, *"Un pour tous, tous pour un."*
+- **Re-Destro** — "Destro" was the founder of the Meta Liberation Army; the "Re-" prefix marks him as the ideology's rebirth. His surname, **Yotsubashi**, is inherited from Destro himself.
 
 ---
 
-## 7. Odd Facts
+## 2. "Plus Ultra" Is a Real Motto With a Real History
 
-- **Thirteen's gender is never specified** anywhere in the manga or anime. Horikoshi has declined to answer questions about it.
-- **Principal Nezu** has never confirmed what species he is. He offers "dog, mouse, or bear" and refuses to elaborate.
-- **Recovery Girl's** healing works by transferring her own stamina to the patient, which means the patient must have enough energy left to heal themselves. This is why she cannot save people who are already dying — a rule the series enforces strictly.
-- **Minoru Mineta** is the only Class 1-A student whose Quirk has no combat application at all in its base form, yet he passes the Provisional Licence Exam.
-- **Momo Yaoyorozu** is the wealthiest student at U.A. Her family's fortune is large enough that she considers the cost of materials irrelevant.
-- **Denki Kaminari's** "wheeey" state — the vacant thumbs-up expression he makes after exceeding his wattage limit — became one of the most-memed images in anime.
-- **Toru Hagakure's** face is never shown for the vast majority of the series. Horikoshi teased her appearance in supplementary material.
-- **Kinoko Komori's** hero name, "**Shemage**," is a pun combining *shē* (an exclamation of surprise) and *meiji/mushroom*-related wordplay. It was one of the names the class reacted to with confusion.
-- **Neito Monoma** is physically restrained by **Itsuka Kendo** — usually with a karate chop to the back of the neck — in nearly every scene where he antagonises Class 1-A. The gag is repeated so consistently that fans track it as a running counter.
+U.A.'s motto, shouted by All Might and eventually by the whole class, is **Latin for "further beyond."** In Japanese it is rendered 更に向こうへ (*sara ni mukō e*) — "even further on the other side."
+
+It is the **national motto of Spain**. It comes from **Charles V**, Holy Roman Emperor, who adopted it as a deliberate reversal of the phrase said to be inscribed on the **Pillars of Hercules** at the Strait of Gibraltar — *"Non plus ultra,"* "nothing further beyond," the ancient warning marking the edge of the known world. After Columbus proved there was something on the other side, Charles struck the *non* and made the boast his own. It still appears on Spain's coat of arms.
+
+The series' English translator, **Caleb Cook**, has pointed out a likely extra layer: the 越 in Horikoshi's own name (堀**越**) means "to go beyond" — specifically the version of "beyond" that denotes crossing a boundary in space or time rather than merely exceeding an amount. Whether Horikoshi intended it has never been confirmed, but the motto and the author's name say the same thing.
 
 ---
 
-## 8. The Ending, In Brief
+## 3. Horikoshi Almost Never Made It
 
-> **Spoilers for the full series beyond Season 5.**
+**Kōhei Horikoshi** (堀越 耕平) was born **November 20, 1986** in Aichi Prefecture and graduated from **Nagoya University of Arts**. Before *My Hero Academia* he published three one-shots and two cancelled series:
 
-- The manga ended with **chapter 430** on August 5, 2024, followed by a **38-page epilogue** in volume 42 (commonly numbered chapter 431).
-- Horikoshi **confirmed the epilogue is canon** in the volume's afterword, describing chapters 430 and 431 as being like "unlockable content in a video game" — not part of the main plot, but genuine.
-- The epilogue jumps **eight years** past the final battle. **Kota Izumi** is a U.A. student. Class 1-A have become Pro Heroes.
-- **Midoriya confesses to Ochaco Uraraka**, and they begin a relationship. Horikoshi's confirmation of the epilogue's canonicity ended a long-running fandom dispute over the pairing.
-- The final anime episode, **episode 170**, titled "**My Hero Academia**," aired on **December 13, 2025**.
+| Work | Year | Magazine | Result |
+|---|---|---|---|
+| *Tenko* (テンコ) | 2007 | Akamaru Jump | One-shot |
+| *My Hero* (僕のヒーロー) | 2008 | Akamaru Jump | One-shot |
+| *Shinka Rhapsody* | 2008 | Akamaru Jump | One-shot |
+| *Ōmagadoki Zoo* / *Witching Hour Zoo* | 2010–11 | Weekly Shōnen Jump | Cancelled |
+| *Barrage* (戦星のバルジ) | 2012 | Weekly Shōnen Jump | Cancelled after 16 chapters |
+| **My Hero Academia** | 2014–2024 | Weekly Shōnen Jump | 430 chapters, 42 volumes |
+
+*Weekly Shōnen Jump* runs on a reader-survey system: series that fall in the rankings are cut within months. After two cancellations, Horikoshi has described *My Hero Academia* as effectively his **last attempt**, and has said plainly that **if it had not succeeded he would have stopped drawing manga entirely.** He has spoken about the "vaguely desperate feeling of trying one last time" that weighed on him during the series' creation — and that he poured directly into Midoriya's state of mind in chapter 1.
+
+**His 2007 one-shot was called *Tenko*.** ⚠️ That is also the birth name of Tomura Shigaraki.
+
+---
+
+## 4. What He Borrowed
+
+Horikoshi is unusually open about his influences, and they are not what a reader of *Jump* would predict.
+
+- **Spider-Man** is his favourite hero, and the series' clearest Western ancestor. He has specifically cited **Sam Raimi's *Spider-Man 2***: the scene where Spider-Man stops the runaway train, the passengers see his face, and a child hands him back his mask saying *"I won't tell anyone."* Horikoshi has said that moment shaped how he thinks about what a hero is. He has also named *Superior Spider-Man* and Venom as favourites.
+- His key insight was structural: **"Japanese superheroes like Ultraman and Kamen Rider transform, but Spider-Man is still Peter Parker inside the costume."** That difference — a hero who remains an ordinary person — is why All Might has a true form at all.
+- **Son Goku** inspired All Might directly. Horikoshi's shorthand: Goku is the hero who **wins** and reassures everyone; Spider-Man is the hero who **saves**. All Might is both.
+- His childhood favourites were **Dragon Ball, One Piece and Naruto**. He has said Masashi Kishimoto taught him to **draw emotion through hands** — which matters, because ⚠️ hands are the central visual motif of *My Hero Academia*, from the corpses Shigaraki wears to the clasped hands of the final chapter.
+- He is also obsessed with hands as a drawing problem, and cites **Mike Mignola** (*Hellboy*) as an influence on how he renders them.
+- **Gaara** is his favourite *Naruto* character.
+- He loves **Godzilla and Gamera** and goes to see every film. The **Nomu** are drawn from that kaiju tradition: engineered monsters that cannot be reasoned with.
+- **Star Wars** is a stated influence; Inasa Yoarashi is a deliberate Chewbacca homage.
+- **Hawks' original design had a bird head.** Horikoshi has said so directly, and that the redesign into a handsome young man was a late decision.
+- The **Meta Liberation Army** reads as an analogue of the X-Men's Brotherhood: super-powered people demanding the legal right to exist without regulation, in a world that legislates against them.
+- The **Shie Hassaikai** arc borrows yakuza-film conventions wholesale: the ageing boss, the abused child, the loyal subordinate, the underground labyrinth.
+- **Stain** is framed like a horror villain rather than a shōnen antagonist — knife, tongue, slasher silhouette — which is why his first appearance plays as a genre break.
+
+⚠️ **The ending of *Heroes: Rising*, the second film, was Horikoshi's originally planned ending for the manga.** He has said he gave it away to the film because he did not think he would be able to top it later.
+
+In **December 2024**, after the manga concluded, Horikoshi did an art exchange with **Marvel Comics**: he drew Spider-Man, and Marvel artists Humberto Ramos and Edgar Delgado drew *My Hero Academia* characters.
+
+---
+
+## 5. Production: The Same Crew for Ten Years
+
+The anime is remarkable for how little of its core staff changed across eight seasons and nine years.
+
+| Role | Person | Seasons |
+|---|---|---|
+| Studio | **Bones** (credited as **Bones Film** from Season 8) | All |
+| Director | **Kenji Nagasaki** | S1–S3 (with Tomo Ōkubo on eps. 39–51) |
+| Chief director | **Kenji Nagasaki** | S4–S8 |
+| Director | **Masahiro Mukai** | S4–S6 |
+| Director | **Naomi Nakayama** | S7–S8 |
+| Series composition | **Yōsuke Kuroda** | All |
+| Character design | **Yoshihiko Umakoshi** | All |
+| Assistant / co-character design | **Hitomi Odashima** | From S2 |
+| Music | **Yuki Hayashi** | All |
+| Narration | Hiroyuki Yoshino (exposition); Daiki Yamashita (retrospection) | All |
+
+**Yuki Hayashi's** score is written for full orchestra with heavy brass, deliberately imitating Western superhero film scoring rather than the typical anime soundtrack. Its main heroic theme, **"You Say Run,"** is used so consistently across nine years that fans can identify a character's victory from the first two bars. It plays over the finale of Season 8 as well.
+
+Horikoshi served as **supervisor on all four films** and personally designed several original characters for them.
+
+| Film | Year |
+|---|---|
+| *My Hero Academia: Two Heroes* | 2018 |
+| *My Hero Academia: Heroes: Rising* | 2019 |
+| *My Hero Academia: World Heroes' Mission* | 2021 |
+| *My Hero Academia: You're Next* | 2024 |
+
+**Spin-offs.** *My Hero Academia: Smash!!* (Hirofumi Neda, a gag four-panel series), *My Hero Academia: Vigilantes* (Hideyuki Furuhashi and Betten Court, a prequel about unlicensed heroes, which later received its own anime), *My Hero Academia: Team-Up Missions* (Yōkō Akiyama), and the *School Briefs* novel series.
+
+---
+
+## 6. The Voice Cast Is Smaller Than You Think
+
+A large number of the cast play multiple characters — often in the same scene.
+
+### Japanese
+
+| Actor | Roles |
+|---|---|
+| **Kei Shindō** | Kyoka Jiro, Kinoko Komori, Fuyumi Todoroki, **and young Shoto Todoroki** |
+| **Masakazu Nishida** | Mezo Shoji, Ectoplasm, Kosei Tsuburaba, Sen Kaibara |
+| **Kenta Ōkuma** | Cementoss, Manual, Centipeder, Nirengeki Shoda |
+| **Aoi Yūki** | Tsuyu Asui, Pony Tsunotori, Setsuna Tokage |
+| **Kōhei Amasaki** | Neito Monoma, Shihai Kuroiro |
+| **Kaori Nazuka** | Mt. Lady, Toru Hagakure |
+| **Jun'ichi Suwabe** | Shota Aizawa, Jurota Shishida |
+| **Kaito Ishikawa** | Tenya Iida, Manga Fukidashi |
+| **Ayane Sakura** | Ochaco Uraraka, Reiko Yanagi |
+| **Masamichi Kitada** | Kamui Woods, Tensei Iida, young Gran Torino |
+| **Kiyotaka Furushima** | Hanta Sero, Togaru Kamakiri |
+| **Kōji Okino** | Tetsutetsu Tetsutetsu, Kojiro Bondo |
+| **Kosuke Kuwano** | Yuga Aoyama, Hiryu Rin |
+| **Eri Kitamura** | Mina Ashido, Tenya Iida's mother |
+| **Sayaka Kinoshita** | Mirko, the HPSC President |
+| **Go Inoue** | Stain, newscaster Daikaku Miyagi |
+| **Yasuhiro Mamiya** | Mimic, Gigantomachia |
+| **Shinnosuke Ogami** | Death Arms, Tiger |
+
+**Kei Shindō voicing both Kyoka Jiro and young Shoto Todoroki** means the same person plays a Class 1-A student and the childhood version of another one. **Masakazu Nishida** voices a Class 1-A student, two Class 1-B students, and a U.A. teacher.
+
+### English
+
+| Actor | Roles |
+|---|---|
+| **Christopher Sabat** | All Might — Sabat is better known to Western audiences as Vegeta in *Dragon Ball Z* |
+| **Mike McFarland** | Mashirao Ojiro and Ectoplasm |
+| **Luci Christian** | Ochaco Uraraka and Recovery Girl (from Season 2) |
+| **Cris George** | Death Arms, Rikido Sato and Gigantomachia |
+| **David Wald** | Snipe and Tetsutetsu Tetsutetsu |
+| **Zeno Robinson** | Hawks and Deidoro Sakaki |
+| **Jerry Jewell** | Principal Nezu and Kesagiri Man |
+
+Both dubs shift register for **All Might's true form**: the heroic voice and Toshinori Yagi's voice are performed as two different characters. In Japanese, **Kenta Miyake** plays the emaciated form higher and wheezier; **Christopher Sabat** does the same in English.
+
+**Recast roles.** Aizawa's English voice changed from **Alex Organ** (Season 1) to **Christopher Wehkamp** (Seasons 2–8). Present Mic changed from **Sonny Strait** (episodes 1–16) to **Dave Trosko** (episodes 17–170). Recovery Girl changed from **Juli Erickson** (Season 1) to **Luci Christian** (Seasons 2–8).
+
+**Mei Hatsume's Japanese voice is Shiori Sakurai.** Several English-language sources list her as "Azu Sakura," which is an error that has propagated across wikis.
+
+---
+
+## 7. Records, Milestones and Numbers
+
+### The manga
+
+- Serialised in *Weekly Shōnen Jump* from **July 7, 2014** to **August 5, 2024** — **430 chapters** in **42 volumes**, over exactly ten years and one month.
+- By **April 2024** the series had passed **100 million copies in circulation** worldwide, including digital: roughly **60 million in Japan and 40 million elsewhere**. The milestone was announced with volume 40 on April 4, 2024, marked by a Horikoshi illustration, a promotional video narrated by Daiki Yamashita, and a full-page advertisement in the *Yomiuri Shimbun* featuring more than ninety characters.
+- That puts *My Hero Academia* in a club of roughly **twenty-one manga series** ever to pass 100 million — alongside *Dragon Ball*, *One Piece*, *Slam Dunk*, *Naruto*, *Attack on Titan*, *Demon Slayer* and *Kingdom*.
+- **Volume 42**, released December 4, 2024 with **38 additional pages**, reached **one million copies in circulation within a single week** of release.
+- Horikoshi's reaction to the 100 million figure: *"In sneakers with thin soles, I walked a path that has been paved by many great manga and anime. I think this number is a result of being blessed with the times."*
+
+### Awards
+
+| Year | Award | Result |
+|---|---|---|
+| 2015 | 1st Next Manga Award (print) | **Won** |
+| 2015 | Mandō Kobayashi Manga Award, Grand Prix | **Won** |
+| 2015 | 8th Manga Taishō | Nominated (8th place) |
+| 2016 | 40th Kodansha Manga Award, Best Shōnen | Nominated |
+| 2017 | 3rd Sugoi Japan Award, Best Manga | **Won** |
+| 2017 | Japan Expo Awards, Daruma d'Or Manga | **Won** |
+| 2017 | 23rd Salón del Manga de Barcelona, Best Shōnen | **Won** |
+| 2017 · 2020 | Angoulême International Comics Festival, Best Youth Comic | Nominated |
+| 2018 | Japan Expo Awards, Daruma for Best Shōnen | **Won** |
+| 2018 | 30th Harvey Awards, Best Manga | Nominated |
+| **2019** | **31st Harvey Awards, Best Manga** | **Won** |
+
+The **Harvey Award** is one of the oldest and most prestigious honours in American comics, presented at New York Comic Con. *My Hero Academia* beat Junji Ito's *Frankenstein*, *Mob Psycho 100*, *Our Dreams at Dusk*, *Smashed* and *Witch Hat Atelier* to win it.
+
+### The anime
+
+| Season | Episodes | Japanese broadcast |
+|---|---|---|
+| 1 | 13 | Apr 3 – Jun 26, 2016 |
+| 2 | 25 | Apr 1 – Sep 30, 2017 |
+| 3 | 25 | Apr 7 – Sep 29, 2018 |
+| 4 | 25 | Oct 12, 2019 – Apr 4, 2020 |
+| 5 | 25 | Mar 27 – Sep 25, 2021 |
+| 6 | 25 | Oct 1, 2022 – Mar 25, 2023 |
+| 7 | 21 | May 4 – Oct 12, 2024 |
+| 8 (*Final Season*) | 11 | Oct 4 – Dec 13, 2025 |
+| **Total** | **170** | **9 years, 8 months** |
+
+- The broadcast finale is **episode 170, titled simply *"My Hero Academia"*** — the series' own name as its last title — which aired **December 13, 2025**.
+- A **bonus special, episode 171 *"More,"*** aired **May 2, 2026** and adapts chapter 431, the epilogue bundled with the final manga volume.
+- Across eight seasons the anime used **twenty-eight theme songs** — fourteen openings and fourteen endings.
+- The Final Season's highest-rated episodes scored extraordinarily well with international audiences: episode 167, *"Izuku Midoriya: Rising,"* holds an **IMDb rating around 9.8** from roughly twenty-nine thousand votes, and the finale sits near **9.4**.
+
+### Worldbuilding numbers
+
+- **80%** of the world's population has a Quirk.
+- The first recorded Quirk birth was a **glowing baby born in Qing Qing City, China**, shown in episode 1. ⚠️ The series eventually reveals what became of that child: the fame turned into a peace movement of more than ten million people, and **All For One stole the Quirk and killed its holder**. The cult Humarise, from the film *World Heroes' Mission*, worships the baby as a deity.
+- The U.A. entrance exam's **zero-pointer awards zero points of every kind** — no villain points, no rescue points. The only reason to fight it is to protect somebody. It is a character test disguised as an obstacle.
+- Class 1-A and Class 1-B each have **20 students**.
+- One For All has been passed down through **nine wielders** across roughly fifty years.
+
+---
+
+## 8. Hidden Details, Callbacks and Running Gags
+
+- **Midoriya's notebooks.** The series *Hero Analysis for the Future* runs to at least thirteen volumes. **Notebook No. 13 is the one Bakugo burns.** In chapter 1 he snatches it, scorches it with an explosion, and throws it out of the classroom window into the school's koi pond. Midoriya fishes it out and keeps using it — burnt and waterlogged. **All Might later signs an autograph in that same notebook.** Notebooks 1 through 12 are visible in the flashbacks of chapter 1 and in episode 13.5. The notebooks are the actual source of Midoriya's tactical intelligence: he reads Bakugo's opening move in their first real fight because he had already written it down.
+- **Bakugo plays the drums.** It is treated as a throwaway character note for most of the series and pays off in the School Festival arc, where Class 1-A's band performance features him on the kit.
+- **Uraraka's parents' construction company** is referenced repeatedly and never resolved on screen — the family's financial struggle is the entire reason she wants to be a hero, and it is one of the few major threads Horikoshi leaves deliberately open.
+- **Eri's horn** grows longer as her Rewind Quirk charges. It is visible in the background of scenes well before the mechanic is explained.
+- **All Might's time limit counts down.** In Season 1 he can hold his muscle form for roughly three hours. By Kamino it is seconds. The transformation's steam is the visualisation of a body burning through borrowed time.
+- **Midoriya's costume evolves because he keeps destroying it.** Version 1 (Alpha) is sewn by his mother, rabbit ears included, modelled on All Might. Later versions add the iron soles for Shoot Style, upgraded mouth and eye protection, and arm bracing built specifically to stop his bones from shattering. Each redesign maps onto an injury he actually suffered.
+- **Aizawa's capture weapon and Shinso's binding cloth are the same design** — a visual signal of the mentorship before it is ever stated in dialogue.
+- **Shigaraki's hands.** He wears the preserved hands of his family on his body for most of the series. ⚠️ When he stops wearing them, it marks a specific and irreversible psychological shift.
+- **Kaminari's "ウェイ" (*wei*) face** — the vacant, thumbs-up expression he makes after exceeding his wattage limit — became one of the most-memed images in anime.
+- **Kendo karate-chops Monoma.** Usually to the back of the neck, usually mid-insult. The gag is repeated so consistently that fans track it as a running counter.
+- **Recovery Girl's healing is not free.** Her Quirk accelerates the patient's own natural recovery and draws on *their* stamina, not hers — which is why she cannot save someone who has nothing left to heal with. The series enforces this rule strictly.
+- **Toru Hagakure's face** is never shown for almost the entire run. Asked about it in a 2021 Q&A, Horikoshi said he was "not sure." ⚠️ He eventually drew her full appearance in bonus material.
+- **Mezo Shoji's face** is likewise kept hidden for most of the run. In the same Q&A Horikoshi said it would eventually be revealed.
+
+### Things the series refuses to explain
+
+- **Thirteen's gender is never stated** in the manga or the anime. The character's official profile leaves it blank, and Horikoshi has declined to settle it. Thirteen is referred to in ways that avoid the question entirely.
+- **Principal Nezu's species is never confirmed.** He offers "a dog, a mouse, or a bear" and refuses to elaborate. His High Spec Quirk is described as animal intelligence raised above human levels, which explains nothing.
+- **Hisashi Midoriya** — Izuku's father — works overseas and never appears. Horikoshi has said the character exists largely to account for Izuku's Quirk genetics.
+- **The glowing baby's Quirk** is never identified.
+
+---
+
+## 9. ⚠️ The Ending, In Brief
+
+> **Full spoilers for the manga's conclusion, beyond Season 5.**
+
+**How it ends.** The manga's story proper concludes with **chapter 429**. Chapter **430** is a curtain call set after the final war; chapter **431**, an epilogue of **38 pages** bundled with volume 42, jumps **eight years** forward.
+
+In his volume 42 afterword Horikoshi described the structure explicitly: chapter 429 is the ending "in essence," chapter 430 was drawn "with the sense that it was a **bonus stage in a video game**," and chapter 431 is where **"I turn off the cameras and free the characters from their dramas."** All three are canon and were published as chapters 429, 430 and 431 in sequence.
+
+**Where everyone ends up.**
+
+- **Izuku Midoriya loses One For All entirely.** The last embers of it fade from his body. He becomes a **teacher at U.A.** — the Quirkless boy who wanted to be a hero ends up doing the job All Might and Aizawa did for him.
+- **Katsuki Bakugo** is a Pro Hero and returns to U.A. as a **guest lecturer**, which he objects to on the grounds that he does not want to be used as a cautionary example.
+- **Class 1-A are Pro Heroes.** Shoto Todoroki is ranked high enough that the class celebrates it.
+- ⚠️ **Toya Todoroki (Dabi) dies** during the eight-year gap, in hospital confinement. Shoto mentions praying at his altar.
+- **Kota Izumi** — the boy who hated heroes — is a **U.A. student**.
+- ⚠️ **Shihai Kuroiro and Kinoko Komori** from Class 1-B are **dating**, revealed casually in overheard conversation.
+- ⚠️ **Midoriya and Uraraka.** In the epilogue's final scene, Midoriya tells Uraraka that she has always been *his* hero, and that he wants to talk with her more — not just today, but from now on. She answers, "the feeling's mutual," and the series ends on the two of them **clasping hands**. It is the only event that actually happens in chapter 431, and it is deliberately understated.
+
+**On screen.** The anime's broadcast finale, episode 170 *"My Hero Academia,"* ends with Class 1-A's graduation and the last embers of One For All going out. The epilogue itself was adapted as the bonus special **episode 171, *"More,"*** which aired **May 2, 2026**. Horikoshi was heavily involved in the Final Season's production and wrote **new original scenes** that do not appear in the manga.
+
+**What came next.** Horikoshi returned to *Weekly Shōnen Jump* in 2026 with a new one-shot, ***Quit Laughing, Shijima*** (笑わないでよ しじまさん).
 
 ---
 

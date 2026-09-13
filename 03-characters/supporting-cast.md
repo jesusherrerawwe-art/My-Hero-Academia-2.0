@@ -10,12 +10,13 @@
 
 | | |
 |---|---|
+| **Hero name** | ⚠️ Nighthide |
 | **Quirk** | Brainwashing |
 | **Birthday** | July 1 |
+| **Height** | 177 cm |
 | **Course** | General Studies → Hero Course (from Year 2) |
 | **Voice (JP)** | Wataru Hatano |
 | **Voice (EN)** | Jarrod Greene |
-| **Height** | 177 cm |
 | **Debut** | Season 2, episode 15 — *"Roaring Sports Festival"* (manga chapter 23) |
 
 Anyone who answers Shinso in conversation falls under his complete control until he releases them or they are physically disrupted. The Quirk is useless against an opponent who simply does not speak, and it leaves him defenceless in a straight fight.

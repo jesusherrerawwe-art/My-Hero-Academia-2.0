@@ -77,13 +77,16 @@ Notable inclusions: the full **Hero Billboard Chart JP** top ten, all four **Met
 
 ### [4. Fun Facts & Trivia →](04-fun-facts.md)
 
-- **Names are never accidental** — the kanji wordplay behind Deku, Dynamight, Dabi, and twenty other names
-- Horikoshi's **two cancelled series** before this one succeeded
-- Records: 100 million copies, 170 episodes, the IMDb record for a perfect season
-- Production details: the orchestra, the running gag of voice actors doubling roles
-- Hidden details: Midoriya's thirteen notebooks, All Might's shrinking time limit, Eri's horn
-- Cultural references: Spider-Man, the X-Men, the Brotherhood of Mutants, kaiju
-- Odd facts: Thirteen's unspecified gender, Nezu's unspecified species, Mineta passing the licence exam
+- **Names are never accidental** — the kanji wordplay behind Deku, Dynamight, Dabi, Honenuki, Awase and fifty other names
+- **"Plus Ultra"** is the real national motto of Spain, and where it comes from
+- Horikoshi's **three one-shots and two cancelled series** before this one — including one called *Tenko*
+- What he borrowed: Spider-Man, Goku, Kishimoto's hands, Mike Mignola, kaiju, Star Wars
+- Production: the same core crew for all eight seasons, and Yuki Hayashi's orchestra
+- The voice cast is smaller than it looks — eighteen actors playing two to four roles each
+- Records: 100 million copies, 430 chapters, 170 episodes, the 2019 Harvey Award
+- Hidden details: who actually burned Midoriya's notebook, All Might's shrinking time limit, Eri's horn
+- Things the series refuses to explain: Thirteen's gender, Nezu's species, Hisashi Midoriya
+- ⚠️ The ending, in brief — chapters 429, 430 and 431, and where everyone finishes up
 
 ---
 

@@ -117,7 +117,7 @@ The genre switch is notable. Horikoshi spent a decade on a bright, optimistic su
 
 It became a cornerstone of the magazine's 2010s line-up alongside *One Piece*, *Haikyuu!!*, and later *Demon Slayer* and *Jujutsu Kaisen*. It sustained strong reader-survey rankings throughout its run — which allowed Horikoshi to do something rare in *Jump*: **plan a long-form narrative with a definite ending.** Most *Jump* series are either extended past their natural conclusion because they are profitable, or cancelled abruptly because they are not. *My Hero Academia* was permitted to finish.
 
-**The series concluded on August 5, 2024**, after exactly ten years of serialisation and 430 chapters.
+**The series concluded on August 5, 2024**, after ten years and one month of serialisation and 430 chapters.
 
 ### 2.2 Narrative Structure
 
