@@ -1,4 +1,4 @@
-# Story Decisions Ballot — Q&A (28 core + 10 climax extras)
+# Story Decisions Ballot — Q&A (28 core + 9 climax extras)
 
 *Prepared by H.A.N.A. for Kevin, Phase 2 Point E, Sept 14 2026.*
 *Built from the four project documents (folklore dossier, four-part OC bible, Kamino insertion timeline, chapter-count estimate) and all our Phase 2 discussions.*
