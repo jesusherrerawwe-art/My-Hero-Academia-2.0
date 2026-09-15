@@ -33,7 +33,7 @@ All five seasons were produced by **Studio Bones**, directed by **Kenji Nagasaki
 | U.S.J. | 1 | 9–13 | 12–21 | The League of Villains attacks; first real battle |
 | U.A. Sports Festival | 2 | 14–25 | 22–44 | Todoroki's past; the "It's your power!" moment |
 | Vs. Hero Killer | 2 | 26–33 | 45–59 | Stain; the Hosu Incident; internships begin |
-| Final Exams | 2 | 34–38 | 60–69 | Students vs. teachers; Bakugo learns the truth |
+| Final Exams | 2 | 34–38 | 60–69 | Students vs. teachers; five students fail |
 
 ### The Rise of Villains Saga (Seasons 3–5)
 
@@ -46,9 +46,9 @@ All five seasons were produced by **Studio Bones**, directed by **Kenji Nagasaki
 | Shie Hassaikai | 3–4 | 63–78 | 122–163 | Overhaul, Eri, Mirio and Sir Nighteye |
 | Remedial Course | 4 | 79–80 | ~163–168 | Bakugo and Todoroki retrain under Gang Orca |
 | U.A. School Festival | 4 | 81–86 | ~169–183 | Gentle Criminal and La Brava |
-| Pro Hero | 4 | 87–88 | ~184–193 | Endeavor becomes No. 1; Hawks makes contact |
-| Joint Training | 5 | 89–100 | ~190–219 | Class 1-A vs. Class 1-B; Blackwhip awakens |
-| Endeavor Agency | 5 | 101–106 | 241–252 | The High-End Nomu; the Todoroki family |
+| Pro Hero | 4–5 | 87–90 | ~184–193 | New Billboard Chart; Endeavor vs. the High-End Nomu Hood; Hawks makes contact |
+| Joint Training | 5 | 91–100 | ~194–219 | Class 1-A vs. Class 1-B; Blackwhip awakens in Round 5 |
+| Endeavor Agency | 5 | 101–106 | 241–252 | Starservant, Ending and the Todoroki family (the Hood fight is S4, eps 87–88) |
 | Paranormal Liberation War (opening) | 5 | 107 | 253–255 | Kurogiri is Oboro Shirakumo |
 | Meta Liberation Army | 5 | 108–112 | 218–240 | Shigaraki's origin; the Liberation Front is formed |
 | Paranormal Liberation War (opening) | 5 | 113 | 256–258 | The Front mobilises; the war begins |
@@ -75,7 +75,7 @@ Across these 113 episodes the series follows a clear escalation:
 
 1. **Season 1 — A boy who has nothing.** Midoriya begins powerless and ends the season having nearly died twice. The stakes are small: one school, one facility, one villain.
 
-2. **Season 2 — A boy who has to prove he deserves it.** The Sports Festival is a public audition; the Stain arc introduces the idea that hero society itself may be corrupt. The final exams end with Midoriya's secret nearly exposed.
+2. **Season 2 — A boy who has to prove he deserves it.** The Sports Festival is a public audition; the Stain arc introduces the idea that hero society itself may be corrupt. The final exams test whether the students can cooperate and survive against their own teachers.
 
 3. **Season 3 — The world loses its anchor.** The Kamino Ward battle is the series' turning point. All Might defeats All For One but reveals his weakness to the entire country and retires. Villainy stops being an aberration and becomes a movement.
 
@@ -93,9 +93,9 @@ The series is remarkably filler-free. Different guides list either five or six n
 |---|---|---|
 | 13.5 | Hero Notebook | Season 1 recap special |
 | 32 | Everyone's Internships | Covers the other students' work-studies |
-| 39 | Game Start | Season 2 recap with original framing |
+| 39 | Game Start | Season 3 opener with heavy Season 2 recap and original framing |
 | 58 | Save the World with Love! | Lead-in to the film *Two Heroes* |
-| 64 | The Scoop on U.A. Class 1-A | Anime-original; introduces journalist Taneo Tokuda |
+| 64 | The Scoop on U.A. Class 1-A | Adapts a bonus one-shot manga; introduces journalist Taneo Tokuda |
 | 104 | Long Time No See, Selkie | Lead-in to the film *World Heroes' Mission* |
 
 Most guides count **five** filler episodes — 13.5, 39, 58, 64 and 104 — treating episode 32 as canon-adjacent. All are skippable without losing plot, though 58 and 104 are worth watching if you intend to see the corresponding films.
@@ -106,7 +106,7 @@ Most guides count **five** filler episodes — 13.5, 39, 58, 64 and 104 — trea
 
 | Film | Japan release | Watch after |
 |---|---|---|
-| **Two Heroes** | August 3, 2018 | Season 3, around episode 20 of the broadcast order — practically, after Season 3 |
+| **Two Heroes** | August 3, 2018 | After Season 2 (it premiered between S2 and S3, before the Kamino episodes) |
 | **Heroes: Rising** | December 20, 2019 | After Season 4 |
 | **World Heroes' Mission** | August 6, 2021 | After Season 5 (**contains Season 5 spoilers**) |
 
@@ -117,9 +117,9 @@ Most guides count **five** filler episodes — 13.5, 39, 58, 64 and 104 — trea
 | Season | Opening | Ending |
 |---|---|---|
 | 1 | "The Day" — Porno Graffitti | "Heroes" — Brian the Sun |
-| 2 | "Peace Sign" — Kenshi Yonezu (14–25) · "Sora ni Utaeba" — amazarashi (26–38) | "Dakara, Hitori ja Nai" — Little Glee Monster (14–25) · "Datte Atashi no Hero." — LiSA (26–38) |
+| 2 | "Peace Sign" — Kenshi Yonezu (14–26) · "Sora ni Utaeba" — amazarashi (27–38) | "Dakara, Hitori ja Nai" — Little Glee Monster (14–26) · "Datte Atashi no Hero." — LiSA (27–38) |
 | 3 | "ODD FUTURE" — UVERworld (39–50) · "Make my story" — Lenny code fiction (51–63) | "Update" — miwa (39–50) · "Long Hope Philia" — Masaki Suda (51–63) |
-| 4 | "Polaris" — BLUE ENCOUNT (64–78) · "Star Marker" — KANA-BOON (79–88) | "Kōkai no Uta" — Sayuri (64–78) · "Shout Baby" — Ryokuoushoku Shakai (79–88) |
+| 4 | "Polaris" — BLUE ENCOUNT (64–77) · "Star Marker" — KANA-BOON (78–88) | "Kōkai no Uta" — Sayuri (64–77) · "Shout Baby" — Ryokuoushoku Shakai (78–88) |
 | 5 | "No.1" — DISH// (89–101) · "Merry-Go-Round" — MAN WITH A MISSION (102–113) | "Ashiato" — the peggies (89–101) · "Uso ja Nai" — Soushi Sakiyama (102–113) |
 
 Numbers in parentheses are episode ranges. Each season page lists its own themes in full, along with insert and character songs.

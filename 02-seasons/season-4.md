@@ -37,11 +37,11 @@ The season ends with the **Japanese Hero Billboard Chart**: **Endeavor is offici
 
 ## Arc-by-Arc Breakdown
 
-### 0. The Scoop on U.A. Class 1-A — Episode 64 *(anime-original)*
+### 0. The Scoop on U.A. Class 1-A — Episode 64 *(bonus-manga adaptation)*
 
-A freelance journalist, **Taneo Tokuda**, interviews Class 1-A, investigating the rumour that All Might has a successor. His father was saved by All Might during an explosion years earlier, and he has spent his life trying to understand what made the man act. He finds nothing conclusive.
+A freelance journalist, **Taneo Tokuda** (Quirk: Whole-Body Lens), interviews Class 1-A, investigating the rumour that All Might has a successor. He correctly deduces that Midoriya is the answer — but chooses not to publish it, protecting the boy and handing his editor a trivial puff piece instead.
 
-This is one of the series' five filler episodes. It adapts no manga chapters and introduces no canon characters, but it is a useful character study of how the public processes All Might's retirement.
+This episode adapts a bonus one-shot manga rather than main-series chapters, which is why many filler guides list it as skippable.
 
 ---
 
@@ -49,7 +49,7 @@ This is one of the series' five filler episodes. It adapts no manga chapters and
 
 #### The setup (eps. 65–70)
 
-**Sir Nighteye (Mirai Sasaki)** is All Might's former sidekick, whose Quirk — **Foresight** — lets him see one hour into a person's future once per day, with absolute certainty. He left All Might's side years ago over a disagreement about who should succeed him, and has never forgiven himself for it.
+**Sir Nighteye (Mirai Sasaki)** is All Might's former sidekick, whose Quirk — **Foresight** — activates on physical contact and eye contact: for the following hour he can watch a target's future as a third-person "film," including events years away, with near-total accuracy; the Quirk then requires a 24-hour cooldown. He left All Might's side years ago over a disagreement about who should succeed him (and a vision that All Might would die a horrible death), and has never forgiven himself for it.
 
 Nighteye dislikes Midoriya on sight: Midoriya is the successor Nighteye did not choose, and Nighteye has already used Foresight on him and seen something he will not say aloud.
 
@@ -64,7 +64,7 @@ Chisaki's inner circle:
 | Member | Quirk | Function |
 |---|---|---|
 | **Shin Nemoto** | Confession | Forces truthful answers; the group's strategist |
-| **Rikiya Katsukame** | Energy Suck | Drains opponents' stamina and vitality |
+| **Rikiya Katsukame** | Vitality Stealing | Drains opponents' stamina and vitality through touch |
 | **Toya Setsuno** | Larceny | Steals and relocates objects from a distance |
 | **Yu Hojo** | Crystallize | Grows sharp crystal from his skin |
 | **Soramitsu Tabe** | Food | Eats anything, including metal and concrete |
@@ -74,11 +74,11 @@ Chisaki's inner circle:
 
 Working above the Eight Bullets are **Chronostasis** (Hari Kurono), whose clock-hand hair slows whatever it strikes, and **Mimic** (Joi Irinaka), who merges into the compound's walls and controls the labyrinth. Tamaki Amajiki defeats Setsuno, Hojo and Tabe single-handedly in one corridor.
 
-#### Kirishima's backstory — "Red Riot" (ep. 68)
+#### Kirishima's backstory — "Red Riot" (ep. 72)
 
-The season pauses on **Eijiro Kirishima**, who has spent the series as an uncomplicated source of enthusiasm. His backstory explains it: as a boy he watched a hero save people while he stood frozen, and decided that bravery is a **choice you make**, not a trait you are born with. He hardens himself — literally and otherwise — into "Red Riot," named after the hero Crimson Riot.
+The season pauses on **Eijiro Kirishima**, who has spent the series as an uncomplicated source of enthusiasm. His backstory explains it: a timid middle-schooler, he froze when a group of girls was menaced by a large, frightening man (later retconned to be Gigantomachia) while his classmate Mina Ashido stepped in and defused it; ashamed of his cowardice, a Crimson Riot interview — that a hero fears the look on a dying person's face more than danger itself — drove him to reinvent himself, dye his hair, and make bravery a **choice you make**, not a trait you are born with.
 
-His arc in this season is about whether he can be brave when the consequence is real. He goes into the compound knowing he might not come out.
+His arc in this season is about whether he can be brave when the consequence is real. During the raid on the compound he holds off Kendo Rappa to protect Fat Gum; by the end he proves the identity he built in middle school.
 
 #### Tamaki Amajiki — "Suneater" (ep. 71)
 
@@ -90,15 +90,15 @@ The contrast between Tamaki's paralyzing self-doubt and his actual capability is
 
 **Mirio Togata** is positioned throughout the season as the hero Midoriya is not: confident, experienced, powerful, and chosen. His Quirk, **Permeation**, lets him phase through anything — which he has turned, through years of work, into an almost unbeatable combat style. His hero name, **Lemillion**, means "the man who will save a million people."
 
-He fights Chisaki alone in a corridor, holding him off long enough for Eri to escape. Chisaki shoots him with a **Quirk-Destroying Bullet**.
+He fights Chisaki alone in a corridor, holding him off long enough for Eri to escape. **Chronostasis fires a Quirk-Destroying Bullet at Eri, and Mirio takes it with his own body.**
 
-**Mirio loses Permeation permanently.** He is Quirkless — exactly what Midoriya was in episode 1 — and he will never get it back.
+**Mirio loses Permeation.** He is Quirkless — exactly what Midoriya was in episode 1 — and he keeps fighting anyway, unarmed, against an opponent who can take him apart by touching him, long enough for the raid team to arrive. The loss is treated as permanent at the time; Eri reverses it roughly six months later during the Paranormal Liberation War (manga chapter 363).
 
 The scene in which Mirio tells Midoriya, afterwards, that he has no regrets is the emotional centre of the season. He chose his hero name as a promise; he kept it; and it cost him everything he had worked for.
 
 #### Midoriya vs. Overhaul (ep. 76 — "Infinite 100%")
 
-Chisaki has fused with the compound itself and with Eri, becoming an enormous monstrous form with Rewind built into him. Midoriya fights at **100% Full Cowl**, destroying his body with every strike.
+Chisaki fuses with the compound itself and his subordinate **Shin Nemoto** (and later Rikiya Katsukame), becoming an enormous monstrous kaiju form; Eri stays on Midoriya's back. Midoriya fights at **100% Full Cowl**, destroying his body with every strike.
 
 Then Eri's Rewind — triggered by Midoriya's blood on her horn — begins rewinding **Midoriya**. His body is undone as fast as he breaks it, allowing him to fight at 100% continuously without dying. He overwhelms Overhaul.
 
@@ -106,19 +106,19 @@ Then Eri's Rewind — triggered by Midoriya's blood on her horn — begins rewin
 
 #### The cost (ep. 77 — "Bright Future")
 
-**Sir Nighteye dies.** He was impaled by Chisaki early in the raid, and Foresight showed him his own death — which meant he spent the entire battle knowing exactly how it would end and going anyway. He reconciles with All Might in his final minutes. His last words are a complaint that All Might should have smiled more.
+**Sir Nighteye dies.** He is impaled by Overhaul's reassembled ground spikes mid-raid, and Foresight had shown him Midoriya's death — a vision Eri's Rewind ultimately voids. He reconciles with All Might in his final minutes, using his last strength to tell Midoriya that a brighter future awaits him and asking All Might, at the end, to die smiling.
 
-**Eri is placed in U.A.'s care**, under supervision, with a device on her horn to control Rewind. She asks Midoriya, repeatedly, whether she is allowed to want things.
+**Eri is placed in U.A.'s care**, with Aizawa as her guardian; he erases her Quirk whenever it surges, and her horn shrinks as her power drains. She asks Midoriya, repeatedly, whether she is allowed to want things.
 
-**Overhaul is arrested** — and, during transport, is intercepted by the League of Villains. **Tomura Shigaraki destroys both of his arms**, so that Chisaki can never use his Quirk again. It is a deliberate echo of what Chisaki did to others, and it is the first time the League acts against a rival villain organisation rather than against heroes.
+**Overhaul is arrested** — and, during transport, is intercepted by the League of Villains. Shigaraki destroys the stolen Quirk-Destroying Bullets and has **Mr. Compress compress both of Chisaki's arms off**, leaving him alive, in agony, and unable ever to touch anything again. It is the first time the League acts against a rival villain organisation rather than against heroes.
 
 ---
 
 ### 2. Remedial Course Arc — Episodes 79–80 (chapters ~163–168)
 
-Bakugo and Todoroki complete the remedial course assigned after their Provisional Licence Exam failures, training under **Gang Orca**. The course is designed to teach cooperation, not strength — the two things both of them specifically failed on.
+Bakugo and Todoroki complete the remedial course assigned after their Provisional Licence Exam failures, training under **Gang Orca** alongside Shiketsu's **Inasa Yoarashi** and **Camie Utsushimi**. The course is designed to teach cooperation, not strength — the two things both of them specifically failed on.
 
-They pass and receive their provisional licences. The episode also handles the small, awkward reconciliation between Endeavor and Shoto: Endeavor asks his son to talk; Shoto agrees, conditionally, and tells him that he will not forgive him but is willing to watch whether he changes.
+All four pass the retest and receive their provisional licences. The episode also handles the small, awkward reconciliation between Endeavor and Shoto: Endeavor asks his son to talk; Shoto agrees, conditionally, and tells him that he will not forgive him but is willing to watch whether he changes.
 
 ---
 
@@ -130,7 +130,7 @@ The most tonally unusual arc in the series. After Kamino, after the Hassaikai ra
 
 > The image song used is **"Hero too"**, credited to **KYOKA JIRO starring Chrissy Costanza** — Costanza, the lead singer of Against the Current, performs as the character. It is the only character-credited single in the franchise.
 
-**Gentle Criminal and La Brava.** Running parallel to the festival is the story of **Danjuro Tobita**, who calls himself **Gentle Criminal**: a middle-aged man who failed the U.A. entrance exam, lost his family, his job and his dignity, and became a small-time internet-famous villain because it was the only way anyone would look at him. He is accompanied by **La Brava**, a girl who loves him unconditionally and whose Quirk empowers whoever she loves most.
+**Gentle Criminal and La Brava.** Running parallel to the festival is the story of **Danjuro Tobita**, who calls himself **Gentle Criminal**: a middle-aged man who repeatedly failed to get into a hero academy, lost his family's support, his job and his dignity after an illegal rescue went wrong, and became a small-time internet-famous villain because it was the only way anyone would look at him. He is accompanied by **La Brava**, a girl who loves him unconditionally and whose Quirk empowers whoever she loves most.
 
 Midoriya defeats Gentle — but the fight is not really a fight. Midoriya understands exactly what Gentle is, because until recently he was the same kind of person: someone with a dream that everyone around him told him was impossible.
 
@@ -146,9 +146,11 @@ The arc ends with Gentle arrested and La Brava visiting him. Nobody wins. The fe
 
 He does not celebrate. In his acceptance speech he says, plainly, that he is not All Might and never will be — and that he will try anyway. It is the first genuinely sympathetic thing Enji Todoroki has ever done on screen, and the season does not pretend it redeems him. It only shows him deciding to try.
 
-**Hawks.** The No. 2 Hero, **Keigo Takami / Hawks**, approaches Endeavor after the ceremony, invites him to dinner, and tells him that he has intelligence suggesting a large-scale villain organisation is forming and that **a war is coming**. Hawks is fast, irreverent, and far more politically aware than his public persona suggests.
+**Hawks and the High-End Nomu Hood (ep. 88, "His Start").** Immediately after the ceremony, in a city in **Kyushu**, Dabi unleashes a new, intelligent High-End Nomu named **Hood** on the new No. 1. Endeavor is nearly killed — Hood tears through him and costs him most of the sight on the left side of his face — but with Hawks' aerial support he destroys Hood's head with a ***PLUS ULTRA* Prominence Burn**, then raises a fist to the news helicopters and says, *"It's fine now. Why? Because I am here!"* The moment, broadcast nationwide, is the first public belief in him as Symbol. Dabi briefly reveals himself afterward; **Mirko**, the Rabbit Hero, debuts in this same two-episode stretch (and moves on Dabi during the aftermath). The aftermath and the Commission's secret assignment to Hawks extend into episodes 89–90 (the Season 5 premiere).
 
-> Hawks is, at this point, already working undercover inside the Paranormal Liberation Front — but this is not revealed until later material. Season 4 plays the scene entirely straight, and the audience is meant to read Hawks as an ally, which is the point.
+**Hawks.** The No. 2 Hero, **Keigo Takami / Hawks**, then approaches Endeavor and tells him that he has intelligence suggesting a large-scale villain organisation is forming and that **a war is coming**. Hawks is fast, irreverent, and far more politically aware than his public persona suggests.
+
+> Hawks is, at this point, already being recruited to infiltrate the future Paranormal Liberation Front — but this is not revealed until later material. Season 4 plays him almost entirely straight, which is the point.
 
 **Episode 88, "His Start,"** is Endeavor's. It ends the season on him rather than on Midoriya — a deliberate structural choice, and the clearest sign that the series has stopped being a single-protagonist story.
 
@@ -163,9 +165,10 @@ He does not celebrate. In his acceptance speech he says, plainly, that he is not
 | **Mirai Sasaki / Sir Nighteye** | Foresight; All Might's former sidekick | Ep. 65 |
 | **Eri** | Rewind; the arc's central victim | Ep. 63–66 |
 | **Bubble Girl** | Nighteye's sidekick | Ep. 65 |
-| **Chronostasis · Mimic · Rappa · Tengai · Setsuno · Hojo · Tabe · Saki** | The Eight Bullets | Ep. 67–72 |
-| **Ryukyu (Ryuko Tatsuma)** | No. 9 Pro Hero; Uraraka, Asui and Kirishima's work-study supervisor | Ep. 70 |
-| **Fat Gum (Taishiro Toyomitsu)** | Osaka Pro Hero; takes Kirishima | Ep. 68 |
+| **Chronostasis · Mimic** | Senior Hassaikai, above the Eight Bullets | Ep. 67–72 |
+| **The Eight Bullets (Rappa · Tengai · Setsuno · Hojo · Tabe · Sakaki · Nemoto · Katsukame)** | Chisaki's inner circle | Ep. 67–73 |
+| **Ryukyu (Ryuko Tatsuma)** | No. 10 Pro Hero (No. 9 before the chart update); Uraraka, Asui and Nejire's work-study supervisor | Ep. 70 |
+| **Fat Gum (Taishiro Toyomitsu)** | Osakan Pro Hero; takes Kirishima and Tamaki | Ep. 68 |
 | **Danjuro Tobita / Gentle Criminal** | Elasticity; the School Festival's antagonist | Ep. 81 |
 | **La Brava** | Love; Gentle's partner | Ep. 81 |
 | **Keigo Takami / Hawks** | No. 2 Hero; Fierce Wings | Ep. 87 |
@@ -220,7 +223,7 @@ Mirio is the better candidate for One For All by every measurable standard, and 
   - "Kōkai no Uta" — **Sayuri** (eps. 64–78)
   - "Shout Baby" — **Ryokuoushoku Shakai** (eps. 79–88)
 - **Character image song:** "Hero too" — **KYOKA JIRO starring Chrissy Costanza** (ep. 86)
-- ***My Hero Academia: Heroes Rising*** was released in Japan on **December 20, 2019**, mid-season between episodes 73 and 74. It features Class 1-A on a remote island facing a villain who has stolen a fragment of All For One's power. It is generally placed after Season 4 in viewing order.
+- ***My Hero Academia: Heroes Rising*** was released in Japan on **December 20, 2019**, mid-season between episodes 73 and 74. It features Class 1-A on a remote island facing **Nine**, a villain given an artificial copy of All For One that lets him hold up to nine Quirks. It is generally placed after Season 4 in viewing order.
 - The Shie Hassaikai arc is the longest single arc in the anime at 14 episodes, and Bones gave it a noticeably higher animation budget than the School Festival arc that follows — a deliberate contrast that mirrors the tonal whiplash of the source material.
 - Episode 74, *"Lemillion,"* is widely regarded as one of the three best episodes of the series, alongside Season 3's episode 48 and Season 2's episode 23.
 - The season's broadcast was interrupted once (November 2, 2019) and ran a shorter winter schedule; Japanese home video releases ran January 22 – August 19, 2020.

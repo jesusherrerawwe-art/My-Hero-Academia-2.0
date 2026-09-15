@@ -67,7 +67,7 @@ Toga drinks a person's blood and assumes their appearance **and their Quirk.** A
 
 Toga ranks at S for realised threat rather than raw output. A single Toga is an A-tier combatant; a Toga with Double and a supply of blood is an army.
 
-⚠️ She dies in chapter 428. After fatally stabbing Uraraka and then being talked down, she transforms into Uravity and **gives Uraraka a blood transfusion to save her life**, dying in the process.
+⚠️ She dies in **chapter 395** (adapted in episode 169, *"The Girl Who Loves Smiles"*). After Uraraka reaches her and accepts her for who she is, Toga transforms into Uraraka and **gives her own blood to transfuse Uraraka**, who is dying from blood loss, dying in the process.
 
 ### 5. Nana Shimura — *Float + One For All*
 
@@ -89,7 +89,7 @@ Her legacy is the structural hinge of the entire series: her decision to abandon
 | **Lady Nagant** | Rifle (+ Air Walk) | Her right arm extends into a rifle with an integral scope, and she moulds her **hair** into any bullet she wants — including rounds that curve in flight. She is the best marksman in Japan: she hits a moving Midoriya from over a kilometre away, at night, in heavy rain, *with Danger Sense active*, and Snipe states she can shoot to three kilometres. ⚠️ She later hits **Shigaraki from more than 200 kilometres away.** All For One grants her a second Quirk, **Air Walk**, for the assassination. She is borderline S on realised lethality and sits at the top of A only because she has no close-range answer. |
 | **Thirteen** | Black Hole | Creates miniature black holes that disintegrate anything they touch, regardless of durability. Offensively the ceiling is effectively unlimited. Ranked A rather than S because Thirteen is a rescue specialist who deliberately avoids offensive use, and because they are incapacitated early at the U.S.J. when a Nomu turns their own Quirk back on them. |
 | **Momo Yaoyorozu** | Creation | Can create any non-living object whose molecular structure she understands, limited only by knowledge and lipid reserves. ⚠️ She designs and leads the operation that finally puts **Gigantomachia** to sleep — the single most consequential tactical plan any student executes in the series — and commands Pro Hero squads in the war. |
-| **Ochaco Uraraka** | Zero Gravity | Nullifies gravity in anything she touches, and combines it with **Gunhead Martial Arts** for close combat. ⚠️ In chapter 428 her Quirk **awakens**: she extends Zero Gravity across an entire swarm of Toga's Doubles at once, stopping all of them in mid-air over a battlefield, while bleeding out from a stab wound. That is an area-effect feat no other student in the series produces. |
+| **Ochaco Uraraka** | Zero Gravity | Nullifies gravity in anything she touches, and combines it with **Gunhead Martial Arts** for close combat. ⚠️ During the final war (chapters 393–395) her Quirk **awakens**: she extends Zero Gravity across an entire swarm of Toga's Doubles at once, stopping all of them in mid-air over the battlefield — an area-effect feat no other student in the series matches. |
 
 ---
 
@@ -98,13 +98,13 @@ Her legacy is the structural hinge of the entire series: her decision to abandon
 | Character | Quirk | Justification |
 |---|---|---|
 | **Kyoka Jiro** | Earphone Jack | Channels her heartbeat as a concussive sonic attack. Amplified through support equipment — and, in the war, through the Pussycats' systems — it becomes a genuine area weapon capable of staggering opponents many times her size. |
-| **Midnight** | Somnambulist | Sleep-inducing aroma that incapacitates crowds instantly. Extremely effective against biological opponents; useless against Nomu, machines, and anyone who can hold their breath. ⚠️ She is killed during the hospital raid in the Paranormal Liberation War — the only U.A. faculty member to die. |
+| **Midnight** | Somnambulist | Sleep-inducing aroma that incapacitates crowds instantly. Extremely effective against biological opponents; useless against Nomu, machines, and anyone who can hold their breath. ⚠️ She is killed on the Gunga Mountain front while trying to stop Gigantomachia in the Paranormal Liberation War — the only U.A. faculty member to die. |
 | **Mina Ashido** | Acid | Variable-potency corrosive secretion, from a mild irritant to something that melts through metal. Strong area denial, high mobility, and she keeps improving her control throughout the series. |
 | **Toru Hagakure** | Invisibility | Permanently undetectable, and ⚠️ at her peak she refracts light into focused blinding and distortion beams — the technique that exposes the U.A. traitor. One of the hardest characters in the series to fight precisely because you cannot find her. |
 | **Tsuyu Asui** | Frog | Adhesive pads, a prehensile tongue, camouflage, enhanced jumping, mucus, and a stomach that can eject its contents. One of the most complete utility Quirks in the series, and she is the tactical centre of most teams she is on. |
 | **Ibara Shiozaki** | Vines | Living vine hair with considerable reach; restrains multiple opponents at once and regrows given water and sunlight. She declines to injure people, which the series treats as a strength rather than a limitation. |
 | **Kinoko Komori** | Mushroom | Grows fungi from any surface she touches, including **inside opponents' bodies through inhaled spores**. In the Joint Training she chokes Tokoyami by growing mushrooms in his throat — one of the few techniques that neutralises Dark Shadow entirely. Area denial at a level few Quirks match. |
-| **Curious** | Landmine | Anything she touches becomes an explosive. ⚠️ During the Meta Liberation War she converts her own soldiers into walking bombs and fights Mr. Compress to the death. |
+| **Curious** | Landmine | Anything she touches becomes explosive on later contact. ⚠️ During the Deika City battle she hurls her bomb-touched followers at Himiko Toga, who kills her mid-fall after awakening Transform. |
 
 ---
 
@@ -148,7 +148,7 @@ Her legacy is the structural hinge of the entire series: her decision to abandon
 |---|---|
 | **Film-only characters** (Melissa Shield, Mahoro Shimano, Saiko Intelli, Pino) | Outside the manga canon the rest of this list is built on. |
 | **Spin-off-only characters** (Pop☆Step, Kuin Hachisuka) | *Vigilantes* runs on a different power scale and timeline. |
-| **Hana Shimura, Mika Jiro** | Civilians with no demonstrated Quirk use. Hana Shimura is nevertheless one of the most consequential people in the story — ⚠️ her death at her son's hands is what creates Tomura Shigaraki. |
+| **Nao & Hana Shimura, Mika Jiro** | Civilians with no combat Quirk use. Tenko's mother Nao and his older sister Hana are nevertheless among the most consequential figures in the story — ⚠️ their deaths (alongside the grandparents') are what create Tomura Shigaraki. |
 | **The HPSC President** | An institutional character with no Quirk and no combat role. |
 
 ---

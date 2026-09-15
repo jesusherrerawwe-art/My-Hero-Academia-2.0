@@ -53,7 +53,7 @@ Horikoshi then serialised two works in *Weekly Shōnen Jump*. Both were cancelle
 
 | Work | Japanese title | Run | Outcome |
 |---|---|---|---|
-| **Oumagadoki Zoo** | 逢魔ヶ刻動物園 | 2010–2011 | Cancelled; 3 volumes |
+| **Oumagadoki Zoo** | 逢魔ヶ刻動物園 | 2010–2011 | Cancelled; 5 volumes (37 chapters) |
 | **Barrage** | 戦星のバルジ (*Sensei no Baruji*) | 2012 | Cancelled; 2 volumes |
 
 **Why this matters: the reader-survey system.** *Weekly Shōnen Jump* ranks every serialised chapter by reader questionnaire and publishes the results internally. Rankings are brutally consequential: a series that consistently places near the bottom is cancelled, often within months, regardless of the author's plans. Very few *Jump* series are allowed to end on their own terms.
@@ -103,7 +103,7 @@ Following the manga's conclusion in August 2024, Horikoshi participated in an ar
 
 On **August 10, 2026**, he published **"Quit Laughing, Shijima"** (笑わないでよ しじまさん, *Warawanaide yo Shijima-san*) in *Weekly Shōnen Jump* Issue 37/38 — a **61-page comedy-horror one-shot**, and his first new work in the magazine since *My Hero Academia* debuted twelve years earlier.
 
-The story is described as "boy-meets-girl horror": in a quiet seaside town, a transfer student named Azumi meets Shijima, a girl whose infectious laugh draws everyone's attention — and discovers that he alone can perceive the unsettling events plaguing the town, including the fact that Shijima has been designated a sacrifice to an ancient sea god.
+The story is described as "boy-meets-girl horror": in a quiet seaside town, a transfer student named Azumi meets Shijima, a girl whose infectious laugh draws everyone's attention — and discovers that he alone can perceive the unsettling events plaguing the town, including the fact that Shijima has been designated as the town's sacrifice to an ancient sea god. Azumi refuses to accept the ritual and ultimately saves her, ending the centuries-long tradition.
 
 The genre switch is notable. Horikoshi spent a decade on a bright, optimistic superhero shōnen and returned with horror.
 
@@ -136,10 +136,10 @@ Within these, the series contains roughly twenty named arcs, from the Entrance E
 The final stretch of publication is often confused, because three separate things happened in quick succession:
 
 - **Chapter 429** concluded the *Final War* arc and, in Horikoshi's own view, the main story of Izuku Midoriya.
-- **Chapter 430** served as a time-skip epilogue set eight years later.
-- **Chapter 431** — a **38-page epilogue** included in volume 42 — extended the time skip further and provided additional closure.
+- **Chapter 430**, the final weekly chapter, provided the immediate aftermath and closure, with the war over.
+- **Chapter 431** — titled **"More,"** a **38-page epilogue** included in volume 42 rather than serialised in the weekly magazine — jumps **eight years into the future** and shows where everyone ends up.
 
-Because chapters 430 and 431 were released as extra content rather than as part of the weekly serialisation, some readers questioned whether they counted as canon. In the afterword to volume 42, **Horikoshi explicitly confirmed that the epilogue is canon**, comparing the final two chapters to *"unlockable content in a video game"* — not part of the central plot, but genuine and official. He closed by stating that with chapter 431 he was **"releasing" his characters** from their story.
+Because chapter 431 was released as extra content with the final volume rather than as part of the weekly serialisation, some readers questioned whether it counted as canon. In the afterword to volume 42, **Horikoshi explicitly confirmed that the epilogue is canon**, comparing chapter 431 to *"unlockable content in a video game"* — not part of the central plot, but genuine and official. He closed by stating that with chapter 431 he was **"turning the cameras off"** and releasing his characters from their story.
 
 The confirmation settled a significant fandom dispute, most visibly over the epilogue's romantic conclusion between Midoriya and Ochaco Uraraka.
 
@@ -147,12 +147,14 @@ The confirmation settled a significant fandom dispute, most visibly over the epi
 
 Shueisha collected the series into **42 *tankōbon* volumes**, released from **November 4, 2014** to **December 4, 2024**. VIZ Media published the English editions.
 
-Two official reference books accompany the main series:
+Official reference and art books accompany the main series:
 
 | Title | Content |
 |---|---|
-| **My Hero Academia: Ultra Analysis** | The official character guide — statistics, Quirk data, and profiles |
-| **My Hero Academia: Ultra Artworks** | The official art book — illustrations, designs, and colour work |
+| **Ultra Archive** (2016) | The first official character guide — statistics, Quirk data, and profiles |
+| **Ultra Analysis** (2019) | The second official character guide |
+| **Final Fanbook: Ultra Age** (May 2, 2025) | Final fanbook with interviews and series information |
+| **Official Illustration Collection: Ultra Artworks** (June 4, 2025) | The official art book — a decade of colour illustrations with Horikoshi's commentary |
 
 ---
 
@@ -187,21 +189,22 @@ Horikoshi has said that he deliberately tried to draw things that **could only b
 | Season 6 | 25 | 114–138 | October 1, 2022 – March 25, 2023 |
 | Season 7 | 21 | 139–159 | May 4 – October 12, 2024 |
 | **Final Season** | 11 | 160–170 | October 4 – December 13, 2025 |
-| **Total** | **170** | **1–170** | **2016 – 2025** |
+| Bonus special | 1 | 171 (also numbered 170+1) — "More," May 2, 2026 | — |
+| **Total series run** | **170 + special** | **1–170** | **2016 – 2025** |
 
-In Japan the series aired on the **JNN network (MBS/TBS)** for Season 1 and moved to **NNS (ytv)** from Season 2 onward.
+In Japan the series aired on the **JNN network (MBS/TBS)** for Season 1 and moved to **NNS (ytv/NTV)** from Season 2 onward.
 
-**The Final Season concluded the adaptation on December 13, 2025** — an eight-season run of nine years and eight months. All eleven episodes of the Final Season earned ratings above **9.0 on IMDb**, making it the first full-length anime season to achieve that record.
+**The Final Season concluded the main adaptation on December 13, 2025** — an eight-season run of nine years and eight months — and the bonus special **"More"**, adapting the eight-years-later epilogue (chapter 431), followed on **May 2, 2026**. The Final Season was an unusually high-scoring run on IMDb (its episodes clustered between roughly 9.1 and 9.8), with episode 167, *"Izuku Midoriya: Rising,"* among the highest-rated.
 
 ### 3.3 Recap Specials
 
 Two sets of recap specials were produced:
 
-- **My Hero Academia: Memories** (2017) — a short recap mini-series.
-- **Four character-focused specials** broadcast in April 2024 to bridge the gap before Season 7, all directed by Masahiro Mukai:
-  - *"Izuku Midoriya: Resolve"* (April 6, 2024)
+- **"Hero Notebook"** (March 25, 2017, episode 13.5) — a recap of Season 1 broadcast just before Season 2.
+- **My Hero Academia: Memories** — four character-focused specials broadcast April 6–27, 2024 to bridge the gap before Season 7, all directed by **Hyūga Yamamura**, with new framing scenes:
+  - *"Izuku Midoriya: Mind"* (April 6, 2024)
   - *"Toshinori Yagi: Embers"* (April 13, 2024)
-  - *"Heroes: Convictions"* (April 20, 2024)
+  - *"Heroes: Thoughts"* (April 20, 2024)
   - *"Tomura Shigaraki: Destruction"* (April 27, 2024)
 
 ### 3.4 Feature Films
@@ -227,9 +230,9 @@ Ten original video animations were produced between 2016 and 2026, including:
 - *Make It! Do-or-Death Survival Training* (August 2020)
 - *Departure* (February 2022)
 - *HLB (Hero League Baseball)* and *Laugh! As if You Were in Hell* (June 2022)
-- *U.A. Heroes Battle* (October 2023)
-- *A Piece of Cake* (February 2025)
-- *I Am a Hero Too* (2026)
+- *U.A. Heroes Battle* (screened October 2023; streamed November 30, 2023)
+- *A Piece of Cake* — bundled with the deluxe "Plus Ultra" home-video edition of *You're Next* (February 2025)
+- *I Am a Hero Too* — based on the one-shot from the *Ultra Age* fanbook; screened at Anime Expo July 4, 2026 and streamed August 3, 2026
 
 ### 3.6 Music
 
@@ -264,8 +267,8 @@ Every Quirk in the series is classified into one of three canonical types, thoug
 | Type | Japanese | What it does | Examples |
 |---|---|---|---|
 | **Emitter** | 発動系 (*Hatsudō-kei*) | Generates or controls a substance or energy externally; usually toggleable and costs stamina | Explosion (Bakugo) · Half-Cold Half-Hot (Todoroki) · Zero Gravity (Uraraka) · Erasure (Aizawa) |
-| **Transformation** | 変身系 (*Henshin-kei*) | Temporarily alters the user's own body | Hardening (Kirishima) · Gigantification (Mt. Lady) · Steel (Tetsutetsu) |
-| **Mutant** | 異形型 (*Igyō-gata*) | A permanent physical abnormality, always active and impossible to switch off | Frog (Asui) · Tail (Ojiro) · Engine (Iida) · Dupli-Arms (Shoji) |
+| **Transformation** | 変形系 (*Henkei-kei*) | Temporarily alters the user's own body | Hardening (Kirishima) · Gigantification (Mt. Lady) · Steel (Tetsutetsu) |
+| **Mutant** | 異形系 (*Igyō-kei*) | A permanent physical abnormality, always active and impossible to switch off | Frog (Asui) · Tail (Ojiro) · Engine (Iida) · Dupli-Arms (Shoji) |
 
 The distinction is not merely taxonomic. **Mutant-type Quirks cannot be erased** by Aizawa, which makes him ineffective against them. And because Mutant types are permanently visible, their users face discrimination that Emitter and Transformation users do not — a theme the series develops seriously in its later arcs through characters like **Shoji** and **Spinner**, and through the broader "**heteromorph**" prejudice that fuels much of the Meta Liberation Army's recruitment.
 
@@ -324,7 +327,7 @@ The series refuses a single answer, and instead distributes competing definition
 
 The series' most serious argument is that **hero society produces its own villains.**
 
-Nearly every major antagonist is a person the system failed: **Tomura Shigaraki** (a child who asked for help and no one came), **Dabi** (a son destroyed by his hero father's expectations), **Himiko Toga** (a girl told her feelings were monstrous), **Twice** (a man betrayed until he could not confirm his own existence), **Lady Nagant** (an agent broken by the institution she served), **Gentle Criminal** (a man discarded for failing an exam twice).
+Nearly every major antagonist is a person the system failed: **Tomura Shigaraki** (a child who asked for help and no one came), **Dabi** (a son destroyed by his hero father's expectations), **Himiko Toga** (a girl told her feelings were monstrous), **Twice** (a man betrayed until he could not confirm his own existence), **Lady Nagant** (an agent broken by the institution she served), **Gentle Criminal** (a man discarded after he repeatedly failed to gain entry to a hero academy).
 
 The narrative consistently asks the reader to hold two things at once: these characters commit terrible acts, *and* society contributed to making them.
 
@@ -377,7 +380,7 @@ The **2019 Harvey Award for Best Manga** is the headline achievement: it is one 
 
 ### 6.3 The Anime's Reception
 
-The Final Season's eleven episodes each scored **above 9.0 on IMDb** — the first full-length anime season to achieve that. Individual episodes across the run, particularly **"Symbol of Peace"** (ep. 48), **"Shoto Todoroki: Origin"** (ep. 23), **"More of a Hero Than Anyone"** (ep. 107), and the two Shigaraki origin episodes (111–112), are frequently cited among the highest-rated episodes in modern shōnen anime.
+The Final Season was an exceptionally high-scoring run on IMDb, with its episodes clustering between roughly **9.1 and 9.8** — among them the two-part finale and *"Izuku Midoriya: Rising"* (ep. 167). Individual episodes across the run, particularly **"Symbol of Peace"** (ep. 48), **"Shoto Todoroki: Origin"** (ep. 23), **"More of a Hero Than Anyone"** (ep. 107), and the two Shigaraki origin episodes (111–112), are frequently cited among the highest-rated episodes in modern shōnen anime.
 
 ---
 
@@ -389,9 +392,9 @@ The Final Season's eleven episodes each scored **above 9.0 on IMDb** — the fir
 |---|---|---|---|
 | **My Hero Academia Smash!!** | Hirofumi Neda | Nov 9, 2015 – Nov 6, 2017 | 5 |
 | **My Hero Academia: Vigilantes** (ヴィジランテ ―僕のヒーローアカデミア ILLEGALS―) | Hideyuki Furuhashi (story) & Betten Court (art) | Aug 2016 – May 2022 | 15 |
-| **My Hero Academia: Team-Up Missions** | Yōkō Akiyama | Jul 25, 2019 – Jan 4, 2025 | 6 |
+| **My Hero Academia: Team-Up Missions** | Yōkō Akiyama | Mar 4, 2019 (prologue) – Jan 4, 2025; a one-off special chapter followed Dec 4, 2025 | 8 |
 
-**Vigilantes** is the most substantial of the three — a prequel set several years before the main series, following unlicensed vigilantes operating outside the law. Its Japanese title literally includes the word **ILLEGALS**. It received an anime adaptation by **Bones Film**, premiering **April 7, 2025**, with a second season beginning **January 2026**.
+**Vigilantes** is the most substantial of the three — a prequel set several years before the main series, following unlicensed vigilantes operating outside the law. Its Japanese title literally includes the word **ILLEGALS**. It received an anime adaptation by **Bones Film**, directed by Kenichi Suzuki, premiering **April 7, 2025**; the second season ran **January 5 – March 30, 2026**.
 
 **Smash!!** is a four-panel gag manga. **Team-Up Missions** is a slice-of-life series focused on the students, serialised in *Saikyō Jump* after a prologue in *Jump GIGA*.
 
@@ -399,8 +402,9 @@ The Final Season's eleven episodes each scored **above 9.0 on IMDb** — the fir
 
 | Title | Author | Notes |
 |---|---|---|
-| **My Hero Academia: School Briefs** | Written by **Anri Yoshi**, illustrated by Horikoshi | Six volumes from 2016. Prose side stories covering daily life at U.A. that Horikoshi could not fit into the manga |
-| **My Hero Academia: Yuuga Aoyama's Chapter** | — | A character-focused novel |
+| **My Hero Academia: School Briefs** (雄英白書) | Written by **Anri Yoshi**, illustrated by Horikoshi | Six volumes, April 4, 2016 – October 4, 2021 (Jump J-Books). Prose side stories covering daily life at U.A. and the League that Horikoshi could not fit into the manga |
+
+Film tie-in novelisations also exist, but *School Briefs* is the only original light-novel series.
 
 ### 7.3 Video Games
 
@@ -421,7 +425,7 @@ A live stage series, **My Hero Academia: The "Ultra" Stage**, ran four productio
 | **The "Ultra" Stage** | April 12–21 & April 26–29, 2019 |
 | **A True Hero** | Postponed by the pandemic; ran December 3–12 & 24–26, 2021 |
 | **The Symbol of Peace** | April–May 2022 (partially postponed due to a cast injury) |
-| **The Best Hero** | April 29 – May 21, 2023 |
+| **The Greatest Hero** | April 29 – May 21, 2023 |
 
 Directed by **Tsuneyasu Motoyoshi**, written by **Hideyuki Nishimori**, choreographed by **Umebō**, with music by **Shunsuke Wada**. The cast included **Shin Tamura** as Midoriya, **Ryōta Kobayashi** as Bakugo, **Yume Takuchi** as Uraraka, **Hiroki Ino** as Iida, and **Ryō Kitamura** as Todoroki.
 
@@ -429,7 +433,7 @@ Directed by **Tsuneyasu Motoyoshi**, written by **Hideyuki Nishimori**, choreogr
 
 On **December 12, 2022**, Netflix announced it had acquired rights to a live-action film, with **Joby Harold** attached as screenwriter. The project then went quiet for several years.
 
-In **September 2025** it was announced that **Jason Fuchs** had been hired to rewrite the script and that **Shinsuke Sato** — director of Netflix's *Alice in Borderland* — was reaffirmed as director. As of late 2025, industry listings place the **start of filming in Fall 2026**, which would suggest a release no earlier than 2027–2028. No cast has been announced.
+In **late 2025** it emerged that **Jason Fuchs** (*Wonder Woman*, *Argylle*) is now writing the script, with **Shinsuke Sato** — director of Netflix's *Alice in Borderland* — reaffirmed as director and Horikoshi reviewing every outline and script page. *Production Weekly* lists the **start of filming for Fall 2026**, which would suggest a release no earlier than 2027–2028. No cast has been announced.
 
 ---
 
@@ -467,13 +471,14 @@ Those questions kept the series relevant far beyond its action sequences, and th
 | **August 6, 2021** | *World Heroes' Mission* film |
 | **May 2022** | *Vigilantes* manga concludes (15 volumes) |
 | **December 12, 2022** | Netflix live-action film announced |
-| **January 4, 2025** | *Team-Up Missions* concludes |
-| **April 7, 2025** | *Vigilantes* anime premieres |
 | **August 2, 2024** | *You're Next* film |
 | **August 5, 2024** | **Manga concludes** — chapter 430 |
-| **December 4, 2024** | Volume 42 released, containing the 38-page epilogue |
+| **December 4, 2024** | Volume 42 released, containing the 38-page epilogue (ch. 431) |
+| **January 4, 2025** | *Team-Up Missions* concludes (8 volumes) |
+| **April 7, 2025** | *Vigilantes* anime premieres (Bones Film) |
 | **October 4 – December 13, 2025** | **Final Season** airs; the anime concludes at episode 170 |
-| **January 2026** | *Vigilantes* anime Season 2 |
+| **January 5 – March 30, 2026** | *Vigilantes* anime Season 2 |
+| **May 2, 2026** | Bonus special **"More"** (episode 171 / 170+1) adapts chapter 431 |
 | **August 10, 2026** | Horikoshi publishes *Quit Laughing, Shijima*, his first new *Jump* work |
 | **Fall 2026 (projected)** | Netflix live-action filming begins |
 

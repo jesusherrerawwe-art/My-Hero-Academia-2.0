@@ -44,7 +44,7 @@ Class 1-A and Class 1-B finally settle their rivalry in a formal **Joint Trainin
 
 During the final round, Midoriya's One For All begins behaving badly. A new Quirk — **Blackwhip** — erupts from him without warning and nearly kills everyone nearby. It is not his. It belonged to one of the eight previous holders, and Midoriya is now able to reach it. The **vestiges** of the previous users make contact with him and warn him: One For All has been stockpiling not only power but Quirks, and the accumulated power is becoming something neither he nor All Might understands.
 
-Meanwhile, Endeavor takes Midoriya, Bakugo and Shoto on a work-study at his agency. Together with **Hawks**, they fight a **High-End Nomu** named Hood in Jaku City, and Endeavor brings it down — earning, for the first time, public belief that he might be a No. 1 Hero worth having. At home, the Todoroki family has dinner together for the first time in years, and Natsuo finally says what he has never said.
+Meanwhile, Endeavor takes Midoriya, Bakugo and Shoto on a work-study at his agency. The **High-End Nomu Hood** already fell to Endeavor and Hawks in the Season 4 finale (eps. 87–88, in a Kyushu city); the work-study episodes instead deal with the cult leader villain **Starservant** and the escaped villain **Ending**, who kidnaps Natsuo Todoroki. At home, the Todoroki family has dinner together for the first time in years, and Natsuo finally says what he has never said.
 
 Then the season turns to the villains.
 
@@ -62,9 +62,7 @@ The season ends with **Aizawa and Present Mic discovering that Kurogiri's body c
 
 Class 1-A prepares for the Joint Training. **Hitoshi Shinso** is added to the roster — he will fight for both classes, one team each, as a demonstration of whether he deserves to transfer into the Hero Course.
 
-Midoriya begins having dreams of the previous One For All holders. In episode 90, during a training exercise, **Blackwhip** — a mass of dark tendrils — erupts from his body without his consent, nearly injuring his classmates. Todoroki immobilises him with ice.
-
-The **second user's vestige** appears to Midoriya in a mental space and warns him: One For All has grown too strong. The stockpiled power has begun producing effects neither All Might nor Midoriya anticipated, and using it at full output risks destroying him.
+Midoriya begins having dreams of the previous One For All holders; episode 90, *"Vestiges,"* is his first conversation with them in the mental space. The fifth holder, Daigoro Banjo, warns him that One For All has grown too strong and is producing effects neither All Might nor Midoriya anticipated — but Blackwhip has not physically manifested yet; that happens later, during Round 5 of the Joint Training (eps. 99–100).
 
 ---
 
@@ -79,7 +77,7 @@ Five rounds, held in **Ground Gamma**, an industrial maze of pipes and platforms
 | Round | Class 1-A | Class 1-B | Result |
 |---|---|---|---|
 | **1** | Tsuyu Asui, Eijiro Kirishima, Koji Koda, Denki Kaminari **+ Shinso** | Ibara Shiozaki, Jurota Shishida, Kosei Tsuburaba, Hiryu Rin | **1-A wins 4–2** |
-| **2** | Yuga Aoyama, Momo Yaoyorozu, Toru Hagakure, Fumikage Tokoyami | Itsuka Kendo, Manga Fukidashi, Kinoko Komori, Kosei Kuroiro | **1-B wins 4–0** |
+| **2** | Yuga Aoyama, Momo Yaoyorozu, Toru Hagakure, Fumikage Tokoyami | Itsuka Kendo, Manga Fukidashi, Kinoko Komori, Shihai Kuroiro | **1-B wins 4–0** |
 | **3** | Tenya Iida, Shoto Todoroki, Mashirao Ojiro, Mezo Shoji | Juzo Honenuki, Tetsutetsu Tetsutetsu, Pony Tsunotori, Sen Kaibara | **Draw 1–1** |
 | **4** | Katsuki Bakugo, Hanta Sero, Kyoka Jiro, Rikido Sato | Jack Kamakiri, Setsuna Tokage, Kojiro Bondo, Yosetsu Awase | **1-A wins 4–0** |
 | **5** | Izuku Midoriya, Ochaco Uraraka, Mina Ashido, Minoru Mineta | Neito Monoma, Yui Kodai, Nirengeki Shoda, Reiko Yanagi **+ Shinso** | **1-A wins 4–0** |
@@ -117,7 +115,7 @@ In the mental space inside One For All, Midoriya meets the previous holders:
 
 | # | Holder | Quirk contributed |
 |---|---|---|
-| 1st | **Yoichi Shigaraki** | The original stockpile; One For All itself |
+| 1st | **Yoichi Shigaraki** | A latent Quirk that passes itself on — Transference; it fused with the stockpiling Quirk All For One forced onto him to become One For All |
 | 2nd | *(unnamed in this season)* | — |
 | 3rd | *(unnamed in this season)* | — |
 | 4th | **Hikage Shinomori** | Danger Sense |
@@ -140,29 +138,24 @@ The vestiges warn Midoriya that One For All is approaching a critical mass that 
 
 The Todoroki family — Enji, Fuyumi, Natsuo and Shoto — has dinner together for the first time since Rei was hospitalised. Natsuo is still furious. Shoto is cautious. Enji is trying. Nobody reconciles; everybody stays at the table.
 
-Hawks and Endeavor also meet, and Hawks passes on intelligence about the growing villain network.
-
 #### The work-study (eps. 102–103)
 
 Midoriya, Bakugo and Todoroki are assigned to **Endeavor's agency**. It is a deliberately uncomfortable arrangement: Endeavor is Shoto's father, is the man Bakugo's idol replaced, and is trying to use a work-study as a form of atonement. He is bad at it. The three students are blunt with him about it.
 
-#### The High-End Nomu (eps. 103–106)
+#### The work-study villains (eps. 102–103)
 
-During a routine patrol in Jaku City, the three students and Endeavor encounter a **High-End Nomu** — a Nomu with multiple Quirks and enough intelligence to speak and to adapt. This one is called **Hood**.
+The agency arc's main fights are smaller, character-driven encounters rather than a Nomu battle:
 
-Hood regenerates from every injury and overwhelms Endeavor, Hawks and the students alike. Endeavor realises that Super Regeneration will keep rebuilding the body for as long as the head survives — Hood even tears its own head off to escape a full-body Prominence Burn. **Hawks' feathers supply the speed and lift for the final approach**, and Endeavor burns the Nomu from the inside out with a ***PLUS ULTRA* Prominence Burn**, destroying the head and ending the regeneration for good.
+- **Starservant** (ep. 102), a delusional cult-leader villain convinced Endeavor is a bringer of doom, attacks with his followers; Endeavor and the three students coordinate the arrests.
+- **Ending** (ep. 103), a small-time villain obsessed with Endeavor, kidnaps **Natsuo** at a road intersection to force his hero to kill him. Endeavor freezes up; the three students coordinate the rescue themselves — Bakugo, Todoroki and Midoriya splitting rescue and capture duties — and the villain is taken alive.
 
-The fight is broadcast. For the first time since Kamino, the public sees a hero win decisively and unambiguously. Endeavor is, briefly, believed in.
-
-**Watching from a distance is Dabi**, whose blue flames are shown alongside Endeavor's orange. Dabi's reaction is not fear or respect. It is contempt, and something closer to grief. The season does not explain why — that comes later — but it puts the question directly in front of the audience.
+Hawks and Endeavor also meet, and Hawks passes on intelligence about the growing villain network.
 
 #### The Todoroki Family (eps. 105–106)
 
-Cross-cut with the Nomu fight is the family dinner's aftermath. **Natsuo** finally says what he has held since childhood: that he hates his father, that he has never forgiven him, and that he does not intend to. Endeavor does not argue. He accepts it.
+Episodes 105–106 (*"The Hellish Todoroki Family,"* *"The Unforgiven"*) are the dinner's aftermath. **Natsuo** finally says what he has held since childhood: that he hates his father, that he has never forgiven him, and that he does not intend to. Endeavor does not argue. He accepts it.
 
-Rei, their mother, is visited. Shoto begins the slow process of deciding whether he wants a family.
-
-The arc ends with the word *"unforgiven"* applied to Endeavor by both his son and, separately, by Dabi — two people who have entirely different reasons for hating him and who do not yet know each other exist.
+Rei, their mother, is visited. Shoto begins the slow process of deciding whether he wants a family. The arc ends with the word *"unforgiven"* applied to Endeavor — by his son now, and, later, by Dabi, whose connection to the family is still unrevealed. (Dabi's confrontation with Endeavor over the Hood attack plays out in episodes 89–90, the Season 5 premiere that closes the Pro Hero Arc.)
 
 > **Episode 104, "Long Time No See, Selkie,"** is a filler episode and one of the series' five. It follows Uraraka, Asui and the rest of Ryukyu's agency on a marine rescue mission with the Pro Hero **Selkie**, and functions as a lead-in to the film *World Heroes' Mission*.
 
@@ -203,8 +196,9 @@ The Army does not want to destroy the League. **It wants to absorb it.**
 #### The fights
 
 - **Twice vs. Skeptic.** Skeptic tracks and captures Twice. Twice is psychologically dismantled — forced to confront the fact that he has no idea which of his copies is the original, and that he may himself be a clone. He breaks, and then rebuilds himself, deciding that it does not matter. He creates **"Sad Man's Parade,"** an army of clones covering an entire city district, and single-handedly turns the war. Episode 110 is the best-reviewed episode of Season 5 and one of the most discussed in the series.
-- **Mr. Compress vs. Curious.** Compress, who has spent the series as a performer, drops the act and reveals that he is descended from the legendary thief **Oji Harima** and that his entire persona is a deliberate construction. Curious is killed.
-- **Toga vs. Geten.** Toga fights for the simple, appalling reason that she likes her friends.
+- **Toga vs. Curious.** Curious, the MLA's publishing executive, tries to capture Toga and frame her death as a media narrative. Toga, pushed to her limit, awakens Transform and drains Curious and her entire detachment to death — the League's first decisive ideological victory.
+- **Dabi vs. Geten.** The ice-wielding commander clashes repeatedly with Dabi; their fight is continued and settled during the war arc, where Dabi's flames overwhelm Geten.
+- Mr. Compress spends the arc as a performer, but his lineage as the great-great-grandson of the legendary thief **Oji Harima** — the "Peerless Thief" who robbed corrupt heroes for the poor — is not revealed until the Paranormal Liberation War (Season 6), when he tears off his own mask, maims himself to free the League, and becomes its last escape route.
 - **Shigaraki vs. Re-Destro.** The climax. Re-Destro fights at full power, believing himself the inheritor of Destro's revolution. **Shigaraki overpowers him completely** — his evolved Decay consumes the ground beneath them, the buildings above, and Re-Destro's own stress-empowered body. Re-Destro survives only by surrendering absolutely, and then kneels.
 
 #### Shigaraki's evolution
@@ -216,10 +210,10 @@ During this battle, Shigaraki's Quirk mutates. **Decay** no longer requires sust
 The two most important episodes of the season, and among the most important in the franchise.
 
 - **Nana Shimura**, the seventh holder of One For All, knew All For One would target her family. To protect her son **Kotaro**, she gave him up, cut all contact, and asked that he be told she was dead. She then died fighting All For One.
-- Kotaro grew up hating her, and hating heroes. He married, had a son — **Tenko** — and forbade the boy from becoming a hero. He beat him for it. He refused to acknowledge that Tenko had a Quirk at all.
-- Tenko's Quirk, **Decay**, manifested without warning or control. He decayed his dog. Then his mother, **Hana**. Then his two sisters. Then his father. Then his entire neighbourhood.
-- He was four or five years old. He walked the streets afterwards, scratching at his neck until it bled, because the scratching was the only thing that made the feeling stop.
-- **All For One found him.** He gave the boy a name — **Tomura Shigaraki** — kept him close to the name *Shimura* so the connection would never quite be severed, and raised him to hate everything Nana Shimura loved.
+- Kotaro grew up hating her, and hating heroes. He married a kind woman, **Nao**, had two children — his daughter **Hana** and his son **Tenko** — and the household also included Nao's parents, the elderly **Chizuo and Mako Magi**. Kotaro forbade the boy from becoming a hero and punished him for it; the rest of the family loved Tenko but never intervened.
+- When Tenko was five, the Quirk All For One had secretly planted/given him — **Decay** — manifested without warning or control. He decayed the family dog, **Mon**, first; then, panicking, his sister Hana; then his mother and maternal grandparents as they tried to hold him; and finally, deliberately, his father Kotaro, before the house crumbled.
+- He walked the streets for days afterwards, bloodied and alone, while every adult around him looked away, scratching at his neck because it was the only thing that made the feeling stop.
+- **All For One found him** — after making sure no one else would. He gave the boy a name — **Tomura Shigaraki** — kept him close to the name *Shimura* so the connection would never quite be severed, and raised him to hate everything Nana Shimura loved. The final chapters reveal how deeply All For One engineered the whole tragedy to produce his vessel.
 
 **The consequence for All Might:** Shigaraki is the grandson of All Might's own mentor. All Might has spent his entire career fighting the boy his teacher's bloodline produced, and never once knew. Nana's decision to protect her son by abandoning him is the single origin point of the series' central conflict.
 
@@ -235,13 +229,11 @@ Shigaraki defeats Re-Destro, and Re-Destro pledges the entire Army to him. The L
 | Lieutenant | Re-Destro |
 | Lieutenant | Geten |
 | Lieutenant | Trumpet |
-| Lieutenant | Curious |
 | Lieutenant | Skeptic |
-| Lieutenant | **Twice** |
-| Lieutenant | **Dabi** |
-| Lieutenant | **Himiko Toga** |
-| Lieutenant | **Mr. Compress** |
-| Lieutenant | **Spinner** |
+| Lieutenant | **Slidin' Go** (a mole Pro Hero) |
+| Regiment commanders | **Dabi · Twice · Himiko Toga · Mr. Compress · Spinner** |
+
+(Curious is *not* among them — Toga killed her at the Revival Party in Deika City.)
 
 The Front has over one hundred thousand members, corporate resources, political cover, and a leader who can destroy a city by touching it.
 
@@ -266,15 +258,16 @@ It is the largest cliffhanger the series has produced, and the war itself is ada
 | **Daigoro Banjo** | 5th One For All holder; source of Blackwhip | Ep. 90 |
 | **Hikage Shinomori · En · Yoichi Shigaraki** | 4th, 6th and 1st One For All holders | Ep. 98–100 |
 | **The 2nd and 3rd holders** | Unnamed vestiges who warn Midoriya | Ep. 98 |
-| **Hood** | High-End Nomu; fought by Endeavor, Hawks and three U.A. students | Ep. 103 |
+| **Hood** | High-End Nomu; fought by Endeavor and Hawks (the Season 4 finale, eps. 87–88) | Ep. 88 |
 | **Oboro Shirakumo** | Aizawa and Present Mic's dead classmate; Kurogiri's body | Ep. 107 |
 | **Re-Destro** (Rikiya Yotsubashi) | Supreme leader of the Meta Liberation Army; Quirk *Stress* | Ep. 108 |
 | **Geten** | The Army's most zealous field commander; Quirk *Ice* | Ep. 108 |
 | **Curious** (Chitose Kizuki) | Publishing executive; propaganda arm; Quirk *Landmine* | Ep. 108 |
 | **Skeptic** (Tomoyasu Chikazoku) | Data and surveillance; Quirk *Anthropomorph* | Ep. 108 |
 | **Trumpet** (Koku Hanabata) | Member of the Diet; political face; Quirk *Incite* | Ep. 108 |
-| **Natsuo and Fuyumi Todoroki** | Shoto's siblings, at the family dinner | Ep. 101 |
-| **Kotaro Shimura · Hana Shimura** | Shigaraki's parents | Ep. 111 |
+| **Fuyumi Todoroki** | Shoto's older sister, the family peacemaker | First appears eps. 87–88; ep. 101 |
+| **Natsuo Todoroki** | Shoto's older brother | Ep. 89 (formal); ep. 101 |
+| **Kotaro Shimura · Nao Shimura · Hana Shimura · Chizuo & Mako Magi** | Shigaraki's father, mother, older sister and maternal grandparents | Ep. 111 |
 | **Young Tenko Shimura** | Shigaraki as a child | Ep. 111 |
 | **Dr. Kyudai Garaki** | All For One's physician; the Nomu's creator | Ep. 112 |
 | **Selkie** | Pro Hero; appears in the filler episode | Ep. 104 |
@@ -329,7 +322,7 @@ The Endeavor Agency arc is deliberately unsentimental. Endeavor tries. Natsuo re
   - "Uso ja Nai" — **Soushi Sakiyama** (eps. 102–113)
 - ***My Hero Academia: World Heroes' Mission*** was released in Japan on **August 6, 2021**, between episodes 106 and 107. **It contains Season 5 spoilers** — specifically regarding Shigaraki's status — and should be watched after the season, not during it.
 - Two OVAs were released alongside Season 5: ***Hero League Baseball*** and ***Laugh! As if You Are in Hell***.
-- Season 5 was **criticised at the time for inconsistent animation quality**, particularly across the Joint Training arc (episodes 91–96), where several episodes drew visible complaints about rough in-between animation and off-model characters. Bones responded by reassigning staff; the Endeavor Agency and Meta Liberation Army arcs are noticeably better animated, and episodes 110–112 are among the strongest the studio produced for the series. The Joint Training episodes were also revised for home video.
+- Season 5 was **criticised at the time for inconsistent animation quality**, particularly across the Joint Training arc (episodes 91–97), where several episodes drew visible complaints about rough in-between animation and off-model characters. The Meta Liberation Army episodes (108–112), partly delayed by the broadcast schedule, were noticeably stronger, and episodes 110–112 are among the best-regarded the studio produced for the series; some Joint Training cuts were revised for home video.
 - The season ran in two cours with a summer break in July 2021, partly due to the Tokyo Olympic broadcast schedule.
 - Episode 110, *"Sad Man's Parade,"* and episode 112, *"Tomura Shigaraki: Origin,"* are the two most frequently cited episodes of the season and both hold the highest ratings of any Season 5 episode.
 

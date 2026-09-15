@@ -18,7 +18,7 @@ Each character is ranked at the **strongest they ever become** at any point in t
 
 | Character | Ranked as | Not ranked as |
 |---|---|---|
-| **Izuku Midoriya** | One For All at 100% with all six inherited Quirks | The bone-breaking 100% of Season 1 |
+| **Izuku Midoriya** | One For All at 100%, with all six inherited Quirks by the final war | The bone-breaking 100% of Season 1 |
 | **Tomura Shigaraki** | Awakened, with All For One installed | The petulant leader of the U.S.J. attack |
 | **Endeavor** | *PLUS ULTRA Prominence Burn* against the High-End Hood | His Season 2 appearance |
 | **Mirio Togata** | Permeation restored by Eri's Rewind | The Quirkless year he spends as a spectator |

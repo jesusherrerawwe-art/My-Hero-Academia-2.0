@@ -47,7 +47,7 @@ The season builds through small-scale classroom training before ending with the 
 - Midoriya cleans a polluted beach for ten months as physical conditioning. On the final morning he collapses; All Might tells him he passed.
 - Midoriya eats a strand of All Might's hair to receive One For All. He vomits. The series is deliberately undignified about inheriting the greatest power in the world.
 - At the exam, Midoriya scores **zero** villain points and is about to fail. He destroys the zero-pointer to save Uraraka, breaking his arm and both legs.
-- The exam is scored on **rescue points** as well as combat. Midoriya passes with 60; Bakugo scores 77.
+- The exam is scored on **rescue points** as well as combat. Midoriya passes with 60 rescue points and zero combat points; Bakugo places first with 77 combat points.
 
 **Why it works as an opening.** The first three episodes establish the series' central irony: the boy with no power is the only one who acts. Every licensed hero at the sludge-villain incident stands by, correctly, because they cannot help. Midoriya moves anyway. That single distinction — not talent — is what All Might selects for.
 
@@ -55,7 +55,7 @@ The season builds through small-scale classroom training before ending with the 
 
 ### 2. Quirk Apprehension Test Arc — Episode 4 (chapters 6–7)
 
-**What happens:** On the first day of class, Aizawa reveals that he expelled the entire previous year's Class 1-A, and administers a physical fitness test with the threat of expulsion for whoever places last.
+**What happens:** On the first day of class, Aizawa reveals that he once expelled an entire first-year class that failed to take his warnings seriously (a decision he later reversed by quietly re-enrolling them), and administers a physical fitness test with the threat of expulsion for whoever places last.
 
 **Key moments:**
 - Midoriya uses One For All on the ball throw to avoid last place — and immediately breaks his finger.
@@ -73,7 +73,7 @@ The season builds through small-scale classroom training before ending with the 
 
 **Key moments:**
 - **Match 1:** Midoriya and Uraraka (heroes) vs. Bakugo and Iida (villains). Iida guards the weapon while Bakugo goes out to hunt Midoriya personally. Midoriya devises a plan to hold Bakugo off while Uraraka reaches Iida, then wins by bringing the building's ceiling down on Bakugo — breaking his arm a third time.
-- Iida concedes defeat and admits Midoriya out-thought him. This is the beginning of their friendship.
+- The hero team wins by grabbing the weapon, though All Might names Iida — the only fighter who properly adapted to his role — the exercise's MVP. His respect for Midoriya's risky gambit is the beginning of their friendship.
 - Midoriya is hospitalised. All Might warns him that he cannot keep destroying himself.
 - **Bakugo confronts Midoriya in the hallway** — the season's emotional peak. He demands to know whether All Might gave Midoriya his power. Midoriya tells the truth. **Bakugo does not believe him.** That lie will shape the next five seasons.
 - Bakugo admits, painfully, that he felt he was being looked down on. Midoriya finally tells him that he has always considered Bakugo amazing.
@@ -90,12 +90,12 @@ The League is led by **Tomura Shigaraki**, a young man who disintegrates whateve
 
 **Key moments:**
 - Kurogiri scatters the students across the facility's zones to isolate them. Only Midoriya, Iida, Tsuyu, and Mineta remain near the entrance.
-- **Aizawa fights the entire villain mob alone** at the central plaza to protect the students. He is systematically dismantled — his arms broken, his legs crushed — and survives only because Thirteen and later All Might intervene.
-- Thirteen attempts to trap Kurogiri with Black Hole; Kurogiri opens a warp gate *inside* the attack, and Thirteen's own Quirk destroys their body.
-- Iida escapes to fetch help, using Recipro to outrun Kurogiri's gate.
+- **Aizawa fights the entire villain mob alone** at the central plaza to protect the students, dozens at a time. He is ultimately overwhelmed by the engineered **Nomu**, which shatters one of his arms and fractures his skull and face; he survives only because All Might intervenes.
+- Thirteen attempts to trap Kurogiri with Black Hole; Kurogiri opens a warp gate *inside* the attack, and Thirteen's own Quirk tears their body open.
+- Iida escapes to fetch help, outrunning Kurogiri's gate with a full burst of his Engine Quirk.
 - **Tsuyu and Mineta survive the shipwreck zone** through cleverness rather than strength — her frog physiology and his adhesive pop-off balls are used tactically against water villains.
-- **All Might vs. the Nomu.** The Nomu is engineered with shock absorption, rendering All Might's blows useless. All Might wins by striking continuously past his own physical limit — "**United States of Smash**."
-- All Might's muscle form fails in front of the entire class. As Shigaraki lunges at him, **Midoriya uses a single finger-flick of One For All to distract Shigaraki**, saving All Might's life.
+- **All Might vs. the Nomu.** The Nomu is engineered with shock absorption, rendering All Might's blows useless. All Might wins by landing over three hundred strikes past his own physical limit, finishing with a **Detroit Smash** whose shockwave parts the clouds overhead.
+- All Might's muscle form fails in front of the class. As Shigaraki and Kurogiri close in to kill him, **Midoriya throws himself into their path and shatters his own legs with One For All** to buy the few seconds All Might needs — saving his life.
 - The remaining villains are captured or driven off. Shigaraki escapes, wounded and furious.
 
 ---

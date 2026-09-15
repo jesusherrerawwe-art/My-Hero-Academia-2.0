@@ -41,7 +41,7 @@ His true peak is the version that **inhabits Shigaraki**, which is why the two o
 
 ### 3. Izuku Midoriya — *One For All, fully realised*
 
-One For All at 100% plus all six inherited Quirks: **Gearshift** (alters the speed and trajectory of anything he touches, including himself), **Fa Jin** (stored kinetic release), **Blackwhip**, **Danger Sense**, **Smokescreen** and **Float**.
+One For All at 100% plus, by the final war, all six additional Quirks: **Gearshift** (alters the speed and trajectory of anything he touches, including himself), **Fa Jin** (stored kinetic release), **Blackwhip** (the only one that manifests in Season 5), **Danger Sense**, **Smokescreen** and **Float**.
 
 Gearshift is the deciding factor. It lets Midoriya accelerate mid-air with no surface to push from and change the trajectory of his own body after a strike has begun, which breaks the physics every other character in the series is bound by. Combined with Danger Sense and One For All's raw output, he is the only hero who can fight Shigaraki and All For One on even terms.
 
@@ -79,7 +79,7 @@ He ranks below Endeavor for a single reason: **his body cannot tolerate his own 
 
 ### 8. Overhaul (fused form) — *Overhaul*
 
-Disassembly and reassembly on contact, extended in his fused form to the entire Shie Hassaikai compound — he merges with the building and with Mimic, and rebuilds himself from any injury. He nearly kills Midoriya operating at a full 100%, and it takes Eri's Rewind pushing One For All to **Infinite 100%** — a *United States of World Smash* — to stop him.
+Disassembly and reassembly on contact, extended in his fused kaiju forms to the entire Shie Hassaikai compound — he merges with his subordinate Shin Nemoto (and later Rikiya Katsukame), not Mimic, and rebuilds himself from any injury. He nearly kills Midoriya, who fights at a sustained **100% Full Cowl — Infinite 100%** — because Eri's Rewind undoes the damage to his body as fast as he inflicts it. (The *United States of World Smash* is a Deku–Bakugo combo from *Heroes: Rising*, later reused against Shigaraki, not the Overhaul finish.)
 
 His ceiling is genuine S-tier. His placement is limited by his psychology, which is unstable enough for Midoriya to exploit.
 
@@ -118,7 +118,7 @@ His ceiling is genuine S-tier. His placement is limited by his psychology, which
 
 **Pro Heroes.** Gran Torino · Crust · Yoroi Musha · Kamui Woods · Wash · Fat Gum · Rock Lock · Sir Nighteye
 
-> **Sir Nighteye.** Foresight gives him one second of unavoidable precognition, which combined with his skill lets a physically ordinary man stand in the same fight as All For One and later Overhaul. Ranked B for what the Quirk makes possible rather than what his body can do.
+> **Sir Nighteye.** Foresight, activated by touch and eye contact, lets him watch a target's future for an hour (with a 24-hour cooldown), and had never once been wrong; the Quirk itself grants no combat power, but paired with his intelligence and his weight-sealing capture stamps it makes a physically ordinary man tactically decisive in the Hassaikai raid. Ranked B for what the Quirk makes possible rather than what his body can do. He is killed by Overhaul's ground spikes, not by Chronostasis.
 
 **Students.** Tamaki Amajiki · Tenya Iida · Eijiro Kirishima · Mezo Shoji · Inasa Yoarashi · Tetsutetsu Tetsutetsu · Juzo Honenuki · Manga Fukidashi · Hiryu Rin · Togaru Kamakiri · Jurota Shishida · Hitoshi Shinso
 
@@ -158,7 +158,7 @@ His ceiling is genuine S-tier. His placement is limited by his psychology, which
 
 **Pro Heroes and sidekicks.** Power Loader · Manual · Death Arms · Backdraft · Selkie
 
-**Villains.** Gentle Criminal · Skeptic · Doctor Garaki · and six of the Eight Bullets: Shin Nemoto (Confession) · Rikiya Katsukame (Energy Suck) · Toya Setsuno (Larceny) · Yu Hojo (Crystallize) · Soramitsu Tabe (Food) · Deidoro Sakaki (Sloshed)
+**Villains.** Gentle Criminal · Skeptic · Doctor Garaki · and six of the Eight Bullets: Shin Nemoto (Confession) · Rikiya Katsukame (Vitality Stealing) · Toya Setsuno (Larceny) · Yu Hojo (Crystallize) · Soramitsu Tabe (Food) · Deidoro Sakaki (Sloshed)
 
 > **Doctor Garaki** is ranked for what he personally brings to a fight, which is very little — he is an old man with a handful of minor Quirks. What he *built* is ranked separately: every Nomu in the series, including Gigantomachia and Hood, is his work. On preparation alone he would be S+; on personal combat power he is C.
 >
@@ -175,9 +175,9 @@ His ceiling is genuine S-tier. His placement is limited by his psychology, which
 | **Principal Nezu** | Arguably the most intelligent character in the series, with High Spec raising his animal cognition above human levels. Physically negligible. |
 | **Lunch Rush** | His Quirk produces food at speed. Combat-irrelevant. |
 | **Naomasa Tsukauchi** | Polygraph. An investigative Quirk with no offensive application — and it prevents him from lying, which makes him useless undercover. |
-| **Tensei Iida** | Permanently crippled by Stain; can no longer walk or work as a hero. |
-| **Natsuo Todoroki** | Civilian. He has his mother's ice and never develops it. |
-| **Kota Izumi** | Quirkless child. ⚠️ In the epilogue he enrols at U.A. |
+| **Tensei Iida** | Paralysed and forced to retire by Stain; he walks again after the Final War with prosthetic legs. |
+| **Natsuo Todoroki** | Civilian; his Quirk is never shown on-screen. |
+| **Kota Izumi** | Child who hates heroes (his Quirk, Water Gun, never appears in the main series). ⚠️ In the epilogue he enrols at U.A. |
 | **Hisashi Midoriya** | Absent; works overseas. A fire-breathing Quirk, never used on screen. |
 | **Masaru Bakugo** | Civilian. His son's temperament comes from his wife. |
 

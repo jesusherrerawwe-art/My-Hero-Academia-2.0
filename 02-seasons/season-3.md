@@ -23,7 +23,7 @@ Season 3 is the series' pivot. Everything before it is a school story with escal
 
 ## Synopsis
 
-Class 1-A travels to a mountain training facility run by the hero team **Wild, Wild Pussycats** for a summer training camp — including the five students who failed their final exams and must attend remedial training. The camp is attacked on its first night by the League of Villains' **Vanguard Action Squad**, a team of nine killers whose specific objective is to capture Katsuki Bakugo alive.
+Class 1-A travels to a mountain training facility run by the hero team **Wild, Wild Pussycats** for a summer training camp; the five students who failed their practical finals attend alongside everyone else, because Aizawa judges that they need the training most. The camp is attacked on its first night by the League of Villains' **Vanguard Action Squad**, a team of over ten villains whose primary objective is to capture Katsuki Bakugo alive.
 
 Bakugo is taken. Five of his classmates — Midoriya, Iida, Todoroki, Kirishima and Yaoyorozu — go after him against direct orders, and the attempt forces **All Might** into the open at Kamino Ward, where he finally faces **All For One** in person.
 
@@ -47,22 +47,22 @@ In the aftermath, U.A. moves Class 1-A into dorms, and the students sit the **Pr
 
 | Villain | Quirk | Role in the attack |
 |---|---|---|
-| **Dabi** | Blueflame (Cremation) | Fights Shoto Todoroki; deliberately antagonises him |
-| **Himiko Toga** | Transform | Fights Uraraka and Tsuyu; becomes obsessed with both |
+| **Dabi** | Blueflame (Cremation) | Clashes twice with Aizawa, who erases his flames; deliberately taunts the heroes |
+| **Himiko Toga** | Transform | Ambush-squad close fighter; later targets Uraraka |
 | **Muscular** | Muscle Augmentation | Attacks Kota; nearly kills Midoriya |
-| **Moonfish** | Blade-Tooth | Hunts students through the forest; fought by Aizawa |
-| **Mustard** | Gas | Floods the training grounds with sleeping gas |
-| **Mr. Compress** | Compress | Captures Bakugo by turning him into a marble |
-| **Magne** | Magnetism | Fights Tiger |
+| **Moonfish** | Blade-Tooth | Hunts students through the forest; slices off one of Shoji's tentacles and is ultimately crushed by the berserk Dark Shadow |
+| **Mustard** | Gas (unnamed) | Floods the training grounds with a poisonous, sleep-inducing gas; fights Kendo and Tetsutetsu |
+| **Mr. Compress** | Compress | Captures Bakugo (and, briefly, Tokoyami) by turning them into marbles |
+| **Magne** | Magnetism | Close-range fighter; clashes with Tiger |
 | **Spinner** | Gecko-like physiology | Ideologue; carries a sword made of knives |
 | **Twice** | Double | Creates clones; mentally unstable |
-| **Kurogiri** | Warp Gate | Transport and coordination |
+| **Kurogiri** | Warp Gate | Transport and coordination (captured much later) |
 
-**Aizawa's stand.** Shota Aizawa fights alone through the forest, taking on multiple Vanguard Action Squad members simultaneously to keep the villains away from the students. He is beaten systematically — his arms broken, his body badly burned and cut — and is hospitalised for weeks.
+**Aizawa's stand.** Shota Aizawa moves through the forest efficiently neutralising dozens of the League's low-tier villains, and twice confronts Dabi, erasing his fire (the first "Dabi" he erases is a Twice clone). He takes some cuts and bruises but is *not* seriously maimed this arc, and is on his feet directing the clean-up afterward.
 
-> **Correction to a widely repeated claim:** Aizawa does **not** lose his eye or his leg in this arc. He is severely injured and recovers. The loss of his right eye and the amputation of his leg happen much later, during the **Paranormal Liberation War** — material adapted in Season 6, not Season 3. In Season 3 he returns to teaching.
+> **Correction to a widely repeated claim:** Aizawa does **not** lose his eye or his leg in this arc, and he is not hospitalised for weeks here. His severe U.S.J. injuries happened back in Season 1. The loss of his right eye and the amputation of his right leg happen much later, during the **Paranormal Liberation War** (Season 6).
 
-**Ragdoll is targeted specifically.** All For One wants her Search Quirk, and the squad's orders include capturing her. She survives, but the incident demonstrates that the League now has the resources to hunt Quirks selectively.
+**Ragdoll is targeted specifically.** All For One wants her Search Quirk, and the squad's orders include capturing her. She is found alive in the woods after the attack, but Search has been permanently torn out of her by All For One — she is left Quirkless — the first on-screen proof that a Quirk can be taken from a living holder.
 
 **Midoriya vs. Muscular (ep. 42).** Midoriya finds Kota Izumi — a boy who hates heroes because his parents, both Pro Heroes, died saving strangers — cornered by Muscular. Midoriya puts himself between them and takes Muscular's full force, then pushes One For All past every percentage he has ever used: **1,000,000%**. He wins. Both of his arms are destroyed.
 
@@ -78,7 +78,7 @@ Kota's arc is the season's moral argument in miniature: hero society consumes th
 
 **The rescue.** They find Bakugo, who is furious at being rescued and refuses to leave quietly — he does not want to owe Midoriya anything. As they escape, **Tomura Shigaraki** and **All For One** intercept them. All For One intends to take Bakugo and corrupt him; Shigaraki intends to kill everyone present, starting with Midoriya.
 
-**All Might arrives.** He had already retired from active hero work. He comes anyway.
+**All Might arrives.** He is still technically active, but his injury limits his muscle form to mere seconds of fighting time. He comes anyway, knowing this may be his last battle.
 
 #### All Might vs. All For One (eps. 47–49)
 
@@ -114,14 +114,16 @@ Episode 50 is titled *"End of the Beginning, Beginning of the End"* — and it m
 
 ### 4. Provisional Hero Licence Exam Arc — Episodes 51–62 (chapters 98–121)
 
-**What happens:** To legally act as heroes in emergencies, students must hold a **Provisional Hero Licence**. The exam is administered by the **Hero Public Safety Commission** and overseen by examiner **Yokumiru Mera**, whose Quirk keeps him from sleeping — he is visibly, permanently exhausted.
+**What happens:** To legally act as heroes in emergencies, students must hold a **Provisional Hero Licence**. The exam is administered by the **Hero Public Safety Commission** and overseen by examiner **Yokumiru Mera**, a visibly, permanently overworked functionary who survives on cigarettes and sleep deprivation.
 
 Students from across Japan compete. The two rival schools given the most screen time:
 
 | School | Notable students |
 |---|---|
-| **Shiketsu High** | **Inasa Yoarashi** (Whirlwind) · **Yo Shindo** (Vibrate) · **Seiji Shishikura** (Meatball) · **Utsushimi Camie** (Glamour) |
-| **Ketsubutsu Academy** | **Tatami Nakagame** (Turtle) · taught by **Ms. Joke** (Emi Fukidashi, Outburst), who has been proposing marriage to Aizawa for years |
+| **Shiketsu High** | **Inasa Yoarashi** (Gale) · **Yo Shindo** (Vibrate) · **Seiji Shishikura** (Meatball) · **Camie Utsushimi** (Glamour) |
+| **Ketsubutsu Academy** | **Tatami Nakagame** (Turtle Neck; Telescopic) · **Shikkui Kaori** · **Nagamasa Mora** |
+
+Also supervising the exam is the Pro Hero **Ms. Joke** (Emi Fukukado, Quirk Outburst), Aizawa's loud, joke-telling professional rival, who has repeatedly teased him about marriage.
 
 **Inasa Yoarashi** is the season's most important new character. He is as passionate and loud as All Might, and he **refused Endeavor's recommendation** to U.A. — he hates Endeavor for the look in his eyes. He is a mirror of Todoroki's problem, approached from the opposite direction.
 
@@ -132,20 +134,20 @@ Examinees are dropped into a simulated city collapsing under disaster and must r
 The exam's actual test is not rescue skill — it is **whether you can work with people you do not know, under pressure, without letting personal feeling interfere**. Midoriya, Iida, Uraraka, Asui, Kirishima and most of Class 1-A pass.
 
 **Two students fail on conduct:**
-- **Bakugo** — for attacking another examinee (Yo Shindo) unnecessarily and acting entirely alone.
-- **Todoroki** — for refusing to cooperate and for the cold hostility Inasa identifies as Endeavor's eyes.
+- **Bakugo** — for harsh, uncooperative conduct during the rescue phase (his immediate strike on the double-crossing Yo Shindo is cited as part of the pattern), and for acting entirely alone.
+- **Todoroki** — for refusing to cooperate and for the cold hostility Inasa identifies as the same look he despises in Endeavor.
 
 Neither failure is about ability. Both are about temperament, which is precisely the point.
 
 #### Second Exam — Gang Orca
 
-The second round pits examinees against **Gang Orca**, the No. 9 Pro Hero, who is deliberately terrifying. Most examinees fail outright. Those who pass do so by holding their nerve and continuing to protect others while being hunted.
+The second round pits examinees against **Gang Orca**, then the **No. 10 Pro Hero** (the ranking drops to No. 12 after the chart update in Season 4), who deliberately plays a terrifying invading villain. Most examinees freeze; those who pass hold their nerve and keep protecting civilians while fighting him off.
 
 **The result:** Bakugo and Todoroki do not receive licences. Both are assigned a **remedial course** under Gang Orca himself — which becomes the Remedial Course arc early in Season 4.
 
 #### Deku vs. Kacchan, Part 2 (eps. 59–61)
 
-After the exam, Bakugo corners Midoriya at night and forces a fight. He has spent months unable to reconcile what he knows: All Might retired the same day Midoriya's power began to change, and Midoriya has been getting stronger in a way that looks like **inheritance**.
+After the exam, Bakugo corners Midoriya at night at **Ground Beta** and forces a fight. He has spent months unable to reconcile what he knows: All Might retired the same day Midoriya's power began to change, and Midoriya has been getting stronger in a way that looks like **inheritance**.
 
 Aizawa catches them. All Might arrives and tells Bakugo the whole truth — One For All, All For One, Nana Shimura, the embers, all of it.
 
@@ -169,15 +171,15 @@ Episode 63 opens the Overhaul storyline that occupies most of Season 4. Class 1-
 |---|---|---|
 | **Kota Izumi** | Child who hates heroes; saved by Midoriya | Ep. 41 |
 | **Mandalay · Pixie-Bob · Ragdoll · Tiger** | Wild, Wild Pussycats | Ep. 40 |
-| **Dabi** | Blueflame; the League's most dangerous field combatant | Ep. 44 |
-| **Himiko Toga** | Transform; obsessed with Midoriya, Uraraka and Tsuyu | Ep. 44 |
+| **Dabi** | Blueflame; the League's most dangerous field combatant | First glimpsed eps. 31–32; in the field from ep. 43 |
+| **Himiko Toga** | Transform; obsessed with Midoriya, Uraraka and Tsuyu | First glimpsed eps. 31–32; in the field from ep. 43 |
 | **Mr. Compress · Muscular · Moonfish · Mustard · Magne · Spinner · Twice** | Vanguard Action Squad | Ep. 43–45 |
 | **All For One (in person)** | The series' primary antagonist | Ep. 47 |
 | **Yokumiru Mera** | HPSC exam proctor | Ep. 53 |
 | **Inasa Yoarashi** | Shiketsu High; hates Endeavor | Ep. 54 |
 | **Yo Shindo · Seiji Shishikura · Utsushimi Camie** | Shiketsu High | Ep. 54 |
-| **Ms. Joke (Emi Fukidashi) · Tatami Nakagame** | Ketsubutsu Academy | Ep. 54 |
-| **Gang Orca** | No. 9 Pro Hero; second-round examiner | Ep. 56 |
+| **Ms. Joke (Emi Fukukado) · Tatami Nakagame** | Exam-supervising Pro Hero and Ketsubutsu Academy | Ep. 54 |
+| **Gang Orca** | No. 10 Pro Hero; second-round examiner | Ep. 56 |
 | **Mirio Togata · Tamaki Amajiki · Nejire Hado** | The Big Three, U.A. third-years | Ep. 62 |
 | **Eri** | Girl with Rewind; Overhaul's ward | Ep. 63 |
 | **Kai Chisaki / Overhaul** | Leader of the Shie Hassaikai's young guard | Ep. 63 |

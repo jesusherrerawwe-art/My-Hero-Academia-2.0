@@ -31,7 +31,7 @@ This is the ranking that holds from chapter 184 through the rest of the series.
 
 For comparison — this is the ranking Class 1-A grew up watching:
 
-| Rank | Hero | → | New rank |
+| Old rank | Hero | → | New rank |
 |---|---|---|---|
 | 1 | All Might | — | *retired* |
 | 2 | Endeavor | ↑ | 1 |
@@ -39,14 +39,13 @@ For comparison — this is the ranking Class 1-A grew up watching:
 | 4 | Best Jeanist | ↑ | 3 |
 | 5 | Edgeshot | ↑ | 4 |
 | 6 | Crust | — | 6 |
-| 7 | Mirko | ↑ | 5 |
 | 8 | Yoroi Musha | ↓ | 9 |
 | 9 | Ryukyu | ↓ | 10 |
-| 10 | Gang Orca | ↓ | out of the top ten |
+| 10 | Gang Orca | ↓ | 12 (out of the top ten) |
 
-Only **Crust** holds his position. Every other hero moves, and two newcomers — Mirko and Wash — enter the top ten. Gang Orca's fall from tenth leaves a second vacancy.
+The new No. 5 (Mirko), No. 7 (Kamui Woods) and No. 8 (Wash) are **all newcomers to the top ten**, alongside the two open slots left by All Might and Gang Orca; the old No. 7 position is never clearly named in the series. Only **Crust** holds his position exactly.
 
-⚠️ **Spoiler — the epilogue chart.** Eight years after the Final War, the top ten reads: 1 Lemillion (Mirio Togata), 2 Shoto, 3 Mt. Lady, 4 Kamui Woods, 5 Best Jeanist, 6 Mirko, 7 Nejire Chan, 8 Wash, 9 Tentacole (Mezo Shoji), 10 Phantom Thief (Neito Monoma). Endeavor, Hawks and Edgeshot have all retired.
+⚠️ **Spoiler — the epilogue chart.** Eight years after the Final War, the top ten reads: 1 Lemillion (Mirio Togata), 2 Shoto, 3 Mt. Lady, 4 Kamui Woods, 5 Best Jeanist, 6 Mirko, 7 Nejire Chan, 8 Wash, 9 Tentacole (Mezo Shoji), 10 Phantom Thief (Neito Monoma). Endeavor has retired; Hawks moves into work with the reorganised Hero Public Safety Commission rather than ranking.
 
 ---
 
@@ -74,9 +73,9 @@ Toya, who had inherited his father's fire but his mother's tolerance for cold ra
 
 **The redemption arc.** After All Might retires, Endeavor becomes No. 1 by default — a rank he did not earn and does not want. Rather than celebrate, he tells the country plainly that he is not All Might and never will be, and asks to be judged by what he does next.
 
-In Season 5 he fights the High-End Nomu **Hood** in Jaku City alongside **Hawks** and his three work-study students — Midoriya, Bakugo and Shoto. He is nearly killed, and wins with Prominence Burn. Afterwards he tells the civilians, deliberately borrowing All Might's phrasing: *"It's fine now. Why? Because I am here."* He knows exactly what he is doing, and he knows he has not earned the sentence.
+The High-End Nomu **Hood** attacks in a city in **Kyushu** at the end of Season 4 (episodes 87–88, immediately after the chart ceremony): Endeavor fights it with **Hawks**, the three work-study students (Midoriya, Bakugo and Shoto) not yet assigned. He is nearly killed — Hood costs him much of the sight on the left side of his face — but wins with a *PLUS ULTRA* Prominence Burn. Afterwards, raising a fist to the news helicopters, he deliberately borrows All Might's phrasing: *"It's fine now. Why? Because I am here."* He knows exactly what he is doing, and knows he has not yet earned the sentence. The Season 5 work-study episodes (Starservant, Ending) come after this fight.
 
-⚠️ **Spoiler.** Dabi reveals himself as Toya Todoroki in **Season 6**, during the Paranormal Liberation War (manga chapter 290) — not in Season 5. He had deliberately engineered Endeavor's encounters with Hood, Starservant and Ending specifically to set up the moment. His nationwide broadcast, in which he details Endeavor's abuse and confirms his identity with a DNA test performed on Endeavor's own blood from the Jaku fight, does more damage to public trust in hero society than any battle in the series.
+⚠️ **Spoiler.** Dabi reveals himself as Toya Todoroki in **Season 6**, during the Paranormal Liberation War (manga chapter 290, anime episode 124, *"Dabi's Dance"*) — not in Season 5. He sent Hood to test Endeavor and exploited encounters with villains such as Ending to set up the moment. His nationwide broadcast, in which he details Endeavor's abuse and confirms his identity with a DNA test performed on Endeavor's own blood from the Kyushu fight, does more damage to public trust in hero society than any battle in the series.
 
 **Why he matters.** Endeavor is the series' argument that redemption is not the same as forgiveness. He is never forgiven. Rei will not look at him; Natsuo refuses to speak to him; Shoto tolerates him at best. What he gets instead is **obligation** — the requirement to keep doing the right thing for the rest of his life, without relief. Horikoshi never resolves it, and that is deliberate.
 
@@ -119,7 +118,7 @@ His undercover work requires him to do things a hero should not. He **kills Twic
 
 Controls the fibres in any fabric, allowing him to bind, immobilise and manipulate opponents through their clothing — including their own. He is precise, elegant, and obsessive about presentation; during Bakugo's work-study he personally corrects Bakugo's appearance, posture and speech, which Bakugo resents and then, slowly, absorbs.
 
-Best Jeanist is critically injured by **All For One**, who attacks a group of top-ranked heroes to harvest their Quirks before the Kamino Ward battle and uses Jeanist's Fiber Master during the fight itself. Jeanist survives but spends the following months in a coma, and the public believes him dead.
+Best Jeanist is critically injured by **All For One** at the Kamino Ward battle — AFO blows a hole through his torso with an Air Cannon and notes Fiber Master is too complex for him to bother stealing (Jeanist also loses a lung). He survives but goes on extended medical leave, and later goes through a fake-death procedure (with Hawks and Central Hospital) to allow Hawks to infiltrate the Paranormal Liberation Front; the public believes him dead until his war return.
 
 He retains the No. 3 rank on the Season 4 chart despite being absent from the ceremony, and later recovers and returns to active duty.
 
@@ -149,7 +148,7 @@ Edgeshot has the third-highest approval rating in the top ten and says, at the c
 | **Birthday** | March 1 |
 | **Height** | 159 cm |
 | **Age** | 26 |
-| **Rank** | No. 7, then No. 5 |
+| **Rank** | No. 5 (new entry; not on the old chart); No. 6 by the epilogue |
 | **Voice (JP)** | Sayaka Kinoshita |
 | **Voice (EN)** | Anairis Quiñones |
 
@@ -157,7 +156,7 @@ A rabbit mutation-type Quirk granting extraordinary leg strength, speed and jump
 
 She is the most aggressive of the top-ranked heroes: she operates solo, refuses sidekicks, and charges into situations that other heroes avoid. At the chart ceremony she issues a public warning to villains who are "rising up," which is the first official acknowledgment that the country's villain population is growing.
 
-⚠️ During the Paranormal Liberation War she fights multiple High-End Nomu alone, loses an arm and takes catastrophic damage to her legs, and **keeps fighting**. She becomes one of the series' most popular characters precisely because she refuses to stop, and she continues to operate — with prosthetics — in the epilogue, ranked No. 6.
+⚠️ During the Jaku Hospital raid she fights five High-End Nomu alone, loses her **left arm and right leg**, and **keeps fighting**; in the Final War she later loses her remaining prosthetic limbs too. She becomes one of the series' most popular characters precisely because she refuses to stop, and she continues to operate — with prosthetics — in the epilogue, ranked No. 6.
 
 ---
 
@@ -216,7 +215,7 @@ He is a genuinely excellent teacher. He recognises Kirishima's courage immediate
 |---|---|
 | **Quirk** | Dragon |
 | **Birthday** | September 22 |
-| **Rank** | No. 9, then No. 10 |
+| **Rank** | No. 9 before the new chart, then No. 10 |
 | **Voice (JP)** | Kaori Yagi |
 | **Voice (EN)** | Katelyn Barr |
 
@@ -233,7 +232,7 @@ Transforms into a full dragon, large enough to carry several people in flight. R
 | **Voice (JP)** | Shin-ichiro Miki |
 | **Voice (EN)** | Brandon McInnis |
 
-All Might's former sidekick. Foresight lets him see exactly one hour of a person's future, once per day, and it **cannot be turned off** — everything he sees is guaranteed to happen.
+All Might's former sidekick. Foresight activates on physical contact and eye contact: for the next hour he can watch the target's future as a third-person film — including events years away — in second-by-second detail, and the Quirk then requires a 24-hour cooldown. What he sees had never once been wrong.
 
 Nighteye is humourless, exacting, and deeply devoted to All Might. Their friendship ended over a professional disagreement: Nighteye believed All Might should retire while he still could, and All Might refused. They did not speak for years.
 
@@ -269,7 +268,7 @@ He is also the character who most directly confronts All Might with his failures
 |---|---|
 | **Quirk** | Orca |
 | **Birthday** | October 29 |
-| **Rank** | No. 10 before All Might's retirement |
+| **Rank** | No. 10 before All Might's retirement; No. 12 immediately after; No. 21 by the epilogue |
 | **Voice (JP)** | Shuhei Matsuda |
 | **Voice (EN)** | Tyler Walker |
 
@@ -300,18 +299,18 @@ During the Forest Training Camp attack, **Ragdoll's Search Quirk is stolen by Al
 
 | Hero | Real name | Quirk | Notes |
 |---|---|---|---|
-| **Ms. Joke** | Emi Fukidashi | Outburst — forces uncontrollable laughter | Ketsubutsu Academy teacher; has been proposing marriage to Aizawa for years |
+| **Ms. Joke** | Emi Fukukado | Outburst — forces uncontrollable laughter | Pro Hero and exam supervisor; Aizawa's loud rival who teases him about marriage |
 | **Manual** | Masaki Mizushima | Water manipulation | Iida's work-study supervisor during the Hosu Incident |
 | **Selkie** | — | Seal-like physiology | Marine rescue specialist; leads the *Oki Mariner* crew, which Uraraka and Asui join |
 | **Bubble Girl** | Kaoruko Awata | Bubbles | Sir Nighteye's sidekick |
 | **Centipeder** | Juzo Moashi | Centipede | Sir Nighteye's sidekick |
-| **Rock Lock** | Ken Takagi | Restraint | Allied hero during the Hassaikai raid |
+| **Rock Lock** | Ken Takagi | Lock Down — fastens touched objects in place (cannot affect living things) | Allied hero during the Hassaikai raid |
 | **Burnin** | Moe Kamiji | Flame hair | Endeavor's lead sidekick |
 | **Death Arms** | — | Superhuman strength | A conventional, well-meaning strength hero; criticises Midoriya publicly |
 | **Backdraft** | — | Fire suppression | Rescue specialist |
-| **Uwabami** | — | Snake hair | Celebrity hero; takes Kaminari on work-study |
-| **Crimson Riot** | — | Hardening | Retired; Kirishima's idol and the source of his philosophy |
-| **Yoroi Musha** | — | Armour | No. 9; samurai-styled |
+| **Uwabami** | — | Snake hair | Celebrity hero; takes Uraraka and Yaoyorozu on work-study |
+| **Crimson Riot** | — | Hardening-type Quirk (unnamed) | Retired; Kirishima's idol and the source of his philosophy |
+| **Yoroi Musha** | — | Armour | No. 9 (was No. 8); samurai-styled |
 | **Crust** | — | Shield | No. 6; defensive specialist |
 | **Wash** | — | — | No. 8; can only say "washa" |
 | **Lady Nagant** | Kaina Tsutsumi | Rifle | ⚠️ Former top-ranked hero turned assassin for the Public Safety Commission — see [Villains](league-of-villains.md) |

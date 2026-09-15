@@ -75,7 +75,7 @@ Kōhei Horikoshi builds meaning into almost every name using kanji, homophones a
 ### Staff and heroes
 
 - **Shota Aizawa (相澤 消太)** — 消 = **erase**. His hero name, Eraser Head, is redundant.
-- **Hizashi Yamada (山田 日差志)** — 日差 = **sunshine**. Present Mic.
+- **Hizashi Yamada (山田 陽射)** — 陽射 = **sunshine**. Present Mic.
 - **Mei Hatsume (発目 明)** — 発 = to emit or invent, 目 = eye, 明 = bright. Her Quirk, Zoom, is superhuman vision. Her name is an invention about eyes.
 - **Nezu (根津)** — the principal's name is homophonous with **鼠 (*nezumi*), "mouse" or "rat,"** which is why his running joke is that nobody knows whether he is "a dog, a mouse, or a bear."
 - **Keigo Takami (鷹見 啓悟)** — 鷹 = **hawk**. His hero name is Hawks.
@@ -191,15 +191,15 @@ A large number of the cast play multiple characters — often in the same scene.
 | **Kei Shindō** | Kyoka Jiro, Kinoko Komori, Fuyumi Todoroki, **and young Shoto Todoroki** |
 | **Masakazu Nishida** | Mezo Shoji, Ectoplasm, Kosei Tsuburaba, Sen Kaibara |
 | **Kenta Ōkuma** | Cementoss, Manual, Centipeder, Nirengeki Shoda |
-| **Aoi Yūki** | Tsuyu Asui, Pony Tsunotori, Setsuna Tokage |
+| **Aoi Yūki** | Tsuyu Asui, Pony Tsunotori (Setsuna Tokage is **Hitomi Nabatame**, not Aoi Yūki) |
 | **Kōhei Amasaki** | Neito Monoma, Shihai Kuroiro |
 | **Kaori Nazuka** | Mt. Lady, Toru Hagakure |
 | **Jun'ichi Suwabe** | Shota Aizawa, Jurota Shishida |
 | **Kaito Ishikawa** | Tenya Iida, Manga Fukidashi |
 | **Ayane Sakura** | Ochaco Uraraka, Reiko Yanagi |
 | **Masamichi Kitada** | Kamui Woods, Tensei Iida, young Gran Torino |
-| **Kiyotaka Furushima** | Hanta Sero, Togaru Kamakiri |
-| **Kōji Okino** | Tetsutetsu Tetsutetsu, Kojiro Bondo |
+| **Kiyotaka Furushima** | Hanta Sero, Togaru Kamakiri, Mustard |
+| **Kōji Okino** | Tetsutetsu Tetsutetsu (Kojiro Bondo is a different actor, Kōsuke Okano) |
 | **Kosuke Kuwano** | Yuga Aoyama, Hiryu Rin |
 | **Eri Kitamura** | Mina Ashido, Tenya Iida's mother |
 | **Sayaka Kinoshita** | Mirko, the HPSC President |
@@ -223,9 +223,9 @@ A large number of the cast play multiple characters — often in the same scene.
 
 Both dubs shift register for **All Might's true form**: the heroic voice and Toshinori Yagi's voice are performed as two different characters. In Japanese, **Kenta Miyake** plays the emaciated form higher and wheezier; **Christopher Sabat** does the same in English.
 
-**Recast roles.** Aizawa's English voice changed from **Alex Organ** (Season 1) to **Christopher Wehkamp** (Seasons 2–8). Present Mic changed from **Sonny Strait** (episodes 1–16) to **Dave Trosko** (episodes 17–170). Recovery Girl changed from **Juli Erickson** (Season 1) to **Luci Christian** (Seasons 2–8).
+**Recast roles.** Aizawa's English voice changed from **Alex Organ** (Season 1) to **Christopher Wehkamp** (Season 2 onward). Present Mic changed from **Sonny Strait** (the thirteen episodes of Season 1) to **Dave Trosko** (Season 2 onward). Recovery Girl changed from **Juli Erickson** (Season 1) to **Luci Christian** (Season 2 onward).
 
-**Mei Hatsume's Japanese voice is Shiori Sakurai.** Several English-language sources list her as "Azu Sakura," which is an error that has propagated across wikis.
+**Mei Hatsume's Japanese voice is Shiori Sakurai.** Her earliest episodes were credited under the stage aliases **Azusa Sakura** (Sports Festival arc) and Kaori Sakurai (School Festival arc) — these are the same actress, not a different person.
 
 ---
 
@@ -235,7 +235,7 @@ Both dubs shift register for **All Might's true form**: the heroic voice and Tos
 
 - Serialised in *Weekly Shōnen Jump* from **July 7, 2014** to **August 5, 2024** — **430 chapters** in **42 volumes**, over exactly ten years and one month.
 - By **April 2024** the series had passed **100 million copies in circulation** worldwide, including digital: roughly **60 million in Japan and 40 million elsewhere**. The milestone was announced with volume 40 on April 4, 2024, marked by a Horikoshi illustration, a promotional video narrated by Daiki Yamashita, and a full-page advertisement in the *Yomiuri Shimbun* featuring more than ninety characters.
-- That puts *My Hero Academia* in a club of roughly **twenty-one manga series** ever to pass 100 million — alongside *Dragon Ball*, *One Piece*, *Slam Dunk*, *Naruto*, *Attack on Titan*, *Demon Slayer* and *Kingdom*.
+- It made *My Hero Academia* roughly the tenth *Weekly Shōnen Jump* series ever to pass 100 million copies in circulation — joining company with *Dragon Ball*, *One Piece*, *Slam Dunk*, *Naruto*, *Attack on Titan* and *Demon Slayer*.
 - **Volume 42**, released December 4, 2024 with **38 additional pages**, reached **one million copies in circulation within a single week** of release.
 - Horikoshi's reaction to the 100 million figure: *"In sneakers with thin soles, I walked a path that has been paved by many great manga and anime. I think this number is a result of being blessed with the times."*
 
@@ -274,15 +274,15 @@ The **Harvey Award** is one of the oldest and most prestigious honours in Americ
 - The broadcast finale is **episode 170, titled simply *"My Hero Academia"*** — the series' own name as its last title — which aired **December 13, 2025**.
 - A **bonus special, episode 171 *"More,"*** aired **May 2, 2026** and adapts chapter 431, the epilogue bundled with the final manga volume.
 - Across eight seasons the anime used **twenty-eight theme songs** — fourteen openings and fourteen endings.
-- The Final Season's highest-rated episodes scored extraordinarily well with international audiences: episode 167, *"Izuku Midoriya: Rising,"* holds an **IMDb rating around 9.8** from roughly twenty-nine thousand votes, and the finale sits near **9.4**.
+- The Final Season's highest-rated episodes scored extraordinarily well with international audiences: episode 162 (*"The Final Boss!!"*) and episode 167 (*"Izuku Midoriya: Rising"*) both peaked in the **9.7–9.8** range on IMDb, and the finale sat in the low 9s.
 
 ### Worldbuilding numbers
 
 - **80%** of the world's population has a Quirk.
-- The first recorded Quirk birth was a **glowing baby born in Qing Qing City, China**, shown in episode 1. ⚠️ The series eventually reveals what became of that child: the fame turned into a peace movement of more than ten million people, and **All For One stole the Quirk and killed its holder**. The cult Humarise, from the film *World Heroes' Mission*, worships the baby as a deity.
-- The U.A. entrance exam's **zero-pointer awards zero points of every kind** — no villain points, no rescue points. The only reason to fight it is to protect somebody. It is a character test disguised as an obstacle.
+- The first recorded Quirk birth was a **glowing baby born in Qing Qing City, China**, shown in episode 1. ⚠️ Chapter 407 reveals what became of that child: the baby's fame grew into a peace movement more than ten million people strong, and **All For One — younger than the baby and resentful of its attention — stole its Luminescence Quirk and killed its holder**. (The "first" is only the first *registered* Quirk user; AFO and his brother came first.) The cult Humarise, from *World Heroes' Mission*, keeps the baby as an icon while preaching that Quirks are a plague.
+- The U.A. entrance exam's **zero-pointer awards zero villain points**, and examinees are briefed not to engage it — there are no points for destroying it. But rescue points still apply: Midoriya punches it apart to save Uraraka and is admitted on the 60 rescue points that decision earns him. It is a character test disguised as an obstacle.
 - Class 1-A and Class 1-B each have **20 students**.
-- One For All has been passed down through **nine wielders** across roughly fifty years.
+- One For All has been passed down through **nine wielders** across roughly three quarters of a century (All Might alone held it for about forty years).
 
 ---
 
@@ -299,7 +299,7 @@ The **Harvey Award** is one of the oldest and most prestigious honours in Americ
 - **Kaminari's "ウェイ" (*wei*) face** — the vacant, thumbs-up expression he makes after exceeding his wattage limit — became one of the most-memed images in anime.
 - **Kendo karate-chops Monoma.** Usually to the back of the neck, usually mid-insult. The gag is repeated so consistently that fans track it as a running counter.
 - **Recovery Girl's healing is not free.** Her Quirk accelerates the patient's own natural recovery and draws on *their* stamina, not hers — which is why she cannot save someone who has nothing left to heal with. The series enforces this rule strictly.
-- **Toru Hagakure's face** is never shown for almost the entire run. Asked about it in a 2021 Q&A, Horikoshi said he was "not sure." ⚠️ He eventually drew her full appearance in bonus material.
+- **Toru Hagakure's face** is never shown for almost the entire run. Asked about it in a 2021 Q&A, Horikoshi said he was "not sure." ⚠️ She is finally drawn fully visible in the final-war chapters of the manga (the traitor arc, chapter 368).
 - **Mezo Shoji's face** is likewise kept hidden for most of the run. In the same Q&A Horikoshi said it would eventually be revealed.
 
 ### Things the series refuses to explain
@@ -307,7 +307,7 @@ The **Harvey Award** is one of the oldest and most prestigious honours in Americ
 - **Thirteen's gender is never stated** in the manga or the anime. The character's official profile leaves it blank, and Horikoshi has declined to settle it. Thirteen is referred to in ways that avoid the question entirely.
 - **Principal Nezu's species is never confirmed.** He offers "a dog, a mouse, or a bear" and refuses to elaborate. His High Spec Quirk is described as animal intelligence raised above human levels, which explains nothing.
 - **Hisashi Midoriya** — Izuku's father — works overseas and never appears. Horikoshi has said the character exists largely to account for Izuku's Quirk genetics.
-- **The glowing baby's Quirk** is never identified.
+- **The glowing baby's Quirk** is not named in the early series (it is only called Luminescence much later, in chapter 407), and the baby's gender is never specified.
 
 ---
 
@@ -321,15 +321,16 @@ In his volume 42 afterword Horikoshi described the structure explicitly: chapter
 
 **Where everyone ends up.**
 
-- **Izuku Midoriya loses One For All entirely.** The last embers of it fade from his body. He becomes a **teacher at U.A.** — the Quirkless boy who wanted to be a hero ends up doing the job All Might and Aizawa did for him.
-- **Katsuki Bakugo** is a Pro Hero and returns to U.A. as a **guest lecturer**, which he objects to on the grounds that he does not want to be used as a cautionary example.
-- **Class 1-A are Pro Heroes.** Shoto Todoroki is ranked high enough that the class celebrates it.
+- **Izuku Midoriya loses One For All entirely.** The last embers of it fade from his body; eight years later he is still an active hero, using a high-tech support suit built by Mei Hatsume's company — the Quirkless boy who wanted to be a hero keeps being one anyway.
+- **Katsuki Bakugo** is a Pro Hero and is called back to U.A. as a **guest lecturer**, which he objects to on the grounds that he does not want to be used as a cautionary example.
+- **Class 1-A are Pro Heroes.** Shoto Todoroki is ranked No. 2; Iida, Kirishima and others run agencies; Momo and several classmates place on the national charts.
 - ⚠️ **Toya Todoroki (Dabi) dies** during the eight-year gap, in hospital confinement. Shoto mentions praying at his altar.
 - **Kota Izumi** — the boy who hated heroes — is a **U.A. student**.
 - ⚠️ **Shihai Kuroiro and Kinoko Komori** from Class 1-B are **dating**, revealed casually in overheard conversation.
-- ⚠️ **Midoriya and Uraraka.** In the epilogue's final scene, Midoriya tells Uraraka that she has always been *his* hero, and that he wants to talk with her more — not just today, but from now on. She answers, "the feeling's mutual," and the series ends on the two of them **clasping hands**. It is the only event that actually happens in chapter 431, and it is deliberately understated.
+- **Gentle Criminal and La Brava** are pardoned; eight years later they are married and run a software company, **GeL Inc.**; Mei Hatsume founds a support-item company called **Lightly Labs**.
+- ⚠️ **Midoriya and Uraraka.** In the epilogue's closing scene, Midoriya tells Uraraka that she has always been *his* hero, and that he wants to talk with her more — not just today, but from now on. She answers, "the feeling's mutual," and the series ends with the two of them **clasping hands**. It is deliberately understated.
 
-**On screen.** The anime's broadcast finale, episode 170 *"My Hero Academia,"* ends with Class 1-A's graduation and the last embers of One For All going out. The epilogue itself was adapted as the bonus special **episode 171, *"More,"*** which aired **May 2, 2026**. Horikoshi was heavily involved in the Final Season's production and wrote **new original scenes** that do not appear in the manga.
+**On screen.** The anime's broadcast finale, episode 170 *"My Hero Academia,"* covers chapters 429–430 and closes the main story, ending with the last embers of One For All going out. The eight-years-later epilogue (chapter 431) was adapted as the bonus special **episode 171, *"More,"* numbered 170+1**, which aired **May 2, 2026**. Horikoshi was heavily involved in the Final Season's production and Bones added **new original scenes** not present in the manga.
 
 **What came next.** Horikoshi returned to *Weekly Shōnen Jump* in 2026 with a new one-shot, ***Quit Laughing, Shijima*** (笑わないでよ しじまさん).
 

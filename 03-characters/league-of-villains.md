@@ -22,13 +22,13 @@ Founded by All For One and led by Tomura Shigaraki. Originally a small criminal 
 | **Role** | Leader, League of Villains; Supreme Leader, Paranormal Liberation Front |
 | **Voice (JP)** | Koki Uchiyama |
 | **Voice (EN)** | Eric Vale |
-| **Debut** | Season 1, episode 10 — the U.S.J. attack |
+| **Debut** | Season 1, episode 9 (the U.S.J. attack begins; he and Kurogiri face the class in episodes 9–10) |
 
 The series' primary antagonist — and its most tragic character.
 
-**Origin.** Tenko Shimura was the grandson of **Nana Shimura**, the seventh wielder of One For All and All Might's mentor. Terrified that All For One would target her bloodline, Nana sent her son **Kotaro** away and cut off all contact, asking that he be told she was dead. Kotaro grew up hating her, and hating heroes. He married a woman named Hana, had Tenko, and forbade the boy from becoming a hero — beating him for it, and refusing to acknowledge that Tenko had a Quirk at all.
+**Origin.** Tenko Shimura was the grandson of **Nana Shimura**, the seventh wielder of One For All and All Might's mentor. Terrified that All For One would target her bloodline, Nana sent her son **Kotaro** away and cut off all contact, asking that he be told she was dead. Kotaro grew up hating her, and hating heroes. He married a kind woman named **Nao**, had a daughter **Hana** and then a son, **Tenko** — and forbade the boy from becoming a hero, beating him for it while the rest of the family loved him but never dared intervene. Nao's parents, **Chizuo and Mako Magi**, also lived in the house.
 
-One day, Decay awakened. Tenko decayed his dog. Then his mother. Then his two sisters. Then his father. Then his entire neighbourhood. He was about five years old.
+The final chapters reveal All For One's long hand in the tragedy: he secretly supplied Tenko with a purely destructive Quirk — Decay — and watched for the moment it would break him. When Tenko was five, Decay manifested: his corgi **Mon** first, then Hana as she tried to run, then his mother and grandparents as they reached for him, and finally his father Kotaro, whom he killed deliberately. The house crumbled around him. He wandered the streets for days while every adult looked away; then All For One — who had made sure no one else would reach him — took him in.
 
 He wandered the streets afterwards, scratching at his neck until it bled, because the scratching was the only thing that made the feeling stop. He asked for help. **No one came.**
 
@@ -61,7 +61,7 @@ The oldest and most powerful villain in the series. All For One can **steal any 
 
 He is the direct mirror of One For All: where One For All is power freely given across generations, All For One is power taken from others and hoarded. He treats people as resources and Quirks as inventory.
 
-**History.** In the era when Quirks first appeared, All For One ruled Japan's underworld. His younger brother, **Yoichi Shigaraki**, appeared to be Quirkless — but All For One had *given* him a stockpiling Quirk, as an act of contempt. Yoichi combined that stolen power with his own latent will and passed it on, creating the one Quirk All For One could never steal back. Every subsequent wielder has been fighting the same man.
+**History.** In the era when Quirks first appeared, All For One ruled Japan's underworld. His younger brother, **Yoichi Shigaraki**, appeared to be Quirkless — but he secretly carried a Quirk that could pass itself and its accumulated power to others (Transference). All For One forced a power-stockpiling Quirk onto him as an act of contempt; the two fused into One For All, which Yoichi then passed on, creating the one Quirk All For One could never steal back. Every subsequent wielder has been fighting the same man.
 
 All For One wounded All Might catastrophically in their first battle, destroying most of his stomach and a lung. That single injury is why All Might has a time limit, and therefore why the entire series happens.
 
@@ -91,9 +91,9 @@ He survived. He was comatose for three years, and was rebuilt in a facility run 
 
 His family had already mourned him and moved on. Endeavor had begun abusing Shoto in exactly the same way. Toya accepted his own "death," dyed his hair black, and rebuilt himself as **Dabi** — with the single purpose of destroying Endeavor's reputation rather than his body.
 
-⚠️ **The reveal.** Dabi reveals himself as Toya Todoroki in the **Paranormal Liberation War arc** — manga chapter 290, Season 6, in the episode titled *"Dabi's Dance."* He rides into the battlefield on Gigantomachia's back, washes the dye out of his hair in front of Endeavor and Shoto, and simultaneously broadcasts a pre-recorded confession to every screen in the country. In it he details Endeavor's Quirk marriage, the abuse, and his own supposed death, and confirms his identity with a DNA test performed on Endeavor's blood left over from the Jaku City fight — a 99.99% match.
+⚠️ **The reveal.** Dabi reveals himself as Toya Todoroki in the **Paranormal Liberation War arc** — manga chapter 290, Season 6, in the episode titled *"Dabi's Dance."* He rides into the battlefield on Gigantomachia's back, washes the dye out of his hair in front of Endeavor and Shoto, and simultaneously broadcasts a pre-recorded confession to every screen in the country. In it he details Endeavor's Quirk marriage, the abuse, and his own supposed death, and confirms his identity with a DNA test performed on Endeavor's blood left over from the Hood fight in Kyushu — a 99.99% match.
 
-He also reveals that he **arranged Endeavor's encounters with Hood, Starservant and Ending**, engineering the No. 1 Hero's rise specifically so that the fall would be worth watching.
+He also reveals that he sent Hood to test Endeavor and stayed in contact with villains like Ending, engineering the No. 1 Hero's rise specifically so that the fall would be worth watching.
 
 The broadcast does more damage to hero society than any battle in the series. It is not a fight; it is a press conference.
 
@@ -114,7 +114,7 @@ The broadcast does more damage to hero society than any battle in the series. It
 
 Drinks a person's blood and assumes their appearance — and, later in the series, can use their Quirk while transformed. She fights with knives and is dangerously fast at close range.
 
-**Origin.** Toga was a normal girl whose Quirk made her find blood beautiful. When she showed her parents, they were horrified and told her to suppress it. She was put into therapy and instructed to become someone else — to smile normally, to think normally, to want normal things. She eventually broke, killed a boy she loved, and fled.
+**Origin.** Toga was a normal girl whose Quirk made her find blood beautiful. When she showed her parents, they were horrified and told her to suppress it; she was put into counselling and instructed to become someone else — to smile normally, to think normally, to want normal things. On her middle-school graduation day she snapped, attacked a boy named Saito she had a crush on with a box cutter, and drank his blood through a straw (his survival is never confirmed); she fled and became wanted in a string of blood-loss cases.
 
 She is the series' most explicit argument that **hero society manufactures its villains**. Nothing was wrong with Toga except that no one would let her be what she was.
 
@@ -138,7 +138,7 @@ She is the series' most explicit argument that **hero society manufactures its v
 
 Creates perfect duplicates of anything he can visualise and measure — objects, people, himself. Copies of living things decay after a period, but **copies of Twice can create further copies**, allowing exponential multiplication. He has a hard limit of two active clones of anything at a time, which is why he must measure precisely.
 
-**Origin.** Twice formed a criminal gang. His comrades turned on each other, and he created copies of himself to survive — only to discover afterwards that he could no longer tell which one was the original. He killed them all, including possibly himself. He is left permanently unsure whether he is the real Jin Bubaigawara.
+**Origin.** After an accident left him isolated and jobless, Twice cloned himself for company. His duplicates each insisted *they* were the real Jin; the copies fought, and he "killed them all, possibly including himself." He was left permanently unsure whether he is the original — which is why he cannot make more than two clones at a time and hides under his mask, his only anchor to his identity.
 
 **Character.** He wears a full-body suit and mask, speaks in contradictory double-talk — *"I love you all"* immediately followed by *"get away from me"* — and functions as the League's comic relief. He is also its emotional heart. His devotion to Toga, Dabi and Compress is the only thing that stabilises him.
 
@@ -161,7 +161,7 @@ Compresses anything within a circular area around his arm into a small marble, r
 
 A showman descended from the famous thief **Oji Harima**. Mr. Compress treats villainy as performance and is the League's most composed member. He captures Bakugo during the Forest Training Camp by compressing him into a marble and hiding it in his mouth — the single most effective act of the entire attack.
 
-⚠️ In the Meta Liberation Army arc he drops the act entirely, revealing that the magician persona is a construction built over genuine grief. He loses an arm during the confrontation with Overhaul's transport and later receives a prosthetic.
+His left arm is destroyed by Overhaul when the League ambushes the prisoner transport (he gets his revenge by compressing both of Overhaul's arms off); Giran supplies him a prosthetic. ⚠️ During the Paranormal Liberation War he drops the act entirely: he reveals his face and his lineage as Oji Harima's great-great-grandson, and — pinned by Best Jeanist's cables — compresses his own lower body to free Shigaraki, Spinner and Skeptic, maiming himself to become the League's last escape route. He and Spinner are the only League core members to survive the war's end.
 
 ---
 
@@ -228,7 +228,7 @@ A colossal, near-indestructible creature created by Garaki from multiple combine
 
 ## The Vanguard Action Squad
 
-The nine-member League team that attacks the Forest Training Camp in Season 3. Its objective was to capture Katsuki Bakugo alive; its secondary objective was to harvest Quirks for All For One.
+The squad that attacks the Forest Training Camp in Season 3: nine field members plus Kurogiri on transport. Its primary objective was to capture Katsuki Bakugo alive; its secondary objective was to seize Ragdoll's Search Quirk for All For One.
 
 | Member | Quirk | Fate |
 |---|---|---|
@@ -241,7 +241,7 @@ The nine-member League team that attacks the Forest Training Camp in Season 3. I
 | **Muscular** | Muscle Augmentation | Defeated by Midoriya; imprisoned |
 | **Moonfish** | Blade-Tooth | Defeated; imprisoned |
 | **Mustard** | Gas | Defeated; imprisoned |
-| **Kurogiri** | Warp Gate | Captured |
+| **Kurogiri** | Warp Gate | Transports the squad; **not** at the camp when it ends — captured afterward by Gran Torino and Tsukauchi and held in Tartarus (see Season 5) |
 
 The squad was assembled through **Giran**, a villain broker who also introduced Dabi to the League after Stain's arrest.
 
@@ -263,7 +263,7 @@ Paralyses anyone whose blood he ingests, for a duration proportional to the vict
 
 Stain is the series' first ideological antagonist. His thesis: modern heroes are celebrities motivated by fame and money, and only those willing to sacrifice themselves without reward are legitimate. He was once an admirer of All Might who became convinced that everyone who followed him had missed the point entirely.
 
-He crippled the Pro Hero **Ingenium** — Tenya Iida's older brother — permanently, and kills the Pro Hero **Native** in Hosu City before being stopped. He is defeated by Midoriya, Todoroki and Iida working together, and he **spares Midoriya**, because he judges his motive pure.
+He crippled the Pro Hero **Ingenium** — Tenya Iida's older brother — and is seconds from killing the Pro Hero **Native** in a Hosu alley when the students stop him (Native survives, only to die years later in the Final War). He is defeated by Midoriya, Todoroki and Iida working together, and he **spares Midoriya**, because he judges his motive pure. He is taken alive to Tartarus; he does not escape until the mass Tartarus breakout during the Paranormal Liberation War.
 
 The narrative does not refute him entirely. Many Pro Heroes *are* motivated by money — Mt. Lady says so on camera in episode 1. Stain's manifesto spreads after his arrest and radicalises **Spinner** directly, and much of the subsequent villain population indirectly. The authorities cover up the Hosu Incident and credit Endeavor, which means the state's first response to a coherent critique of heroism is to lie about it.
 
@@ -288,7 +288,7 @@ Leader of the young guard of the **Shie Hassaikai** yakuza group. He has severe 
 | Member | Quirk | Notes |
 |---|---|---|
 | **Shin Nemoto** | Confession | Forces anyone to answer questions truthfully; the group's strategist |
-| **Rikiya Katsukame** | Energy Suck | Absorbs opponents' stamina and vitality |
+| **Rikiya Katsukame** | Vitality Stealing | Absorbs opponents' stamina and vitality through touch |
 | **Toya Setsuno** | Larceny | Steals and relocates objects from a distance |
 | **Yu Hojo** | Crystallize | Grows sharp crystal from his skin |
 | **Soramitsu Tabe** | Food | Eats anything, including metal and concrete |
@@ -298,9 +298,9 @@ Leader of the young guard of the **Shie Hassaikai** yakuza group. He has severe 
 
 Working above them are **Chronostasis** (Hari Kurono), whose clock-hand hair slows whatever it strikes, and **Mimic** (Joi Irinaka), who merges into walls and controls the compound's labyrinth.
 
-**The abuse of Eri.** Overhaul discovered that **Eri's Rewind Quirk** could reverse a body to a prior state. He murdered her repeatedly and rewound her, harvesting her cells to manufacture **Quirk-Destroying Bullets** — weapons that permanently erase a person's Quirk. He told her she was cursed, that her existence hurt people, and that she should not have been born.
+**The abuse of Eri.** Overhaul discovered that **Eri's Rewind Quirk** could reverse a body to a prior state, and that her blood suppressed the Quirk Factor. He disassembled her with his Quirk, collected blood samples, and repaired her — "hundreds, thousands of times" — to manufacture temporary disabling rounds and then permanent **Quirk-Destroying Bullets**. He told her she was cursed, that her existence hurt people, and that she should not have been born.
 
-He is defeated by Midoriya, who fights at **100% Full Cowl sustained indefinitely** — Eri's Rewind, triggered by his blood, undoes his injuries as fast as he inflicts them. Afterwards ⚠️ **Shigaraki destroys both his arms** during the League's interception of his prison transport, which — for a man whose Quirk requires touch — is a fate worse than death.
+He is defeated by Midoriya, who fights at **100% Full Cowl sustained indefinitely** — Eri's Rewind, triggered when she grips his bloodied glove, undoes his injuries as fast as he inflicts them. Afterwards ⚠️ the League intercepts his prison transport: Shigaraki destroys the confiscated Quirk-Destroying Bullets and has **Mr. Compress compress both of Chisaki's arms off** — for a man whose Quirk requires touch, a fate worse than death.
 
 ---
 
@@ -313,7 +313,7 @@ He is defeated by Midoriya, who fights at **100% Full Cowl sustained indefinitel
 | **Voice (JP)** | Koichi Yamadera | Yui Horie |
 | **Voice (EN)** | John Gremillion | Megan Shipman |
 
-A pair of small-time villains who appear in the U.A. School Festival arc. **Gentle** failed the U.A. entrance exam, lost his job and his family, and became a criminal purely for attention — he films his crimes and posts them online, where almost nobody watches. His Quirk lets him make air elastic, which he uses to bounce and to create platforms.
+A pair of small-time villains who appear in the U.A. School Festival arc. **Gentle** repeatedly failed to gain entry to a hero academy, then lost his job and his family after an illegal rescue went wrong, and became a criminal purely for attention — he films his crimes and posts them online, where almost nobody watches. His Quirk, Elasticity, lets him make air (and anything he touches) elastic, which he uses to bounce and to create platforms.
 
 **La Brava** loves him, and her Quirk grants a one-time massive power boost to the person she loves most.
 
@@ -351,9 +351,9 @@ The Army deliberately uses the retro terms "**Meta Abilities**" and "**superpowe
 | **Re-Destro** | Rikiya Yotsubashi | Supreme Commander; CEO of Detnerat | **Stress** — converts accumulated stress into size, strength and durability | Hiroaki Hirata |
 | **Geten** | — | Commander | **Ice** — creates and manipulates ice | Seiichiro Yamashita |
 | **Trumpet** | Koku Hanabata | Commander; leader of the Hearts and Mind Party | **Incite** — amplifies the physical and mental abilities of his followers | Junji Majima |
-| **Skeptic** | Tomoyasu Chikazoku | Commander; board member of Feel Good Inc. | **Anthropomorph** — converts people into data; master hacker | Tomokazu Sugita |
+| **Skeptic** | Tomoyasu Chikazoku | Commander; board member of Feel Good Inc. | **Anthropomorph** — animates inanimate objects (and his giant puppets) into humanoid servants; master hacker and surveillance officer | Tomokazu Sugita |
 | **Curious** | Chitose Kizuki | Commander; executive director of Shoowaysha Publishing | **Landmine** — anything she touches becomes explosive on subsequent contact | Takako Honda |
-| **Slidin' Go** | Tatsuyuki Tokoname | Pro Hero secretly working for the Army | **Overclock** — accelerates his own movements | — |
+| **Slidin' Go** | Tatsuyuki Tokoname | Pro Hero secretly working for the Army | Unnamed sliding Quirk — glides upright across any surface | Takumu Miyazono |
 
 The Army is not a criminal gang. It has a corporate front, a publishing arm, a political party and members embedded across ordinary Japanese life. Its existence is the season's argument that the League of Villains stopped being a threat the moment it acquired an ideology with institutional backing.
 
@@ -369,12 +369,12 @@ Re-Destro — seeing in Shigaraki the perfect embodiment of liberation — **sub
 |---|---|---|
 | **Muscular** (Goto Imatsuji) | Muscle Augmentation | Murdered Kota Izumi's parents, the hero duo **Water Hose**; defeated by Midoriya at 1,000,000% |
 | **Moonfish** | Blade-Tooth | Extends bladed teeth; severely injures Aizawa during the Forest Training Camp |
-| **Mustard** | Gas | Flooded the training camp with sleeping gas; the gas is what drives Dark Shadow berserk |
+| **Mustard** | Gas (unnamed) | Blankets the training grounds in a poisonous, sleep-inducing gas and snipes through it while sensing movement inside the cloud; defeated by Kendo and Tetsutetsu (Dark Shadow's berserk state is caused by the night, not the gas) |
 | **Magne** | Magnetism | Polarises people within a 4.5 m radius; part of the Vanguard Action Squad |
 | **Chronostasis** (Hari Kurono) | Chronostasis | Slows a target by striking them with his clock-hand-shaped hair |
 | **Mimic** (Joi Irinaka) | Mimicry | Merges with and controls the Hassaikai's underground labyrinth |
 | **The Nomu** | Engineered Quirks | Corpses modified by Garaki to obey a single command. **High-End Nomu** are intelligent, self-regenerating, and capable of speech. |
-| **Hood** | High-End Nomu | The Regeneration-type Nomu Endeavor destroys in Jaku City with Hawks' help, Season 5 |
+| **Hood** | High-End Nomu | The Regeneration-type Nomu Dabi sends against Endeavor in Kyushu; destroyed in the Season 4 finale, episodes 87–88, with Hawks' help |
 | **Destro** (Chikara Yotsubashi) | Stress | Historical founder of the Meta Liberation Army; Re-Destro's ancestor |
 
 ---

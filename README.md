@@ -120,7 +120,7 @@ Four generations before the story begins, a glowing baby is born with a superpow
 | Anime debut | April 3, 2016 |
 | Manga conclusion | August 5, 2024 (chapter 430) |
 | Final volume | December 4, 2024 (volume 42, with the 38-page epilogue) |
-| Anime conclusion | December 13, 2025 (episode 170) |
+| Anime conclusion | December 13, 2025 (episode 170); bonus special "More" (episode 170+1), May 2, 2026 |
 
 ### The Central Conflict
 

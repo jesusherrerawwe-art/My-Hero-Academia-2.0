@@ -22,7 +22,7 @@ U.A. employs Pro Heroes as teaching staff across four courses — **Hero**, **Su
 
 The **Symbol of Peace** and, for most of the series, the No. 1 Hero in Japan. All Might is the eighth wielder of **One For All**, inheriting it from his mentor **Nana Shimura**. He held the top rank for years and single-handedly suppressed violent crime across the country — not through policing, but through the psychological effect of his presence.
 
-**The secret.** All Might was grievously wounded in his first battle with **All For One**, losing most of his stomach and a lung. Since then he has been able to maintain his muscular hero form for only a few hours per day — later, only minutes, and by Season 3 only seconds at a time. In his true form he is **Toshinori Yagi**: a skeletal, gaunt man who coughs blood and looks nothing like the hero on every billboard in Japan.
+**The secret.** All Might was grievously wounded in his first battle with **All For One**, roughly five years before the series begins: his stomach was removed in surgery and much of his respiratory system, including a lung, destroyed. Since then he has been able to maintain his muscular hero form for only a few hours per day — later, only minutes, and by Season 3 only seconds at a time. In his true form he is **Toshinori Yagi**: a skeletal, gaunt man who coughs blood and looks nothing like the hero on every billboard in Japan.
 
 This is the structural engine of the entire series. All Might is performing invulnerability. Every smile is an act of maintenance — he smiles so that people will not be afraid.
 
@@ -53,15 +53,15 @@ Aizawa's Quirk nullifies any other Quirk he can see. It does not work on mutatio
 
 **Character.** Aizawa is exhausted, blunt, and openly contemptuous of hero theatrics. He sleeps in a yellow sleeping bag between classes and drinks pouches of jelly instead of eating. He is also, by a considerable margin, the most protective teacher at U.A.
 
-His defining philosophy is **rationality as care**. In episode 4 he administers a Quirk Apprehension Test and threatens to expel whoever places last, revealing afterward that the threat was "a logical deception" — but also revealing that he expelled the entire previous year's Class 1-A for real. He tells Midoriya that a hero who breaks his own body to save one person is useless if he dies doing it.
+His defining philosophy is **rationality as care**. In episode 4 he administers a Quirk Apprehension Test and threatens to expel whoever places last, revealing afterward that the threat was "a logical deception" — but it is later revealed that he once expelled an entire first-year homeroom class, then quietly re-enrolled them once they took his warnings seriously. He tells Midoriya that a hero who breaks his own body to save one person is useless if he dies doing it.
 
 **Backstory.** Aizawa lost his close friend **Oboro Shirakumo** while they were students at U.A.; Shirakumo died in a villain attack, and Aizawa and Hizashi Yamada never recovered from it. Years later, Shirakumo's body was used by Doctor Garaki to create **Kurogiri**, the League of Villains' warp-gate Nomu. Aizawa spends his entire career not knowing this.
 
 ⚠️ In Season 5, episode 107, he and Yamada interrogate Kurogiri in Tartarus and discover the truth. Aizawa breaks down. It is one of the most emotionally devastating sequences in the series, and it exists to make the coming war personal for him specifically.
 
-**Forest Training Camp (Season 3).** He fights Moonfish and the rest of the Vanguard Action Squad alone, through the forest, to keep them away from his students. He is beaten systematically — arms broken, body badly burned and cut — and is hospitalised for weeks. He recovers and returns to teaching.
+**Forest Training Camp (Season 3).** He moves through the forest efficiently neutralising dozens of the Vanguard Action Squad's low-tier villains and clashes twice with Dabi (erasing his fire; the first is a Twice clone). He takes cuts and bruises but is not maimed here, and he is on his feet directing the clean-up afterwards. Moonfish is fought by Bakugo, Todoroki and the berserk Dark Shadow, not by Aizawa.
 
-> ⚠️ **A common misconception.** Aizawa does *not* lose his eye or his leg in Season 3. That happens considerably later, during the **Paranormal Liberation War** (Season 6): Shigaraki strikes him with a Quirk-erasing bullet, Aizawa amputates his own leg to stop the drug spreading, and Shigaraki claws out his right eye. He subsequently uses a prosthetic leg and an eyepatch, and his Erasure is left effectively unusable.
+> ⚠️ **A common misconception.** Aizawa does *not* lose his eye or his leg in Season 3. That happens considerably later, during the **Paranormal Liberation War** (Season 6): a Quirk-Destroying Bullet is about to hit him and he amputates his own **right** leg to stop the drug spreading; Shigaraki then damages his right eye. He subsequently uses a prosthetic right leg and an eyepatch, and retains only **limited** use of Erasure through his remaining eye (the heroes later work around this by having Monoma copy it).
 
 ---
 
@@ -161,7 +161,7 @@ Thirteen's gender is never specified in the series, and the character is written
 | **Voice (JP)** | Etsuko Kozakura |
 | **Voice (EN)** | Juli Erickson (Season 1); Luci Christian (Season 2 onward) |
 
-U.A.'s school nurse. Her Quirk **does not create health** — it accelerates the target's natural healing by transferring her own stamina, which means the patient must have enough energy left to heal, and Recovery Girl cannot cure fatal wounds or regrow limbs. Repeated treatment exhausts the patient as much as the injury does.
+U.A.'s school nurse. Her Quirk **does not create health** — by kissing the injury she stimulates the target's natural healing to work at accelerated speed, but the effect runs on the **patient's own stamina**, not hers. If the patient has no energy left, she cannot heal them, and she cannot regrow limbs or restore what is already gone. Repeated treatment exhausts the patient as much as the injury does.
 
 She is elderly, short-tempered, and the only person at U.A. who regularly scolds All Might to his face. She kisses patients' foreheads to activate Heal, which the students find deeply embarrassing.
 

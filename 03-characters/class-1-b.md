@@ -15,21 +15,21 @@
 | 5 | Juzo Honenuki | Mudman | Softening | June 20 | Masamichi Kitada | Dallas Reid |
 | 6 | Kosei Tsuburaba | — | Solid Air | May 19 | Masakazu Nishida | Aaron Dismuke |
 | 7 | Sen Kaibara | Spiral | Gyrate | June 12 | Masakazu Nishida | Matt Shipman |
-| 8 | Kinoko Komori | Shemage | Mushroom | December 2 | Kei Shindo | — |
+| 8 | Kinoko Komori | Shemage | Mushroom | December 2 | Kei Shindo | Amanda Gish |
 | 9 | Yui Kodai | Rule | Size | December 19 | Yurianne Eve | Madeleine Morris |
 | 10 | Nirengeki Shoda | Mines | Twin Impact | February 2 | Kenta Okuma | — |
 | 11 | Hiryu Rin | Long Weizi | Scales | July 14 | Kosuke Kuwano | Anthony Bowling |
-| 12 | Kojiro Bondo | Plamo | Cemedine | December 23 | Koji Okino | Tyler Walker |
+| 12 | Kojiro Bondo | Plamo | Cemedine | December 23 | Kōsuke Okano | Tyler Walker |
 | 13 | Togaru Kamakiri | Jack Mantis | Razor Sharp | January 7 | Kiyotaka Furushima | Jean-Luc Hester |
-| 14 | Setsuna Tokage | Lizardy | Lizard Tail Splitter | October 13 | Aoi Yuki | Dawn M. Bennett |
+| 14 | Setsuna Tokage | Lizardy | Lizard Tail Splitter | October 13 | Hitomi Nabatame | Dawn M. Bennett |
 | 15 | Jurota Shishida | Gevaudan | Beast | March 26 | Junichi Suwabe | — |
 | 16 | Shihai Kuroiro | Vantablack | Black | November 1 | Kohei Amasaki | Howard Wang |
-| 17 | Reiko Yanagi | Emily | Poltergeist | February 11 | Ayane Sakura | — |
+| 17 | Reiko Yanagi | Emily | Poltergeist | February 11 | Ayane Sakura | Ryan Reynolds |
 | 18 | Pony Tsunotori | Rocketti | Horn Cannon | April 21 | Aoi Yuki | Sarah Wiedenheft |
 | 19 | Manga Fukidashi | Comicman | Comic | February 2 | Kaito Ishikawa | Alex Mai |
 | 20 | Yosetsu Awase | Welder | Weld | November 7 | Yoshitsugu Matsuoka | Orion Pitts |
 
-> **Voice-sharing is normal in this cast.** Several Class 1-B students are voiced by the same actors as Class 1-A: Junichi Suwabe (Shishida / Aizawa), Kaito Ishikawa (Fukidashi / Iida), Ayane Sakura (Yanagi / Uraraka), Kosuke Kuwano (Rin / Aoyama), Kiyotaka Furushima (Kamakiri / Sero), Kei Shindo (Komori / Jiro), Masakazu Nishida (Tsuburaba and Kaibara / Shoji), and Koji Okino (Tetsutetsu / Bondo). Blank English entries are minor roles whose dub credits vary by source.
+> **Voice-sharing is normal in this cast.** Several Class 1-B students are voiced by the same actors as Class 1-A characters: Junichi Suwabe (Shishida / Aizawa), Kaito Ishikawa (Fukidashi / Iida), Ayane Sakura (Yanagi / Uraraka), Kiyotaka Furushima (Kamakiri / Sero and Mustard), Kei Shindo (Komori / Jiro), Masakazu Nishida (Tsuburaba and Kaibara / Shoji), Kohei Amasaki (Kuroiro / Monoma), and Aoi Yūki (Pony / Tsuyu). Aoi Yūki does **not** voice Setsuna Tokage; that is Hitomi Nabatame.
 
 **Class representative:** Itsuka Kendo.
 
@@ -47,11 +47,9 @@ Expands her hands and forearms to enormous size, granting tremendous striking po
 
 Kendo is Class 1-B's representative and its de facto leader — the closest thing the series has to a female counterpart to Tenya Iida, though considerably more relaxed about rules. She is sensible, direct, and physically capable of restraining **Neito Monoma** whenever he starts a fight with Class 1-A, which is often. She karate-chops the back of his neck and drags him away; it is one of the series' most reliable running gags.
 
-She is one of the strongest hand-to-hand fighters among the first-years. In the Sports Festival she reaches the final tournament, and in Joint Training Round 2 she **leads the Class 1-B team to a 4–0 victory** over Yaoyorozu's team — the single most decisive win Class 1-B scores in the entire series, and the moment Monoma's claim that 1-B deserves respect stops being a joke.
+She is one of the strongest hand-to-hand fighters among the first-years. Her class did not reach the tournament in great numbers after the cavalry battle, but in Joint Training Round 2 she **leads the Class 1-B team to a 4–0 victory** over Yaoyorozu's team — the single most decisive win Class 1-B scores in the entire series, and the moment Monoma's claim that 1-B deserves respect stops being a joke.
 
-She later fights in the Paranormal Liberation War and, in the epilogue, becomes a Pro Hero ranked in the national top ten alongside Monoma.
-
-**Trivia.** She and Monoma have known each other since middle school, where she was already managing his behaviour.
+She later fights in the Paranormal Liberation War and becomes a Pro Hero after graduation; the only Class 1-B member shown in the epilogue's top ten is Monoma.
 
 ---
 
@@ -97,7 +95,7 @@ Her hair is composed of living, thorn-covered vines she can extend, entangle, an
 
 Shiozaki is devoutly religious and speaks in a formal, scriptural register, quoting scripture mid-fight. She is among the strongest fighters in Class 1-B: she places **fourth in the Sports Festival obstacle race**, ahead of Honenuki, and defeats Denki Kaminari in the tournament by simply grounding his electricity into the earth.
 
-Her vines have considerable reach and can restrain multiple opponents simultaneously, but she is reluctant to use force and prefers to end conflicts without injury — which the series treats as a genuine strength rather than naivety. In Joint Training Round 1 she captures Kaminari, and is then brainwashed by Shinso, who mimics Hiryu Rin's voice to do it.
+Her vines have considerable reach and can restrain multiple opponents simultaneously, but she is reluctant to use force and prefers to end conflicts without injury — which the series treats as a genuine strength rather than naivety. In Joint Training Round 1 she captures Kirishima and Koda; Kaminari deliberately lets her capture him as a decoy, and Shinso brainwashes her by mimicking Hiryu Rin's voice to set up the turnaround.
 
 She fills the second of the two spots vacated by Ojiro and Shoda at the Sports Festival, after Kendo's team declines them.
 
@@ -111,7 +109,7 @@ Softens any non-living material he touches, turning ground, walls and metal into
 
 Honenuki is a calm, tactical fighter and one of Class 1-B's most strategically valuable members, because his Quirk controls the battlefield itself: he can trap opponents, create cover, or collapse structures. He entered U.A. by recommendation.
 
-He leads the Class 1-B team in **Joint Training Round 3**, against Iida, Todoroki, Ojiro and Shoji. It is the only round of the five that ends in a **draw** — each team captures exactly one opponent before the time limit expires. Honenuki spends most of the match trying to take out Iida, eventually gives up when it becomes clear he cannot, and is caught anyway.
+He leads the Class 1-B team in **Joint Training Round 3**, against Iida, Todoroki, Ojiro and Shoji. It is the only round of the five that ends in a **draw, 1–1**: Iida captures Kaibara for Class 1-A, while Pony captures Todoroki for Class 1-B. Honenuki spends most of the match duelling Iida; at the end he is unconscious, buried under the softened tower he collapses himself — but the time limit expires before he can be jailed, so he is *not* counted as captured.
 
 He is also an outstanding rescue specialist, since softening debris is one of the most useful Quirks imaginable for extracting trapped civilians.
 
@@ -157,7 +155,7 @@ Merges into and travels through darkness, emerging from any shadow. Extremely ef
 His full hero name is **"Scheming Hero: Vantablack."** He is the direct counter to Fumikage Tokoyami: in Round 2 he fights a class containing Dark Shadow, and Class 1-B wins the round **4–0**. Darkness is Kuroiro's home and Tokoyami's hazard.
 
 ### Reiko Yanagi (柳 霊子) — *Emily*
-Manipulates objects telekinetically within a weight limit of roughly two tons. Her pale appearance and deadpan delivery led classmates to compare her to a horror-film ghost, hence the hero name "Emily" — after the character from *The Ring*. She is quiet but formidable in team play, and in Round 5 she uses Poltergeist to throw metal pipes at Uraraka. Uraraka karate-chops her unconscious.
+Manipulates nearby objects telekinetically, her output limited roughly to her own physical strength. Her pale appearance and deadpan delivery led classmates to compare her to a horror-film ghost, hence the hero name "Emily" — a reference to *The Exorcism of Emily Rose*. She is quiet but formidable in team play, and in Round 5 she uses Poltergeist to throw metal pipes at Uraraka before Uraraka overwhelms her with Gunhead Martial Arts.
 
 ### Pony Tsunotori (角取 ポニー) — *Rocketti*
 Grows and fires her horns as projectiles with homing capability, regrowing them afterwards. An American exchange student who speaks limited Japanese, which creates recurring comic misunderstandings. Her horns are strong enough to pierce concrete.

@@ -25,7 +25,7 @@ Anyone who answers Shinso in conversation falls under his complete control until
 
 At the Sports Festival he carries his cavalry team — Nirengeki Shoda, Yuga Aoyama and Mashirao Ojiro — to **third place** by brainwashing rival riders. Before the tournament draw, **Ojiro and Shoda both withdraw**, saying they cannot remember earning their place and refuse to advance on a result produced by someone else's control. Midnight accepts the withdrawals and puts Tetsutetsu and Shiozaki in the open slots.
 
-In the tournament's first match Shinso faces **Midoriya**, who is losing badly until he breaks the brainwash by deliberately snapping his own fingers. Shinso is beaten, and in his exit interview he tells the watching teachers exactly what he thinks of a system that sorts children by Quirk before it ever asks what they want. He is not punished. He is simply refused.
+In the tournament's first match Shinso faces **Midoriya**, who is losing badly until he deliberately channels One For All into one of his fingers and shatters it, jolting himself out of the brainwash. Shinso is beaten, and in his exit interview he tells the watching teachers exactly what he thinks of a system that sorts children by Quirk before it ever asks what they want. He is not punished. He is simply refused.
 
 **Development.** Aizawa takes Shinso on as a personal protégé. Because Brainwashing is useless against a silent opponent, Shinso trains in hand-to-hand combat and learns to use Aizawa's **binding cloth**. **Mei Hatsume** builds him an **Artificial Vocal Cords** mask — also called Persona Cords — which lets him imitate other people's voices, and therefore brainwash people who would never answer *him*.
 
@@ -80,11 +80,11 @@ U.A. is divided into four courses: **Hero**, **Support**, **General Studies** an
 
 A small girl descended from the bloodline of the **Shie Hassaikai** boss — she is his granddaughter. Her Quirk, **Rewind**, reverses a living body to a previous state. It is so powerful that, uncontrolled, it can erase a person from existence entirely.
 
-**Her abuse.** Eri accidentally rewound her own father out of existence as a toddler. **Overhaul** discovered what she could do, told her she was cursed, that her existence hurt people, and that she should not have been born — and then **murdered her repeatedly and rewound her body** to harvest her cells for Quirk-Destroying Bullets.
+**Her abuse.** Eri's Quirk first manifested when she accidentally rewound her own father out of existence as a toddler, after which her Hassaikai grandfather fell ill and Kai Chisaki took over. **Overhaul** discovered that her blood suppressed the Quirk Factor; he told her she was cursed, that her existence hurt people, and that she should not have been born — and then disassembled her with his Quirk, took blood samples, and repaired her thousands of times to manufacture Quirk-Destroying Bullets.
 
 She escaped once. She ran into Midoriya in the street and begged him to put her back, because she believed she deserved to go back. Midoriya let Overhaul take her. He does not forgive himself for it, and neither does the narrative.
 
-**The rescue.** During the raid, Eri screams and activates Rewind on Midoriya as he is being destroyed by his own power at 100% Full Cowl. Her Rewind undoes his injuries as fast as he inflicts them, which is what allows him to defeat Overhaul. She is placed in U.A.'s care afterward, with a device on her horn to suppress Rewind, and slowly begins to recover: she smiles, she laughs, she asks to attend the School Festival. Her first genuine smile is one of the most emotionally effective moments in Season 4.
+**The rescue.** During the raid, Eri screams and activates Rewind on Midoriya as he is being destroyed by his own power at 100% Full Cowl. Her Rewind undoes his injuries as fast as he inflicts them, which is what allows him to defeat Overhaul. She is placed in U.A.'s care afterward, with Aizawa (her appointed guardian) erasing her Quirk whenever it surges while she trains to control it on bugs and lizards; she slowly recovers, smiling and laughing for the first time at the School Festival. Six months later her trained control restores Mirio's lost Permeation.
 
 ⚠️ **Later.** Eri eventually masters Rewind well enough to restore **Mirio Togata's** lost Quirk — closing the arc that began with his sacrifice for her. She is also, structurally, the most important non-combatant in the series: her Quirk is the only thing in the world that can undo what All For One does.
 
@@ -134,8 +134,8 @@ Midoriya keeps the truth from her for almost the entire series. When she finally
 | **Enji Todoroki** | Endeavor; father | August 8 | Tetsu Inada | See [Pro Heroes](pro-heroes.md) |
 | **Rei Todoroki** | Mother | — | Michiko Neya | Married for her ice Quirk; driven to a breakdown; poured boiling water on Shoto's face; hospitalised for years |
 | **Toya Todoroki** | Eldest son | January 18 | Hiro Shimono (as Dabi) | Presumed dead in a mountain fire; ⚠️ became **Dabi** |
-| **Fuyumi Todoroki** | Eldest daughter | December 6 | Kei Shindo | A teacher; the family's peacemaker; organises the family dinner in Season 5 |
-| **Natsuo Todoroki** | Younger son | July 1 | Yuuki Shin | Refuses to forgive Endeavor; the family's most openly angry member |
+| **Fuyumi Todoroki** | Eldest daughter | December 6 | Kei Shindo (EN: Kate Oxley) | A teacher; the family's peacemaker; organises the family dinner in Season 5 |
+| **Natsuo Todoroki** | Younger son | July 1 | Yuuki Shin (EN: Adam Gibbs) | Refuses to forgive Endeavor; the family's most openly angry member |
 | **Shoto Todoroki** | Youngest son | January 11 | Yuki Kaji | See [Class 1-A](class-1-a.md) |
 
 The Todoroki household is the series' central case study in inherited harm. Endeavor built Shoto deliberately, destroyed Toya accidentally, and drove Rei insane. Horikoshi never allows the family to reconcile fully — the damage is permanent, and the best available outcome is that they stop making it worse.
@@ -146,7 +146,7 @@ Season 5's Christmas dinner is the family's first meal together in years. Nobody
 
 ### The Iida Family
 
-**Tensei Iida / Ingenium** (born July 22) — Tenya's older brother, a Pro Hero crippled permanently by the Hero Killer Stain. He survives but can no longer walk or work as a hero. Tenya's entire Season 2 arc is driven by grief and rage over this, and by the fact that his brother never wanted revenge.
+**Tensei Iida / Ingenium** (born July 22) — Tenya's older brother, a Pro Hero paralysed from the waist down and forced into early retirement by the Hero Killer Stain. He survives, and by the aftermath of the Final War regains the ability to walk using prosthetic legs built over his engines. Tenya's entire Season 2 arc is driven by grief and rage over this, and by the fact that his brother never wanted revenge.
 
 Tensei is warm where Tenya is rigid, and the series uses the contrast to show what Tenya is at risk of becoming. Tenya eventually inherits the Ingenium name — but chooses it deliberately, on his own terms, rather than receiving it.
 
@@ -184,9 +184,9 @@ The discovery, in Season 5 episode 107, is one of the most emotionally devastati
 | **Voice (JP)** | Tokuyoshi Kawashima |
 | **Voice (EN)** | Alejandro Saab |
 
-A police detective whose Quirk lets him detect lies with perfect accuracy — he can tell instantly whether a statement is true, false, or something the speaker believes but is mistaken about. The Quirk's cost is that he cannot lie either, which makes him bad at small talk and excellent at his job.
+A police detective whose lie-detector Quirk lets him tell instantly whether a statement is true, false, or something the speaker merely believes but is mistaken about. He is All Might's closest friend among the authorities and one of the very few people who knows the truth about One For All from early in the series, and he functions as the story's connection to normal law enforcement.
 
-He is All Might's closest friend among the authorities and one of the very few people who knows the truth about One For All from early in the series. He functions as the story's connection to normal law enforcement — and as a reminder that heroes operate within a legal system that does not always approve of them. It is Tsukauchi who arranges the cover-up of the Hosu Incident, and who explains to Midoriya why three unlicensed students cannot be prosecuted for saving a life.
+The cover-up of the Hosu Incident is decided by his superior, the canine chief of police **Kenji Tsuragamae** — who warns that unlicensed students using their Quirks would normally cost them their future licences, then credits Endeavor publicly to protect them; Tsukauchi handles the investigation and explains the law to the students.
 
 ---
 
@@ -196,10 +196,10 @@ The **vestiges** — personality imprints stored inside One For All — become a
 
 | # | User | Quirk contributed | Voice (JP) | Notes |
 |---|---|---|---|---|
-| **1st** | **Yoichi Shigaraki** | The stockpile that became One For All | Soichiro Hoshi | All For One's younger brother. Born apparently Quirkless; given a stockpiling Quirk by his brother as an act of contempt, which he then combined with his own will to create One For All. |
-| **2nd** | Unnamed | **Gearshift** | Daisuke Ono | Alters the speed and trajectory of whatever it touches |
-| **3rd** | Unnamed | **Fa Jin** | Ryota Suzuki | Stores kinetic energy from repeated movement and releases it explosively |
-| **4th** | **Hikage Shinomori** | **Danger Sense** | Toshiyuki Morikawa | Detects hostile intent. Spent his life hiding in the mountains to avoid All For One, and died of old age without ever fighting him. |
+| **1st** | **Yoichi Shigaraki** | **Transference** (fused with the stockpiling Quirk) | Soichiro Hoshi | All For One's younger brother. Born apparently Quirkless, he secretly carried a Quirk that passes itself on; his brother forced a power-stockpiling Quirk onto him, and the two fused into One For All. |
+| **2nd** | **Kudo** | **Gearshift** | Daisuke Ono | Alters the speed and trajectory of whatever it touches; once led the resistance against All For One |
+| **3rd** | **Bruce** | **Fa Jin** | Ryota Suzuki | Stores kinetic energy from repeated movement and releases it explosively |
+| **4th** | **Hikage Shinomori** | **Danger Sense** | Toshiyuki Morikawa | Detects hostile intent. Hid alone in the mountains for eighteen years to preserve One For All; the Quirk's cumulative strain aged his body to death at forty. |
 | **5th** | **Daigoro Banjo** | **Blackwhip** | Hiroki Yasumoto | Dark energy tendrils controlled by willpower; the first vestige Midoriya accesses |
 | **6th** | **En** | **Smokescreen** | Tetsuya Kakihara | Generates obscuring smoke |
 | **7th** | **Nana Shimura** | **Float** | Mie Sonozaki | All Might's mentor. Abandoned her family to protect them from All For One — which is how her grandson became Tomura Shigaraki. |

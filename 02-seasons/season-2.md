@@ -59,7 +59,7 @@ The top 42 finishers advance.
 
 #### Stage Two — Cavalry Battle (eps. 17–18)
 
-Teams of four, one designated rider, thirty minutes. Each rider wears a headband worth their obstacle-race points — and **Midoriya, in first place, wears a 10,000,000-point headband**, making him the target of every team on the field.
+Teams of four, one designated rider, fifteen minutes. Each rider wears a headband worth their obstacle-race points — and **Midoriya, in first place, wears a 10,000,000-point headband**, making him the target of every team on the field.
 
 The four teams that advance:
 
@@ -74,7 +74,7 @@ The four teams that advance:
 
 Hitoshi Shinso's **Brainwash** Quirk — which activates whenever someone answers him — takes control of several riders and puts his team into third. When the brainwashed students come to, **Ojiro and Shoda voluntarily withdraw** from the tournament, refusing to advance on a result they cannot remember earning. Two spots open; Kendo's team declines them, and **Tetsutetsu Tetsutetsu and Ibara Shiozaki** fill in.
 
-In the closing seconds Midoriya breaks free of Shinso's brainwash by biting through his own finger, and Dark Shadow snatches a 615-point headband from Todoroki's team. **Team Midoriya finishes fourth** on that stolen headband — advancing by the narrowest margin possible. Midoriya does *not* win the cavalry battle.
+In the closing seconds Midoriya breaks free of Shinso's brainwash by deliberately channeling One For All into a finger and shattering it, and Dark Shadow snatches the 615-point headband from Todoroki's team. **Team Midoriya finishes fourth** on that stolen headband — advancing by the narrowest margin possible. Midoriya does *not* win the cavalry battle.
 
 > **The decisive moment.** As Todoroki begins to unleash his fire side at Midoriya, he stops — and Midoriya shouts at him: *"It's your power, not his!"* Todoroki's hesitation costs his team the match. It is also the first crack in the wall he has spent his whole life building.
 
@@ -84,10 +84,10 @@ A sixteen-person single-elimination bracket.
 
 | Round | Match | Result |
 |---|---|---|
-| 1 | Midoriya vs. Shinso | **Midoriya** — breaks his own finger to snap out of the brainwash, then out-thinks Shinso |
+| 1 | Midoriya vs. Shinso | **Midoriya** — deliberately breaks one of his own fingers with One For All to jolt himself out of the brainwash, then out-thinks Shinso |
 | 1 | Todoroki vs. Sero | **Todoroki** — a colossal ice wall, ended almost instantly |
 | 1 | Iida vs. Mei Hatsume | **Iida** — Hatsume deliberately showcases her gear so support companies notice her, then forfeits the fight |
-| 1 | Kirishima vs. Tetsutetsu | **Draw** — both knocked out; Kirishima advances on the tiebreaker round |
+| 1 | Kirishima vs. Tetsutetsu | **Draw** — both knocked out; Kirishima wins an immediate arm-wrestling tiebreaker to take the bracket slot |
 | 1 | Bakugo vs. Uraraka | **Bakugo** — Uraraka's improvised meteor strategy (touching debris to float it) earns the crowd's respect |
 | 1 | Tokoyami vs. Yaoyorozu | **Tokoyami** — Dark Shadow is at its strongest in low light |
 | 1 | Ashido vs. Aoyama | **Ashido** — her acid dissolves Aoyama's navel laser |
@@ -117,13 +117,13 @@ The top-performing students receive work-study offers from professional agencies
 | Izuku Midoriya | **Deku** — reclaimed from Bakugo's insult; Uraraka points out it can also read as *"I can do it"* |
 | Shoto Todoroki | Shoto (refuses to use a name connected to Endeavor) |
 | Ochaco Uraraka | **Uravity** |
-| Tenya Iida | **Ingenium** — taking his brother's name |
+| Tenya Iida | **Tenya** — he declines to take his brother's name at the ceremony; he first declares himself *Ingenium* while facing Stain |
 | Kyoka Jiro | **Earphone Jack** |
 | Momo Yaoyorozu | **Creati** |
 | Fumikage Tokoyami | **Tsukuyomi** |
 | Eijiro Kirishima | **Red Riot** — after the hero Crimson Riot he idolises |
 | Tsuyu Asui | **Froppy** |
-| Mina Ashido | **Alien Queen** |
+| Mina Ashido | **Alien Queen** — Midnight rejects it as too villainous; she settles on **Pinky** |
 | Denki Kaminari | **Chargebolt** |
 | Hanta Sero | **Cellophane** |
 | Mashirao Ojiro | **Tailman** |
@@ -133,9 +133,9 @@ The top-performing students receive work-study offers from professional agencies
 | Toru Hagakure | **Invisible Girl** |
 | Yuga Aoyama | **Shining Hero: Can't Stop Twinkling** |
 | Minoru Mineta | **Grape Juice** |
-| Katsuki Bakugo | **Dynamight** — the name is rejected on the spot for sounding like "villain," so he keeps using his own |
+| Katsuki Bakugo | **King Explosion Murder**, then **Lord Explosion Murder** — Midnight rejects both on the spot, so he leaves without a hero name |
 
-Bakugo's rejected hero name is one of the series' better jokes — and the name he eventually settles on, *Dynamight*, is not adopted until much later.
+Bakugo's rejected hero names are one of the series' better jokes. He keeps his eventual choice secret for years; **Great Explosion Murder God Dynamight** is not revealed to anyone until the Paranormal Liberation War, when he gives the name to Best Jeanist (manga chapter 293).
 
 ---
 
@@ -153,13 +153,13 @@ Midoriya treats One For All as a weapon he fires from a single limb, which is wh
 
 **Chizome Akaguro**, the Hero Killer **Stain**, has been murdering professional heroes across Japan. His argument is explicit and, within the story, not entirely indefensible: modern heroes are motivated by money and fame rather than selflessness, and only All Might represents the genuine article. Everyone else is a "fake" who must be purged.
 
-His Quirk, **Bloodcurdle**, paralyses anyone whose blood he ingests — duration scaled to blood type. Stain has already crippled **Tensei Iida**, the Pro Hero Ingenium and Tenya Iida's older brother, leaving him permanently unable to walk.
+His Quirk, **Bloodcurdle**, paralyses anyone whose blood he ingests — duration scaled to blood type (type O recovers fastest, type AB slowest). Stain has already crippled **Tensei Iida**, the Pro Hero Ingenium and Tenya Iida's older brother, leaving him paralysed and forced into retirement (he regains limited movement with prosthetic legs only after the Final War).
 
 #### The Hosu Incident (eps. 29–31)
 
 Tenya Iida takes a work-study with the Pro Hero Manual in Hosu City specifically to find Stain. Midoriya, travelling with Gran Torino, works out what Iida is doing and goes after him.
 
-- Stain corners the Pro Hero **Native** in an alley and kills him.
+- Stain corners the Pro Hero **Native** in an alley and is on the verge of killing him when Iida intervenes. Native survives the encounter (he dies years later in the Paranormal Liberation War).
 - Iida arrives to avenge his brother and is cut down within seconds. Midoriya saves him.
 - Todoroki arrives, having independently deduced Iida's intentions from his behaviour at the festival.
 - The three fight Stain together. **Midoriya uses Full Cowl in real combat for the first time**, moving at speed without destroying his body. Iida uses Recipro Burst to pin him. Todoroki immobilises him with alternating fire and ice.
@@ -170,7 +170,7 @@ Tenya Iida takes a work-study with the Pro Hero Manual in Hosu City specifically
 
 Under normal law, three unlicensed students who engaged a serial killer would face prosecution and lose any chance of a hero licence. The authorities suppress the incident entirely and publicly credit **Endeavor** with Stain's capture. Endeavor accepts the credit and tells Shoto he wants to talk.
 
-Stain later escapes custody — but not before his ideology spreads. Copycats and sympathisers appear across Japan, and **the League of Villains recruits directly from that pool.** The Hosu Incident is the beginning of villainy as a mass movement.
+Stain does not escape. He is imprisoned in **Tartarus**, Japan's maximum-security villain prison (he only gets out during the mass Tartarus breakout years later, in Season 6). But his ideology spreads anyway: footage and testimony leak, copycats and sympathisers appear across Japan, and **the League of Villains recruits directly from that pool.** The Hosu Incident is the beginning of villainy as a mass movement.
 
 ---
 
@@ -199,7 +199,7 @@ Rather than a written test, U.A. administers a practical final: each pair of stu
 | Minoru Mineta & Hanta Sero | Midnight | **Mineta passes; Sero fails** |
 | Izuku Midoriya & Katsuki Bakugo | All Might | Both pass |
 
-**Five students fail** — Sato, Kirishima, Ashido, Kaminari and Sero — and must attend a remedial training camp over summer break. This is precisely why the Season 3 training camp matters to them personally.
+**Five students fail** — Sato, Kirishima, Ashido, Kaminari and Sero. Aizawa nevertheless takes the *whole* class to the summer training camp, dryly noting that the students who failed the practical are the ones who need it most — which is exactly how they are present when the League attacks in Season 3.
 
 **Nezu's lesson.** Ashido and Kaminari fail because Nezu, the principal, out-thinks them completely — he is a Quirk-enhanced animal with genius-level intellect, and he traps them in a maze they cannot escape. The failure is not about power; it is about the limits of brute force.
 
@@ -207,7 +207,7 @@ Rather than a written test, U.A. administers a practical final: each pair of stu
 
 **Midoriya and Bakugo vs. All Might (ep. 37).** All Might fights them at full strength with no weighted braces and nearly kills them. They win only by working together for the first time in their lives — Bakugo creating the opening, Midoriya exploiting it, and both escaping the dome together.
 
-**The revelation (ep. 38).** After the exam, Midoriya goes to see Gran Torino. Bakugo pieces together what he has always refused to believe: **All Might gave Midoriya his power.** The season ends with Bakugo confronting Midoriya in the hallway. His reaction is not relief or acceptance but something close to horror — the realisation that everything he told himself about Midoriya, for ten years, was wrong.
+**Episode 38, "Encounter."** After the exams, Midoriya and his classmates visit a shopping mall, where **Shigaraki** corners him alone and talks to him about heroes and villains — the season's unsettling final note. Bakugo does not learn the truth about One For All here; that confrontation does not happen until Season 3, episodes 60–61.
 
 ---
 
@@ -219,11 +219,11 @@ Rather than a written test, U.A. administers a practical final: each pair of stu
 | **Sekijiro Kan / Vlad King** | Class 1-B homeroom teacher | Ep. 14 |
 | **Hitoshi Shinso** | General Studies student; Brainwashing; the season's breakout character | Ep. 15 |
 | **Mei Hatsume** | Support Course student; inventor | Ep. 15 |
-| **Rei Todoroki · Fuyumi Todoroki** | Shoto's mother and sister | Ep. 19 |
+| **Rei Todoroki** | Shoto's mother | Ep. 19 |
 | **Tensei Iida / Ingenium** | Tenya's older brother, crippled by Stain | Ep. 24 |
 | **Gran Torino (Sorahiko Torino)** | All Might's former mentor | Ep. 27 |
 | **Chizome Akaguro / Stain** | The Hero Killer | Ep. 28 |
-| **Native** | Pro Hero killed by Stain in Hosu | Ep. 29 |
+| **Native** | Pro Hero Stain intends to execute in Hosu; the students save him | Ep. 29 |
 | **Manual (Masaki Mizushima)** | Pro Hero; Iida's internship supervisor | Ep. 27 |
 | **Nana Shimura** | Seventh holder of One For All; All Might's mentor (named in flashback) | Ep. 33 |
 
@@ -273,11 +273,11 @@ Midoriya chooses **Deku** as his hero name, taking the word Bakugo used as a slu
 ## Production Notes
 
 - **Opening themes:**
-  - "Peace Sign" — **Kenshi Yonezu** (eps. 14–25)
-  - "Sora ni Utaeba" — **amazarashi** (eps. 26–38)
+  - "Peace Sign" — **Kenshi Yonezu** (eps. 14–26)
+  - "Sora ni Utaeba" — **amazarashi** (eps. 27–38)
 - **Ending themes:**
-  - "Dakara, Hitori ja Nai" — **Little Glee Monster** (eps. 14–25)
-  - "Datte Atashi no Hero." — **LiSA** (eps. 26–38)
+  - "Dakara, Hitori ja Nai" — **Little Glee Monster** (eps. 14–26)
+  - "Datte Atashi no Hero." — **LiSA** (eps. 27–38)
 - "Peace Sign" became an international hit largely on the strength of its opening sequence, and is widely credited with driving the series' Western audience growth in 2017.
 - LiSA's ending theme title is a pun — *Datte Atashi no Hero* ("Because you're my hero") — and LiSA was the biggest name attached to the franchise at this point.
 - The Todoroki vs. Bakugo final (ep. 25) was among the most heavily animated sequences of 2017 television anime, and the "It's your power, not his!" episode (23) is regularly cited as the season's best.

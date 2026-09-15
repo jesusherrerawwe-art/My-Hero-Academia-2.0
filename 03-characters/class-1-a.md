@@ -51,11 +51,11 @@ All Might chooses him not for talent but for one specific act: charging a sludge
 |---|---|---|
 | **Full Cowl** | Season 2, with Gran Torino | Circulates One For All through the whole body at a low percentage constantly, instead of firing it from one limb |
 | **Shoot Style** | Season 3 | Focuses power in the legs to spare his repeatedly shattered arms |
-| **Iron Soles** | Season 3 | Support-item shoes enabling full-power kicks |
-| **Delaware Detroit Air Force** | Season 4 | A compressed air-pressure punch fired at range |
-| **Blackwhip** | Season 5 | Dark tendrils from the 5th user, Daigoro Banjo |
+| **Iron Soles** | Season 3 (Costume γ, built by Hatsume) | Reinforced shoes for full-power kicks, paired with Shoot Style |
+| **Air Force Gloves** | Season 4 (built by Hatsume) | Gloves that fire compressed-air projectiles at range: the **Delaware Smash Air Force** |
+| **Blackwhip** | Season 5 (Joint Training, Round 5) | Dark tendrils from the 5th user, Daigoro Banjo — the *first* additional Quirk to manifest |
 
-By Season 5, One For All has accumulated enough power to grant Midoriya access to **six Quirks** belonging to previous holders, each stronger in his hands than it was in theirs:
+By the end of the story, One For All has accumulated enough power to grant Midoriya access to **six additional Quirks** belonging to previous holders (only Blackwhip manifests during Season 5; the others surface in Season 6 and the final war), each stronger in his hands than it was in theirs:
 
 | Quirk | Holder | Function |
 |---|---|---|
@@ -89,13 +89,13 @@ For most of the series Bakugo is the closest thing the protagonist has to an ant
 | **Cluster** | Chains small explosions to accelerate mid-air |
 | **Stun Grenade** | A blinding close-range detonation |
 
-**Character arc.** Bakugo's development is the slowest and hardest-won in the series. He is kidnapped by the League of Villains and refuses to turn, which nearly costs him his life and — because All Might dies saving him publicly — costs him the country's goodwill. He learns the truth about One For All at the end of Season 2 and does not fully accept it until Season 3, episodes 59–61, when All Might explains everything to his face and Bakugo breaks down.
+**Character arc.** Bakugo's development is the slowest and hardest-won in the series. He is kidnapped by the League of Villains and refuses to turn, which nearly costs him his life and — because All Might burns out his remaining power rescuing him, on live television — costs him the country's goodwill. He never learns the truth in Season 2: that happens in **Season 3, episodes 60–61, *"Deku vs. Kacchan, Part 2"* at Ground Beta**, where All Might explains everything and Bakugo breaks down.
 
 He and Todoroki are the two students who **fail the Provisional Hero Licence Exam** on conduct grounds, and both are made to retrain under Gang Orca. In the Joint Training arc (Season 5) he fights with a team for the first time without treating them as obstacles, and afterwards tells them, flatly, that they did well.
 
 By the series' end he has become Midoriya's most reliable ally and the person who most consistently refuses to let him sacrifice himself. He apologises to Midoriya for years of abuse — a moment the series treats as genuine but insufficient, and not as a resolution.
 
-**Trivia.** Bakugo writes "Great Explosion Murder God Dynamight" on the board during the hero-naming exercise in Season 2. **Midnight rejects it** as sounding like a villain name, and Bakugo storms off without settling on anything. He does not officially register the shortened form **Dynamight** until very late in the series.
+**Trivia.** At the Season 2 hero-naming exercise Bakugo proposes **"King Explosion Murder"** (then, when rejected, "Lord Explosion Murder"); **Midnight rejects both** as villain names and he leaves without registering anything. He keeps his eventual choice secret for years: **Great Explosion Murder God: Dynamight**, first revealed to Best Jeanist during the Paranormal Liberation War (manga chapter 293).
 
 ---
 
@@ -145,9 +145,8 @@ His technique develops across the series:
 
 | Technique | Description |
 |---|---|
-| **Recipro** | A high-gear burst of speed for short distances |
-| **Recipro Burst** | A three-minute maximum-output sprint, first used against Todoroki in the Sports Festival semi-final |
-| **Recipro Turbo** | A refined version developed for the Joint Training; lasts roughly ten minutes and approaches Gran Torino's speed |
+| **Recipro Burst** | A maximum-output sprint lasting only **ten seconds**, first used in the Sports Festival cavalry battle to steal the 10-million-point headband; afterwards the engines stall |
+| **Recipro Turbo** | A refined family technique, developed for the Joint Training Match 3 (ep. 95): his new mufflers let Recipro run for **ten minutes** at speeds said to surpass Gran Torino's |
 
 He later inherits the Ingenium name, though the series is careful to show that he carries it with ambivalence rather than pride. He is one of the two students tied for third at the Sports Festival, alongside Tokoyami.
 
@@ -165,7 +164,7 @@ He is Bakugo's closest friend and the person who most consistently reaches him e
 
 In Season 4 he takes a work-study with **Fat Gum** in Osaka and fights **Kendo Rappa**, holding a machine-gun-speed puncher off long enough for Fat Gum to win. It is the moment Kirishima stops performing bravery and starts having it.
 
-He is also one of the five students who **fail the Season 2 final exams** (paired with Sato against Cementoss) and must attend the remedial summer camp.
+He is also one of the five students who **fail the Season 2 final exams** (paired with Sato against Cementoss), which does not exclude him from the summer training camp — Aizawa simply insists the failures need it most.
 
 ---
 
@@ -201,9 +200,9 @@ She takes a work-study with **Ryukyu** alongside Uraraka, and is one of the most
 
 Hosts a sentient shadow entity named **Dark Shadow**, which becomes vastly more powerful — and far less controllable — in darkness. In bright light it is small and manageable; in total darkness it can grow large enough to level buildings, and it has its own will.
 
-Tokoyami is theatrical, speaks in an archaic register, and is deeply devoted to his classmates. His Quirk is one of the most dangerous in Class 1-A precisely because of that autonomy: during the Forest Training Camp, Dark Shadow goes berserk in the dark and Tokoyami nearly kills his own friends, requiring Mezo Shoji and others to restrain him.
+Tokoyami is theatrical, speaks in an archaic register, and is deeply devoted to his classmates. His Quirk is one of the most dangerous in Class 1-A precisely because of that autonomy: during the Forest Training Camp, Dark Shadow goes berserk in the night (after Moonfish cripples Shoji's tentacle) and is only brought back under control when Shoji shields him and Bakugo and Todoroki generate enough light to shrink the shadow.
 
-He learns to master it through the series, developing techniques including **Black Abyss** (wearing Dark Shadow as armour) and **Black Ira** (a concentrated blast). He ties for third place at the U.A. Sports Festival with Iida, and in the Joint Training arc he is on the Class 1-A team that loses 4–0 to Class 1-B — where **Kuroiro's** darkness manipulation proves a direct counter to his own.
+He learns to master it through the series, developing techniques including **Black Abyss** (wearing Dark Shadow as armour), **Black Fallen Angel** (flight, carrying him through the air), **Ragnarök** (full darkness release) and **Light of Baldur** (a Black-Abyss-powered punch), the latter boosted by Inasa's wind in the final war. He ties for third place at the U.A. Sports Festival with Iida, and in Joint Training Round 2 he is on the Class 1-A team that loses 4–0 to Class 1-B — where **Kuroiro's** darkness manipulation proves a direct counter to his own.
 
 ---
 
@@ -227,9 +226,9 @@ She is one of the students who passes the Final Exams (paired with Koda against 
 
 Generates and discharges electricity. His critical weakness: exceeding his wattage limit fries his own brain, leaving him in a vacant, thumbs-up-making state he calls "**wheeey**."
 
-Kaminari is the class clown and self-professed ladies' man, and one of its weakest fighters early on — he loses to Ibara Shiozaki in the Sports Festival tournament because her vines simply ground his electricity into the earth. He develops a support item that lets him **direct** his discharge precisely rather than omnidirectionally, which transforms him from a liability into a ranged specialist.
+Kaminari is the class clown and self-professed ladies' man, and one of its weakest fighters early on — he loses to Ibara Shiozaki in the Sports Festival tournament because her vines simply ground his electricity into the earth. He develops Sharpshooting Gear that lets him **direct** his discharge precisely rather than omnidirectionally, which transforms him from a liability into a ranged specialist.
 
-He **fails the Final Exams** alongside Ashido, beaten not by strength but by Principal Nezu's intellect. In the Joint Training arc he is captured by Shiozaki in Round 1 — but his role in Team Todoroki's cavalry-battle victory in Season 2 is one of the few times his raw output decides a match.
+He **fails the Final Exams** alongside Ashido, beaten not by strength but by Principal Nezu's intellect. In Joint Training Round 1 he deliberately lets Shiozaki capture him as a decoy so Shinso can brainwash her, and is freed when his side wins — the two 1-A students who remain captured in that round are Koda and Kirishima. His raw output was also crucial to Team Todoroki's cavalry-battle victory in Season 2.
 
 ---
 
@@ -241,7 +240,7 @@ Secretes corrosive liquid from her skin with variable potency and viscosity; her
 
 Ashido is energetic, athletic, and the class's best dancer. She **fails the Final Exams** with Kaminari and has among the lowest academic grades in Class 1-A, yet she is one of its most emotionally perceptive students — she is frequently the first to notice when a classmate is in trouble, and she dances in the School Festival performance.
 
-In the Joint Training arc she is part of Midoriya's Round 5 team and captures Nirengeki Shoda to complete Class 1-A's 4–0 win.
+In the Joint Training arc she is part of Midoriya's Round 5 team and, with Mineta, takes Nirengeki Shoda out of the 4–0 win.
 
 ---
 
@@ -253,7 +252,7 @@ Dispenses strong, elastic cellophane-like tape from dispensers in his elbows. Ex
 
 Sero is easygoing and functions as the class's informal mediator; he is usually the one who defuses tension between Bakugo and everyone else. Tactically he is one of the most useful support fighters in Class 1-A, though he rarely takes centre stage.
 
-He is one of the five students who **fail the Final Exams** — paired with Mineta against Midnight, he is put to sleep while Mineta, immune to her aromas for unrelated reasons, passes.
+He is one of the five students who **fail the Final Exams** — paired with Mineta against Midnight, he is caught by her sleep gas after pushing Mineta out of the way, while Mineta turns the tables on Midnight with his balls and escapes the gate alone.
 
 ---
 
@@ -341,7 +340,7 @@ Mineta is short — at 108 cm he is by far the smallest student in U.A. — cowa
 
 He is also one of the few students who never improves significantly, which Horikoshi uses to ask an uncomfortable question: what happens when a person with no heroic qualities ends up in a heroic environment anyway?
 
-In Joint Training Round 5 his Pop Off traps capture Yui Kodai, completing Class 1-A's 4–0 win.
+In Joint Training Round 5 he and Mina handle Nirengeki Shoda, while Uraraka subdues Monoma, Yanagi and Kodai, completing Class 1-A's 4–0 win.
 
 ---
 
@@ -349,7 +348,7 @@ In Joint Training Round 5 his Pop Off traps capture Yui Kodai, completing Class 
 
 The class is defined less by its individual members than by the fact that **it is repeatedly attacked**. The U.S.J., the Forest Training Camp, the Bakugo kidnapping, the Kamino Ward incident, and eventually the Paranormal Liberation War all target Class 1-A specifically. Monoma's constant complaint in Class 1-B — that 1-A only receives attention because villains keep attacking them — is substantially correct, and the series lets him be right.
 
-Being housed together in the **Heights Alliance** dorms from Season 3 onward turns them from a class into something closer to a family. The dorm-room competition in episode 55 is played for comedy, but it is also the point at which the series stops treating Class 1-A as a roster and starts treating it as a household.
+Being housed together in the **Heights Alliance** dorms from Season 3 onward turns them from a class into something closer to a family. The dorm-room competition in episode 52 (*"Create Those Ultimate Moves"*) is played for comedy, but it is also the point at which the series stops treating Class 1-A as a roster and starts treating it as a household.
 
 ---
 

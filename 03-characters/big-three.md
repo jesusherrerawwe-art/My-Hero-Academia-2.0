@@ -34,7 +34,7 @@ During the raid on the Shie Hassaikai, Mirio fights **Overhaul** alone in a corr
 
 He is the strongest student in U.A., and he gives up everything he built over three years for a girl he met that morning. When Midoriya asks him afterwards whether he regrets it, Mirio says no, and means it.
 
-**Afterwards.** Mirio does not retire. He continues his hero training without a Quirk, works out relentlessly, and remains an operational member of the war effort on physical skill alone. He eventually **regains Permeation when Eri masters Rewind** — closing the arc that began with his sacrifice for her. In the series' epilogue he is the **No. 1 Hero in Japan**.
+**Afterwards.** Mirio does not retire. He continues his hero training without a Quirk, works out relentlessly, and even turns down Midoriya's offer to pass him One For All. Roughly six months later, during the **Paranormal Liberation War** (manga chapter 363, *"Light Fades to Rain"*), Eri — having trained Rewind on bugs and lizards — restores Permeation, and Mirio returns to the battlefield at Jaku. In the series' epilogue he is the **No. 1 Hero in Japan**.
 
 **Trivia.** His hero name "Lemillion" is a deliberate pun on *le million* — the man who will save a million people. He chose it as a promise rather than a boast, and the season in which he loses everything is the season in which he keeps it.
 
