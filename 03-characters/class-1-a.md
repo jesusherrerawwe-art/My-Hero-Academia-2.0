@@ -348,7 +348,7 @@ In Joint Training Round 5 he and Mina handle Nirengeki Shoda, while Uraraka subd
 
 The class is defined less by its individual members than by the fact that **it is repeatedly attacked**. The U.S.J., the Forest Training Camp, the Bakugo kidnapping, the Kamino Ward incident, and eventually the Paranormal Liberation War all target Class 1-A specifically. Monoma's constant complaint in Class 1-B — that 1-A only receives attention because villains keep attacking them — is substantially correct, and the series lets him be right.
 
-Being housed together in the **Heights Alliance** dorms from Season 3 onward turns them from a class into something closer to a family. The dorm-room competition in episode 52 (*"Create Those Ultimate Moves"*) is played for comedy, but it is also the point at which the series stops treating Class 1-A as a roster and starts treating it as a household.
+Being housed together in the **Heights Alliance** dorms from Season 3 onward turns them from a class into something closer to a family. The dorm-room "Best Room" contest in episode 51 (*"Moving into Dorms"*) is played for comedy, but it is also the point at which the series stops treating Class 1-A as a roster and starts treating it as a household.
 
 ---
 

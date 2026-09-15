@@ -167,7 +167,7 @@ All errors found were corrected **in place**. This file is the log of what was w
 - Kaminari: Round 1 capture sequence corrected (decoy, freed; Koda/Kirishima are the two who stay captured).
 - Sero's exam failure corrected (caught after saving Mineta; Mineta not "immune for unrelated reasons").
 - Round 5 capture duties corrected (Uraraka handles Monoma/Yanagi/Kodai; Mina & Mineta handle Shoda).
-- Dorm contest episode 55 → **episode 52**.
+- Dorm contest episode 55 → **episode 51, "Moving into Dorms"** (ep. 52 is Gym Gamma ultimate-move training; verified via Fandom ep. 51/52 pages after a brief 52 mislabel — the audit overcorrected once and was re-verified).
 - Kirishima's "remedial summer camp" wording removed.
 
 ### `03-characters/class-1-b.md`
