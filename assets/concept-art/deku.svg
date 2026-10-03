@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Izuku Midoriya concept art</title>
+  <desc id="desc">Stylized concept art of Izuku Midoriya in a heroic pose with a soft green and gray palette.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#eef4f3"/>
+      <stop offset="100%" stop-color="#cfe0dc"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#d6fff1" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#d6fff1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="900" fill="url(#bg)"/>
+  <circle cx="450" cy="260" r="260" fill="url(#glow)"/>
+  <g transform="translate(240 120)">
+    <ellipse cx="210" cy="710" rx="170" ry="40" fill="#7c9b99" opacity="0.2"/>
+    <path d="M150 120 L208 78 L267 120 L267 325 L150 325 Z" fill="#dfe9e6"/>
+    <path d="M178 120 L208 94 L238 120 L238 325 L178 325 Z" fill="#b7c9c2"/>
+    <circle cx="208" cy="94" r="58" fill="#e5d6c4"/>
+    <path d="M160 190 Q208 140 255 190 L262 250 L156 250 Z" fill="#e2dbd2"/>
+    <path d="M163 250 Q190 230 208 230 Q226 230 255 250 L270 430 L146 430 Z" fill="#d7ded9"/>
+    <path d="M167 250 L122 350 L152 430 L198 360 L208 430 L227 360 L272 430 L300 350 L260 250 Z" fill="#d7ded9"/>
+    <path d="M165 265 L103 330 L68 420 L125 428 L170 350 Z" fill="#c5d3d0"/>
+    <path d="M250 265 L311 331 L347 420 L289 428 L245 350 Z" fill="#c5d3d0"/>
+    <path d="M182 420 L150 530 L192 530 L208 462 L223 530 L267 530 L238 420 Z" fill="#d5e5dc"/>
+    <path d="M175 290 L120 258 L86 294 L132 330 Z" fill="#b7d7c7"/>
+    <path d="M240 290 L295 258 L330 294 L284 330 Z" fill="#b7d7c7"/>
+    <path d="M152 98 Q183 76 210 98 Q232 76 260 98" fill="none" stroke="#3b5a52" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="179" cy="96" r="4" fill="#2f465f"/>
+    <circle cx="236" cy="96" r="4" fill="#2f465f"/>
+    <path d="M198 110 Q208 122 219 110" fill="none" stroke="#2f465f" stroke-width="5" stroke-linecap="round"/>
+    <path d="M92 310 C142 250 165 244 208 244 C248 244 280 246 332 314" fill="none" stroke="#7ecfb8" stroke-width="12" stroke-linecap="round" opacity="0.8"/>
+  </g>
+</svg>
