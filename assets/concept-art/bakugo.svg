@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Bakugo concept art</title>
+  <desc id="desc">Stylized concept art of Katsuki Bakugo with fiery red energy and a dominant pose.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#170d12"/>
+      <stop offset="100%" stop-color="#2c1121"/>
+    </linearGradient>
+    <radialGradient id="fire" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#ffec99"/>
+      <stop offset="25%" stop-color="#ffb24d"/>
+      <stop offset="70%" stop-color="#ff5a36"/>
+      <stop offset="100%" stop-color="#ff2d55" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="900" fill="url(#bg2)"/>
+  <circle cx="450" cy="240" r="280" fill="url(#fire)" opacity="0.9"/>
+  <g transform="translate(180 90)">
+    <ellipse cx="270" cy="740" rx="190" ry="50" fill="#ff4b2b" opacity="0.18"/>
+    <path d="M350 120 Q290 80 235 120 L160 300 L170 500 L230 580 L310 580 L370 500 L390 300 Z" fill="#4a1b22"/>
+    <path d="M156 305 L216 250 L270 300 L280 500 L170 500 Z" fill="#f0d7d5"/>
+    <path d="M332 305 L391 250 L446 300 L441 500 L318 500 Z" fill="#f0d7d5"/>
+    <path d="M210 350 L260 430 L302 430 L315 500 L174 500 L160 390 Z" fill="#ebc3b8"/>
+    <path d="M332 350 L381 430 L424 430 L436 500 L295 500 L286 390 Z" fill="#ebc3b8"/>
+    <circle cx="270" cy="180" r="70" fill="#f0d6c2"/>
+    <path d="M212 152 Q270 95 327 152" fill="none" stroke="#2e1d1c" stroke-width="18" stroke-linecap="round"/>
+    <path d="M211 182 Q260 142 310 181" fill="none" stroke="#f4d0b2" stroke-width="14" stroke-linecap="round" opacity="0.85"/>
+    <circle cx="245" cy="184" r="6" fill="#22131d"/>
+    <circle cx="295" cy="184" r="6" fill="#22131d"/>
+    <path d="M246 218 Q270 234 294 218" fill="none" stroke="#22131d" stroke-width="6" stroke-linecap="round"/>
+    <path d="M105 310 Q92 420 125 458" fill="none" stroke="#ff7d41" stroke-width="18" stroke-linecap="round"/>
+    <path d="M435 310 Q448 420 414 458" fill="none" stroke="#ff7d41" stroke-width="18" stroke-linecap="round"/>
+    <circle cx="216" cy="116" r="24" fill="#ffba5a" opacity="0.8"/>
+    <circle cx="326" cy="116" r="24" fill="#ffba5a" opacity="0.8"/>
+    <path d="M150 600 L90 720 L182 720 L220 620 Z" fill="#f96c52"/>
+    <path d="M395 600 L454 720 L362 720 L324 620 Z" fill="#f96c52"/>
+    <path d="M250 520 L215 640 L285 640 L320 520 Z" fill="#f6d1af"/>
+    <path d="M265 520 L310 640 L375 640 L350 520 Z" fill="#f6d1af"/>
+  </g>
+</svg>
